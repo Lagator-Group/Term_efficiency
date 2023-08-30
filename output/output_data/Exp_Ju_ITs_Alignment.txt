@@ -1,0 +1,5113 @@
+RID: E9PFMPE9114	
+Job Title:47 sequences (Eco1)				
+Program: BLASTN 
+			            
+Subject #1:308_+ ID: lcl|Query_98196 Length: 38
+Subject #2:5076_+ ID: lcl|Query_98197 Length: 47
+Subject #3:9229_+ ID: lcl|Query_98198 Length: 44
+Subject #4:9891_- ID: lcl|Query_98199 Length: 34
+Subject #5:9921_+ ID: lcl|Query_98200 Length: 36
+Subject #6:14142_+ ID: lcl|Query_98201 Length: 54
+Subject #7:16149_- ID: lcl|Query_98202 Length: 36
+Subject #8:18696_+ ID: lcl|Query_98203 Length: 38
+Subject #9:20764_- ID: lcl|Query_98204 Length: 43
+Subject #10:27282_+ ID: lcl|Query_98205 Length: 36
+Subject #11:28256_+ ID: lcl|Query_98206 Length: 56
+Subject #12:29276_+ ID: lcl|Query_98207 Length: 41
+Subject #13:34117_+ ID: lcl|Query_98208 Length: 38
+Subject #14:34830_+ ID: lcl|Query_98209 Length: 41
+Subject #15:49729_+ ID: lcl|Query_98210 Length: 54
+Subject #16:50322_- ID: lcl|Query_98211 Length: 54
+Subject #17:53259_- ID: lcl|Query_98212 Length: 38
+Subject #18:58242_+ ID: lcl|Query_98213 Length: 50
+Subject #19:59610_- ID: lcl|Query_98214 Length: 34
+Subject #20:67348_- ID: lcl|Query_98215 Length: 56
+Subject #21:67410_+ ID: lcl|Query_98216 Length: 28
+Subject #22:77593_+ ID: lcl|Query_98217 Length: 39
+Subject #23:78815_- ID: lcl|Query_98218 Length: 36
+Subject #24:83571_- ID: lcl|Query_98219 Length: 34
+Subject #25:85362_+ ID: lcl|Query_98220 Length: 50
+Subject #26:89080_+ ID: lcl|Query_98221 Length: 48
+Subject #27:107551_+ ID: lcl|Query_98222 Length: 40
+Subject #28:111030_+ ID: lcl|Query_98223 Length: 34
+Subject #29:111471_- ID: lcl|Query_98224 Length: 48
+Subject #30:114526_+ ID: lcl|Query_98225 Length: 46
+Subject #31:117709_- ID: lcl|Query_98226 Length: 49
+Subject #32:120138_- ID: lcl|Query_98227 Length: 41
+Subject #33:120173_+ ID: lcl|Query_98228 Length: 41
+Subject #34:122940_+ ID: lcl|Query_98229 Length: 40
+Subject #35:123792_+ ID: lcl|Query_98230 Length: 37
+Subject #36:129396_+ ID: lcl|Query_98231 Length: 37
+Subject #37:134278_+ ID: lcl|Query_98232 Length: 46
+Subject #38:134752_- ID: lcl|Query_98233 Length: 44
+Subject #39:134786_+ ID: lcl|Query_98234 Length: 44
+Subject #40:138648_- ID: lcl|Query_98235 Length: 38
+Subject #41:138678_+ ID: lcl|Query_98236 Length: 52
+Subject #42:141972_- ID: lcl|Query_98237 Length: 39
+Subject #43:142003_+ ID: lcl|Query_98238 Length: 56
+Subject #44:146275_- ID: lcl|Query_98239 Length: 41
+Subject #45:147904_- ID: lcl|Query_98240 Length: 47
+Subject #46:147943_+ ID: lcl|Query_98241 Length: 47
+Subject #47:160096_- ID: lcl|Query_98242 Length: 37
+Subject #48:160125_+ ID: lcl|Query_98243 Length: 37
+Subject #49:167309_+ ID: lcl|Query_98244 Length: 43
+Subject #50:169764_+ ID: lcl|Query_98245 Length: 36
+Subject #51:173427_- ID: lcl|Query_98246 Length: 49
+Subject #52:176994_+ ID: lcl|Query_98247 Length: 43
+Subject #53:178420_- ID: lcl|Query_98248 Length: 35
+Subject #54:182347_+ ID: lcl|Query_98249 Length: 44
+Subject #55:183648_- ID: lcl|Query_98250 Length: 56
+Subject #56:185086_- ID: lcl|Query_98251 Length: 37
+Subject #57:188683_- ID: lcl|Query_98252 Length: 34
+Subject #58:190799_+ ID: lcl|Query_98253 Length: 50
+Subject #59:191745_+ ID: lcl|Query_98254 Length: 38
+Subject #60:193489_+ ID: lcl|Query_98255 Length: 53
+Subject #61:202063_+ ID: lcl|Query_98256 Length: 54
+Subject #62:203408_+ ID: lcl|Query_98257 Length: 51
+Subject #63:209625_+ ID: lcl|Query_98258 Length: 34
+Subject #64:213630_- ID: lcl|Query_98259 Length: 49
+Subject #65:216093_+ ID: lcl|Query_98260 Length: 46
+Subject #66:217019_- ID: lcl|Query_98261 Length: 50
+Subject #67:220051_- ID: lcl|Query_98262 Length: 40
+Subject #68:225345_+ ID: lcl|Query_98263 Length: 34
+Subject #69:229043_+ ID: lcl|Query_98264 Length: 36
+Subject #70:229895_- ID: lcl|Query_98265 Length: 50
+Subject #71:230004_+ ID: lcl|Query_98266 Length: 38
+Subject #72:232550_- ID: lcl|Query_98267 Length: 37
+Subject #73:232585_+ ID: lcl|Query_98268 Length: 37
+Subject #74:235486_- ID: lcl|Query_98269 Length: 58
+Subject #75:237068_+ ID: lcl|Query_98270 Length: 39
+Subject #76:239352_- ID: lcl|Query_98271 Length: 37
+Subject #77:240826_- ID: lcl|Query_98272 Length: 34
+Subject #78:240855_+ ID: lcl|Query_98273 Length: 51
+Subject #79:246130_- ID: lcl|Query_98274 Length: 42
+Subject #80:248340_+ ID: lcl|Query_98275 Length: 28
+Subject #81:254209_- ID: lcl|Query_98276 Length: 50
+Subject #82:256470_+ ID: lcl|Query_98277 Length: 41
+Subject #83:259041_+ ID: lcl|Query_98278 Length: 53
+Subject #84:262823_+ ID: lcl|Query_98279 Length: 52
+Subject #85:265562_- ID: lcl|Query_98280 Length: 44
+Subject #86:265598_+ ID: lcl|Query_98281 Length: 44
+Subject #87:285220_+ ID: lcl|Query_98282 Length: 44
+Subject #88:292285_- ID: lcl|Query_98283 Length: 48
+Subject #89:292317_+ ID: lcl|Query_98284 Length: 37
+Subject #90:303649_+ ID: lcl|Query_98285 Length: 37
+Subject #91:312285_- ID: lcl|Query_98286 Length: 55
+Subject #92:318633_- ID: lcl|Query_98287 Length: 58
+Subject #93:324603_+ ID: lcl|Query_98288 Length: 53
+Subject #94:325477_- ID: lcl|Query_98289 Length: 61
+Subject #95:331542_+ ID: lcl|Query_98290 Length: 48
+Subject #96:333521_+ ID: lcl|Query_98291 Length: 53
+Subject #97:342572_+ ID: lcl|Query_98292 Length: 46
+Subject #98:344012_+ ID: lcl|Query_98293 Length: 54
+Subject #99:345511_- ID: lcl|Query_98294 Length: 40
+Subject #100:346857_+ ID: lcl|Query_98295 Length: 48
+Subject #101:357596_+ ID: lcl|Query_98296 Length: 40
+Subject #102:377525_+ ID: lcl|Query_98297 Length: 46
+Subject #103:378387_- ID: lcl|Query_98298 Length: 41
+Subject #104:380034_- ID: lcl|Query_98299 Length: 38
+Subject #105:388690_- ID: lcl|Query_98300 Length: 50
+Subject #106:394490_+ ID: lcl|Query_98301 Length: 46
+Subject #107:395081_- ID: lcl|Query_98302 Length: 53
+Subject #108:399050_+ ID: lcl|Query_98303 Length: 44
+Subject #109:399789_- ID: lcl|Query_98304 Length: 45
+Subject #110:401848_+ ID: lcl|Query_98305 Length: 54
+Subject #111:403649_+ ID: lcl|Query_98306 Length: 44
+Subject #112:404780_- ID: lcl|Query_98307 Length: 47
+Subject #113:407206_+ ID: lcl|Query_98308 Length: 59
+Subject #114:408495_+ ID: lcl|Query_98309 Length: 39
+Subject #115:409050_- ID: lcl|Query_98310 Length: 53
+Subject #116:409093_+ ID: lcl|Query_98311 Length: 49
+Subject #117:412226_- ID: lcl|Query_98312 Length: 45
+Subject #118:419236_+ ID: lcl|Query_98313 Length: 40
+Subject #119:420925_- ID: lcl|Query_98314 Length: 44
+Subject #120:420961_+ ID: lcl|Query_98315 Length: 44
+Subject #121:422409_+ ID: lcl|Query_98316 Length: 47
+Subject #122:427789_+ ID: lcl|Query_98317 Length: 47
+Subject #123:430527_+ ID: lcl|Query_98318 Length: 36
+Subject #124:430962_- ID: lcl|Query_98319 Length: 55
+Subject #125:431030_- ID: lcl|Query_98320 Length: 56
+Subject #126:431125_+ ID: lcl|Query_98321 Length: 37
+Subject #127:432277_- ID: lcl|Query_98322 Length: 38
+Subject #128:435608_+ ID: lcl|Query_98323 Length: 49
+Subject #129:437115_- ID: lcl|Query_98324 Length: 58
+Subject #130:443004_- ID: lcl|Query_98325 Length: 54
+Subject #131:443039_+ ID: lcl|Query_98326 Length: 58
+Subject #132:445327_+ ID: lcl|Query_98327 Length: 49
+Subject #133:446773_- ID: lcl|Query_98328 Length: 34
+Subject #134:452011_- ID: lcl|Query_98329 Length: 49
+Subject #135:454867_+ ID: lcl|Query_98330 Length: 34
+Subject #136:456495_+ ID: lcl|Query_98331 Length: 40
+Subject #137:458758_+ ID: lcl|Query_98332 Length: 41
+Subject #138:461309_+ ID: lcl|Query_98333 Length: 46
+Subject #139:461784_+ ID: lcl|Query_98334 Length: 42
+Subject #140:463858_+ ID: lcl|Query_98335 Length: 34
+Subject #141:464371_+ ID: lcl|Query_98336 Length: 41
+Subject #142:464806_- ID: lcl|Query_98337 Length: 51
+Subject #143:464841_+ ID: lcl|Query_98338 Length: 51
+Subject #144:468270_+ ID: lcl|Query_98339 Length: 34
+Subject #145:472484_+ ID: lcl|Query_98340 Length: 40
+Subject #146:474262_- ID: lcl|Query_98341 Length: 43
+Subject #147:474299_+ ID: lcl|Query_98342 Length: 41
+Subject #148:475987_+ ID: lcl|Query_98343 Length: 53
+Subject #149:478737_- ID: lcl|Query_98344 Length: 57
+Subject #150:481213_- ID: lcl|Query_98345 Length: 36
+Subject #151:489902_- ID: lcl|Query_98346 Length: 37
+Subject #152:489933_+ ID: lcl|Query_98347 Length: 37
+Subject #153:492044_+ ID: lcl|Query_98348 Length: 57
+Subject #154:495041_+ ID: lcl|Query_98349 Length: 48
+Subject #155:497032_+ ID: lcl|Query_98350 Length: 57
+Subject #156:497939_+ ID: lcl|Query_98351 Length: 38
+Subject #157:503438_- ID: lcl|Query_98352 Length: 43
+Subject #158:506569_- ID: lcl|Query_98353 Length: 40
+Subject #159:506670_+ ID: lcl|Query_98354 Length: 54
+Subject #160:507196_- ID: lcl|Query_98355 Length: 45
+Subject #161:508579_- ID: lcl|Query_98356 Length: 56
+Subject #162:514319_- ID: lcl|Query_98357 Length: 54
+Subject #163:517317_- ID: lcl|Query_98358 Length: 43
+Subject #164:517362_- ID: lcl|Query_98359 Length: 42
+Subject #165:517400_+ ID: lcl|Query_98360 Length: 52
+Subject #166:522874_+ ID: lcl|Query_98361 Length: 56
+Subject #167:533861_+ ID: lcl|Query_98362 Length: 34
+Subject #168:537511_+ ID: lcl|Query_98363 Length: 44
+Subject #169:540547_+ ID: lcl|Query_98364 Length: 41
+Subject #170:543111_+ ID: lcl|Query_98365 Length: 52
+Subject #171:543191_- ID: lcl|Query_98366 Length: 36
+Subject #172:553872_- ID: lcl|Query_98367 Length: 47
+Subject #173:556036_+ ID: lcl|Query_98368 Length: 56
+Subject #174:556626_- ID: lcl|Query_98369 Length: 38
+Subject #175:564715_- ID: lcl|Query_98370 Length: 31
+Subject #176:568708_+ ID: lcl|Query_98371 Length: 42
+Subject #177:572349_+ ID: lcl|Query_98372 Length: 45
+Subject #178:574366_- ID: lcl|Query_98373 Length: 34
+Subject #179:574476_- ID: lcl|Query_98374 Length: 50
+Subject #180:578443_- ID: lcl|Query_98375 Length: 45
+Subject #181:584631_- ID: lcl|Query_98376 Length: 59
+Subject #182:584668_+ ID: lcl|Query_98377 Length: 61
+Subject #183:603374_- ID: lcl|Query_98378 Length: 49
+Subject #184:603413_+ ID: lcl|Query_98379 Length: 43
+Subject #185:604738_- ID: lcl|Query_98380 Length: 34
+Subject #186:608769_- ID: lcl|Query_98381 Length: 36
+Subject #187:618089_+ ID: lcl|Query_98382 Length: 49
+Subject #188:623507_- ID: lcl|Query_98383 Length: 50
+Subject #189:637773_- ID: lcl|Query_98384 Length: 52
+Subject #190:639666_+ ID: lcl|Query_98385 Length: 36
+Subject #191:641343_- ID: lcl|Query_98386 Length: 42
+Subject #192:641378_+ ID: lcl|Query_98387 Length: 42
+Subject #193:641386_- ID: lcl|Query_98388 Length: 44
+Subject #194:644017_- ID: lcl|Query_98389 Length: 39
+Subject #195:645051_- ID: lcl|Query_98390 Length: 44
+Subject #196:654546_- ID: lcl|Query_98391 Length: 49
+Subject #197:654579_+ ID: lcl|Query_98392 Length: 39
+Subject #198:657517_- ID: lcl|Query_98393 Length: 35
+Subject #199:657548_+ ID: lcl|Query_98394 Length: 35
+Subject #200:659189_- ID: lcl|Query_98395 Length: 34
+Subject #201:659221_+ ID: lcl|Query_98396 Length: 51
+Subject #202:661596_- ID: lcl|Query_98397 Length: 42
+Subject #203:662338_- ID: lcl|Query_98398 Length: 41
+Subject #204:662671_- ID: lcl|Query_98399 Length: 56
+Subject #205:671541_- ID: lcl|Query_98400 Length: 54
+Subject #206:675562_+ ID: lcl|Query_98401 Length: 48
+Subject #207:683423_- ID: lcl|Query_98402 Length: 52
+Subject #208:684493_- ID: lcl|Query_98403 Length: 42
+Subject #209:686682_- ID: lcl|Query_98404 Length: 44
+Subject #210:689296_- ID: lcl|Query_98405 Length: 47
+Subject #211:693498_- ID: lcl|Query_98406 Length: 39
+Subject #212:696396_- ID: lcl|Query_98407 Length: 34
+Subject #213:696427_+ ID: lcl|Query_98408 Length: 34
+Subject #214:697471_- ID: lcl|Query_98409 Length: 48
+Subject #215:699420_- ID: lcl|Query_98410 Length: 60
+Subject #216:705968_+ ID: lcl|Query_98411 Length: 43
+Subject #217:707981_+ ID: lcl|Query_98412 Length: 35
+Subject #218:710155_- ID: lcl|Query_98413 Length: 34
+Subject #219:711982_- ID: lcl|Query_98414 Length: 57
+Subject #220:715243_+ ID: lcl|Query_98415 Length: 36
+Subject #221:716902_- ID: lcl|Query_98416 Length: 36
+Subject #222:720990_- ID: lcl|Query_98417 Length: 42
+Subject #223:729394_+ ID: lcl|Query_98418 Length: 38
+Subject #224:753129_- ID: lcl|Query_98419 Length: 44
+Subject #225:758487_+ ID: lcl|Query_98420 Length: 51
+Subject #226:765063_- ID: lcl|Query_98421 Length: 50
+Subject #227:765148_+ ID: lcl|Query_98422 Length: 50
+Subject #228:774372_+ ID: lcl|Query_98423 Length: 44
+Subject #229:774648_+ ID: lcl|Query_98424 Length: 40
+Subject #230:779673_+ ID: lcl|Query_98425 Length: 46
+Subject #231:780434_+ ID: lcl|Query_98426 Length: 55
+Subject #232:781685_+ ID: lcl|Query_98427 Length: 35
+Subject #233:781809_- ID: lcl|Query_98428 Length: 33
+Subject #234:783840_- ID: lcl|Query_98429 Length: 60
+Subject #235:783942_+ ID: lcl|Query_98430 Length: 52
+Subject #236:784890_- ID: lcl|Query_98431 Length: 36
+Subject #237:786791_- ID: lcl|Query_98432 Length: 37
+Subject #238:786824_+ ID: lcl|Query_98433 Length: 43
+Subject #239:787768_- ID: lcl|Query_98434 Length: 33
+Subject #240:792262_- ID: lcl|Query_98435 Length: 60
+Subject #241:794954_+ ID: lcl|Query_98436 Length: 40
+Subject #242:797514_- ID: lcl|Query_98437 Length: 46
+Subject #243:797717_+ ID: lcl|Query_98438 Length: 32
+Subject #244:799588_- ID: lcl|Query_98439 Length: 57
+Subject #245:799621_+ ID: lcl|Query_98440 Length: 47
+Subject #246:807396_- ID: lcl|Query_98441 Length: 43
+Subject #247:815579_- ID: lcl|Query_98442 Length: 43
+Subject #248:815826_+ ID: lcl|Query_98443 Length: 53
+Subject #249:819789_+ ID: lcl|Query_98444 Length: 43
+Subject #250:820631_+ ID: lcl|Query_98445 Length: 37
+Subject #251:824939_- ID: lcl|Query_98446 Length: 45
+Subject #252:825079_+ ID: lcl|Query_98447 Length: 43
+Subject #253:836250_+ ID: lcl|Query_98448 Length: 42
+Subject #254:837435_- ID: lcl|Query_98449 Length: 38
+Subject #255:837469_+ ID: lcl|Query_98450 Length: 38
+Subject #256:837624_+ ID: lcl|Query_98451 Length: 48
+Subject #257:839244_+ ID: lcl|Query_98452 Length: 34
+Subject #258:843165_- ID: lcl|Query_98453 Length: 48
+Subject #259:845560_- ID: lcl|Query_98454 Length: 40
+Subject #260:847199_- ID: lcl|Query_98455 Length: 37
+Subject #261:848340_- ID: lcl|Query_98456 Length: 37
+Subject #262:849166_- ID: lcl|Query_98457 Length: 46
+Subject #263:850979_- ID: lcl|Query_98458 Length: 36
+Subject #264:851010_+ ID: lcl|Query_98459 Length: 34
+Subject #265:854776_- ID: lcl|Query_98460 Length: 37
+Subject #266:854807_+ ID: lcl|Query_98461 Length: 35
+Subject #267:857718_+ ID: lcl|Query_98462 Length: 60
+Subject #268:859180_- ID: lcl|Query_98463 Length: 37
+Subject #269:864282_- ID: lcl|Query_98464 Length: 61
+Subject #270:870013_- ID: lcl|Query_98465 Length: 26
+Subject #271:875492_- ID: lcl|Query_98466 Length: 29
+Subject #272:876670_- ID: lcl|Query_98467 Length: 46
+Subject #273:878664_+ ID: lcl|Query_98468 Length: 41
+Subject #274:879774_- ID: lcl|Query_98469 Length: 58
+Subject #275:881931_- ID: lcl|Query_98470 Length: 52
+Subject #276:881972_+ ID: lcl|Query_98471 Length: 49
+Subject #277:884903_- ID: lcl|Query_98472 Length: 43
+Subject #278:887976_- ID: lcl|Query_98473 Length: 45
+Subject #279:890462_- ID: lcl|Query_98474 Length: 51
+Subject #280:890490_+ ID: lcl|Query_98475 Length: 49
+Subject #281:892640_+ ID: lcl|Query_98476 Length: 52
+Subject #282:893478_+ ID: lcl|Query_98477 Length: 49
+Subject #283:900690_- ID: lcl|Query_98478 Length: 43
+Subject #284:903891_- ID: lcl|Query_98479 Length: 45
+Subject #285:911141_- ID: lcl|Query_98480 Length: 42
+Subject #286:913923_- ID: lcl|Query_98481 Length: 59
+Subject #287:915312_- ID: lcl|Query_98482 Length: 37
+Subject #288:917982_- ID: lcl|Query_98483 Length: 42
+Subject #289:918208_+ ID: lcl|Query_98484 Length: 34
+Subject #290:922302_- ID: lcl|Query_98485 Length: 37
+Subject #291:922335_+ ID: lcl|Query_98486 Length: 37
+Subject #292:925598_+ ID: lcl|Query_98487 Length: 48
+Subject #293:925843_- ID: lcl|Query_98488 Length: 36
+Subject #294:926158_- ID: lcl|Query_98489 Length: 33
+Subject #295:931022_- ID: lcl|Query_98490 Length: 49
+Subject #296:933176_+ ID: lcl|Query_98491 Length: 48
+Subject #297:940766_+ ID: lcl|Query_98492 Length: 34
+Subject #298:944900_- ID: lcl|Query_98493 Length: 44
+Subject #299:944928_+ ID: lcl|Query_98494 Length: 38
+Subject #300:947067_+ ID: lcl|Query_98495 Length: 52
+Subject #301:948804_+ ID: lcl|Query_98496 Length: 52
+Subject #302:950297_- ID: lcl|Query_98497 Length: 46
+Subject #303:950332_+ ID: lcl|Query_98498 Length: 46
+Subject #304:951203_- ID: lcl|Query_98499 Length: 57
+Subject #305:954793_- ID: lcl|Query_98500 Length: 39
+Subject #306:958786_+ ID: lcl|Query_98501 Length: 37
+Subject #307:960164_+ ID: lcl|Query_98502 Length: 35
+Subject #308:961070_+ ID: lcl|Query_98503 Length: 39
+Subject #309:963776_+ ID: lcl|Query_98504 Length: 40
+Subject #310:964164_+ ID: lcl|Query_98505 Length: 33
+Subject #311:969406_+ ID: lcl|Query_98506 Length: 48
+Subject #312:971644_+ ID: lcl|Query_98507 Length: 50
+Subject #313:972496_- ID: lcl|Query_98508 Length: 53
+Subject #314:980816_+ ID: lcl|Query_98509 Length: 38
+Subject #315:984355_- ID: lcl|Query_98510 Length: 60
+Subject #316:984478_- ID: lcl|Query_98511 Length: 36
+Subject #317:984506_+ ID: lcl|Query_98512 Length: 49
+Subject #318:985839_- ID: lcl|Query_98513 Length: 34
+Subject #319:987544_- ID: lcl|Query_98514 Length: 40
+Subject #320:989120_- ID: lcl|Query_98515 Length: 36
+Subject #321:993275_+ ID: lcl|Query_98516 Length: 46
+Subject #322:998465_+ ID: lcl|Query_98517 Length: 47
+Subject #323:1015514_+ ID: lcl|Query_98518 Length: 47
+Subject #324:1015896_- ID: lcl|Query_98519 Length: 33
+Subject #325:1015926_+ ID: lcl|Query_98520 Length: 41
+Subject #326:1018970_- ID: lcl|Query_98521 Length: 51
+Subject #327:1018998_+ ID: lcl|Query_98522 Length: 34
+Subject #328:1021947_+ ID: lcl|Query_98523 Length: 51
+Subject #329:1026524_- ID: lcl|Query_98524 Length: 55
+Subject #330:1026554_+ ID: lcl|Query_98525 Length: 38
+Subject #331:1028357_- ID: lcl|Query_98526 Length: 50
+Subject #332:1028396_+ ID: lcl|Query_98527 Length: 50
+Subject #333:1028475_+ ID: lcl|Query_98528 Length: 48
+Subject #334:1030252_- ID: lcl|Query_98529 Length: 51
+Subject #335:1030613_+ ID: lcl|Query_98530 Length: 42
+Subject #336:1030711_- ID: lcl|Query_98531 Length: 43
+Subject #337:1041920_- ID: lcl|Query_98532 Length: 42
+Subject #338:1052277_+ ID: lcl|Query_98533 Length: 49
+Subject #339:1062452_- ID: lcl|Query_98534 Length: 58
+Subject #340:1066828_- ID: lcl|Query_98535 Length: 52
+Subject #341:1066859_+ ID: lcl|Query_98536 Length: 52
+Subject #342:1068416_- ID: lcl|Query_98537 Length: 46
+Subject #343:1068507_+ ID: lcl|Query_98538 Length: 37
+Subject #344:1074658_- ID: lcl|Query_98539 Length: 51
+Subject #345:1074879_- ID: lcl|Query_98540 Length: 53
+Subject #346:1074916_+ ID: lcl|Query_98541 Length: 44
+Subject #347:1080940_+ ID: lcl|Query_98542 Length: 55
+Subject #348:1086005_- ID: lcl|Query_98543 Length: 52
+Subject #349:1086097_+ ID: lcl|Query_98544 Length: 50
+Subject #350:1100774_- ID: lcl|Query_98545 Length: 41
+Subject #351:1100845_+ ID: lcl|Query_98546 Length: 35
+Subject #352:1104947_+ ID: lcl|Query_98547 Length: 47
+Subject #353:1107696_- ID: lcl|Query_98548 Length: 45
+Subject #354:1113530_- ID: lcl|Query_98549 Length: 35
+Subject #355:1113561_+ ID: lcl|Query_98550 Length: 35
+Subject #356:1115620_- ID: lcl|Query_98551 Length: 47
+Subject #357:1117862_- ID: lcl|Query_98552 Length: 43
+Subject #358:1117893_+ ID: lcl|Query_98553 Length: 41
+Subject #359:1119432_- ID: lcl|Query_98554 Length: 38
+Subject #360:1120653_- ID: lcl|Query_98555 Length: 39
+Subject #361:1121201_- ID: lcl|Query_98556 Length: 32
+Subject #362:1122684_- ID: lcl|Query_98557 Length: 36
+Subject #363:1123361_- ID: lcl|Query_98558 Length: 50
+Subject #364:1129377_- ID: lcl|Query_98559 Length: 39
+Subject #365:1129410_+ ID: lcl|Query_98560 Length: 39
+Subject #366:1141135_- ID: lcl|Query_98561 Length: 36
+Subject #367:1145926_- ID: lcl|Query_98562 Length: 58
+Subject #368:1146009_+ ID: lcl|Query_98563 Length: 45
+Subject #369:1147707_+ ID: lcl|Query_98564 Length: 42
+Subject #370:1151890_+ ID: lcl|Query_98565 Length: 38
+Subject #371:1153227_+ ID: lcl|Query_98566 Length: 34
+Subject #372:1157649_+ ID: lcl|Query_98567 Length: 44
+Subject #373:1159351_+ ID: lcl|Query_98568 Length: 47
+Subject #374:1165731_+ ID: lcl|Query_98569 Length: 58
+Subject #375:1167436_+ ID: lcl|Query_98570 Length: 54
+Subject #376:1168155_- ID: lcl|Query_98571 Length: 60
+Subject #377:1169363_- ID: lcl|Query_98572 Length: 43
+Subject #378:1169401_+ ID: lcl|Query_98573 Length: 43
+Subject #379:1170484_- ID: lcl|Query_98574 Length: 49
+Subject #380:1180428_+ ID: lcl|Query_98575 Length: 58
+Subject #381:1181745_- ID: lcl|Query_98576 Length: 44
+Subject #382:1187073_- ID: lcl|Query_98577 Length: 41
+Subject #383:1187106_+ ID: lcl|Query_98578 Length: 58
+Subject #384:1190574_- ID: lcl|Query_98579 Length: 55
+Subject #385:1190609_+ ID: lcl|Query_98580 Length: 46
+Subject #386:1196422_+ ID: lcl|Query_98581 Length: 41
+Subject #387:1199694_+ ID: lcl|Query_98582 Length: 51
+Subject #388:1211597_- ID: lcl|Query_98583 Length: 39
+Subject #389:1217105_+ ID: lcl|Query_98584 Length: 50
+Subject #390:1219255_+ ID: lcl|Query_98585 Length: 55
+Subject #391:1222263_- ID: lcl|Query_98586 Length: 41
+Subject #392:1222295_+ ID: lcl|Query_98587 Length: 41
+Subject #393:1223943_+ ID: lcl|Query_98588 Length: 34
+Subject #394:1224225_- ID: lcl|Query_98589 Length: 44
+Subject #395:1227039_- ID: lcl|Query_98590 Length: 35
+Subject #396:1227065_+ ID: lcl|Query_98591 Length: 48
+Subject #397:1228771_+ ID: lcl|Query_98592 Length: 43
+Subject #398:1229413_+ ID: lcl|Query_98593 Length: 49
+Subject #399:1232467_- ID: lcl|Query_98594 Length: 36
+Subject #400:1233140_- ID: lcl|Query_98595 Length: 44
+Subject #401:1235673_- ID: lcl|Query_98596 Length: 38
+Subject #402:1235701_+ ID: lcl|Query_98597 Length: 38
+Subject #403:1236522_- ID: lcl|Query_98598 Length: 49
+Subject #404:1240087_+ ID: lcl|Query_98599 Length: 47
+Subject #405:1243917_+ ID: lcl|Query_98600 Length: 40
+Subject #406:1245029_+ ID: lcl|Query_98601 Length: 52
+Subject #407:1247655_- ID: lcl|Query_98602 Length: 50
+Subject #408:1248695_- ID: lcl|Query_98603 Length: 58
+Subject #409:1252967_- ID: lcl|Query_98604 Length: 31
+Subject #410:1256635_- ID: lcl|Query_98605 Length: 34
+Subject #411:1259081_- ID: lcl|Query_98606 Length: 49
+Subject #412:1259117_+ ID: lcl|Query_98607 Length: 44
+Subject #413:1260888_- ID: lcl|Query_98608 Length: 34
+Subject #414:1269621_- ID: lcl|Query_98609 Length: 42
+Subject #415:1270706_- ID: lcl|Query_98610 Length: 49
+Subject #416:1273216_- ID: lcl|Query_98611 Length: 47
+Subject #417:1273243_+ ID: lcl|Query_98612 Length: 38
+Subject #418:1275089_- ID: lcl|Query_98613 Length: 56
+Subject #419:1279520_+ ID: lcl|Query_98614 Length: 35
+Subject #420:1286569_+ ID: lcl|Query_98615 Length: 38
+Subject #421:1286712_- ID: lcl|Query_98616 Length: 48
+Subject #422:1286890_- ID: lcl|Query_98617 Length: 48
+Subject #423:1292419_+ ID: lcl|Query_98618 Length: 38
+Subject #424:1292457_- ID: lcl|Query_98619 Length: 33
+Subject #425:1294201_+ ID: lcl|Query_98620 Length: 49
+Subject #426:1294515_+ ID: lcl|Query_98621 Length: 55
+Subject #427:1295323_- ID: lcl|Query_98622 Length: 42
+Subject #428:1299285_+ ID: lcl|Query_98623 Length: 40
+Subject #429:1306772_- ID: lcl|Query_98624 Length: 40
+Subject #430:1306803_+ ID: lcl|Query_98625 Length: 40
+Subject #431:1308962_- ID: lcl|Query_98626 Length: 55
+Subject #432:1310519_- ID: lcl|Query_98627 Length: 47
+Subject #433:1311814_- ID: lcl|Query_98628 Length: 49
+Subject #434:1311846_+ ID: lcl|Query_98629 Length: 34
+Subject #435:1312260_- ID: lcl|Query_98630 Length: 41
+Subject #436:1314666_- ID: lcl|Query_98631 Length: 37
+Subject #437:1314697_+ ID: lcl|Query_98632 Length: 37
+Subject #438:1315787_- ID: lcl|Query_98633 Length: 43
+Subject #439:1316382_- ID: lcl|Query_98634 Length: 59
+Subject #440:1322969_- ID: lcl|Query_98635 Length: 35
+Subject #441:1327761_+ ID: lcl|Query_98636 Length: 37
+Subject #442:1330383_- ID: lcl|Query_98637 Length: 36
+Subject #443:1330415_+ ID: lcl|Query_98638 Length: 36
+Subject #444:1333700_+ ID: lcl|Query_98639 Length: 49
+Subject #445:1334880_+ ID: lcl|Query_98640 Length: 50
+Subject #446:1335696_+ ID: lcl|Query_98641 Length: 48
+Subject #447:1338508_- ID: lcl|Query_98642 Length: 53
+Subject #448:1338550_+ ID: lcl|Query_98643 Length: 55
+Subject #449:1342986_- ID: lcl|Query_98644 Length: 36
+Subject #450:1343018_+ ID: lcl|Query_98645 Length: 42
+Subject #451:1343546_- ID: lcl|Query_98646 Length: 46
+Subject #452:1346936_- ID: lcl|Query_98647 Length: 43
+Subject #453:1350207_- ID: lcl|Query_98648 Length: 41
+Subject #454:1350235_+ ID: lcl|Query_98649 Length: 50
+Subject #455:1357747_- ID: lcl|Query_98650 Length: 47
+Subject #456:1362514_+ ID: lcl|Query_98651 Length: 41
+Subject #457:1368782_+ ID: lcl|Query_98652 Length: 38
+Subject #458:1370042_+ ID: lcl|Query_98653 Length: 38
+Subject #459:1386622_+ ID: lcl|Query_98654 Length: 53
+Subject #460:1388265_- ID: lcl|Query_98655 Length: 51
+Subject #461:1388304_+ ID: lcl|Query_98656 Length: 51
+Subject #462:1394847_- ID: lcl|Query_98657 Length: 46
+Subject #463:1394884_+ ID: lcl|Query_98658 Length: 59
+Subject #464:1397627_- ID: lcl|Query_98659 Length: 36
+Subject #465:1397655_+ ID: lcl|Query_98660 Length: 36
+Subject #466:1398698_- ID: lcl|Query_98661 Length: 32
+Subject #467:1405657_- ID: lcl|Query_98662 Length: 47
+Subject #468:1406430_- ID: lcl|Query_98663 Length: 50
+Subject #469:1406593_+ ID: lcl|Query_98664 Length: 50
+Subject #470:1409249_+ ID: lcl|Query_98665 Length: 36
+Subject #471:1410927_- ID: lcl|Query_98666 Length: 49
+Subject #472:1411008_+ ID: lcl|Query_98667 Length: 47
+Subject #473:1435152_- ID: lcl|Query_98668 Length: 36
+Subject #474:1437197_- ID: lcl|Query_98669 Length: 40
+Subject #475:1441259_- ID: lcl|Query_98670 Length: 46
+Subject #476:1441599_+ ID: lcl|Query_98671 Length: 41
+Subject #477:1441819_- ID: lcl|Query_98672 Length: 39
+Subject #478:1446378_+ ID: lcl|Query_98673 Length: 57
+Subject #479:1449066_+ ID: lcl|Query_98674 Length: 33
+Subject #480:1465127_+ ID: lcl|Query_98675 Length: 39
+Subject #481:1474066_+ ID: lcl|Query_98676 Length: 46
+Subject #482:1475119_+ ID: lcl|Query_98677 Length: 36
+Subject #483:1482207_- ID: lcl|Query_98678 Length: 58
+Subject #484:1487022_+ ID: lcl|Query_98679 Length: 39
+Subject #485:1488078_+ ID: lcl|Query_98680 Length: 51
+Subject #486:1489677_- ID: lcl|Query_98681 Length: 40
+Subject #487:1489709_+ ID: lcl|Query_98682 Length: 53
+Subject #488:1491441_- ID: lcl|Query_98683 Length: 49
+Subject #489:1491857_- ID: lcl|Query_98684 Length: 44
+Subject #490:1492171_+ ID: lcl|Query_98685 Length: 56
+Subject #491:1498551_+ ID: lcl|Query_98686 Length: 40
+Subject #492:1498907_+ ID: lcl|Query_98687 Length: 37
+Subject #493:1502362_+ ID: lcl|Query_98688 Length: 51
+Subject #494:1503158_+ ID: lcl|Query_98689 Length: 36
+Subject #495:1508789_- ID: lcl|Query_98690 Length: 56
+Subject #496:1517080_+ ID: lcl|Query_98691 Length: 53
+Subject #497:1517694_- ID: lcl|Query_98692 Length: 30
+Subject #498:1517918_+ ID: lcl|Query_98693 Length: 44
+Subject #499:1520094_+ ID: lcl|Query_98694 Length: 32
+Subject #500:1520928_- ID: lcl|Query_98695 Length: 36
+Subject #501:1520957_+ ID: lcl|Query_98696 Length: 38
+Subject #502:1524446_- ID: lcl|Query_98697 Length: 39
+Subject #503:1524476_+ ID: lcl|Query_98698 Length: 47
+Subject #504:1534877_- ID: lcl|Query_98699 Length: 48
+Subject #505:1546253_- ID: lcl|Query_98700 Length: 45
+Subject #506:1552007_- ID: lcl|Query_98701 Length: 38
+Subject #507:1552044_+ ID: lcl|Query_98702 Length: 36
+Subject #508:1552061_- ID: lcl|Query_98703 Length: 50
+Subject #509:1553937_- ID: lcl|Query_98704 Length: 40
+Subject #510:1555766_- ID: lcl|Query_98705 Length: 38
+Subject #511:1567445_- ID: lcl|Query_98706 Length: 51
+Subject #512:1568899_- ID: lcl|Query_98707 Length: 43
+Subject #513:1572373_- ID: lcl|Query_98708 Length: 41
+Subject #514:1580804_- ID: lcl|Query_98709 Length: 36
+Subject #515:1609186_- ID: lcl|Query_98710 Length: 38
+Subject #516:1613261_- ID: lcl|Query_98711 Length: 59
+Subject #517:1618218_- ID: lcl|Query_98712 Length: 36
+Subject #518:1618244_+ ID: lcl|Query_98713 Length: 34
+Subject #519:1620239_+ ID: lcl|Query_98714 Length: 36
+Subject #520:1622804_+ ID: lcl|Query_98715 Length: 47
+Subject #521:1622816_- ID: lcl|Query_98716 Length: 56
+Subject #522:1625288_- ID: lcl|Query_98717 Length: 55
+Subject #523:1628294_+ ID: lcl|Query_98718 Length: 55
+Subject #524:1629076_+ ID: lcl|Query_98719 Length: 40
+Subject #525:1629421_- ID: lcl|Query_98720 Length: 55
+Subject #526:1632478_- ID: lcl|Query_98721 Length: 37
+Subject #527:1637557_- ID: lcl|Query_98722 Length: 34
+Subject #528:1642357_- ID: lcl|Query_98723 Length: 34
+Subject #529:1642386_+ ID: lcl|Query_98724 Length: 34
+Subject #530:1645028_- ID: lcl|Query_98725 Length: 44
+Subject #531:1646747_- ID: lcl|Query_98726 Length: 51
+Subject #532:1648368_+ ID: lcl|Query_98727 Length: 39
+Subject #533:1649439_+ ID: lcl|Query_98728 Length: 51
+Subject #534:1655217_- ID: lcl|Query_98729 Length: 40
+Subject #535:1655251_- ID: lcl|Query_98730 Length: 9
+Subject #536:1656859_+ ID: lcl|Query_98731 Length: 60
+Subject #537:1657913_+ ID: lcl|Query_98732 Length: 39
+Subject #538:1665173_+ ID: lcl|Query_98733 Length: 55
+Subject #539:1666450_- ID: lcl|Query_98734 Length: 43
+Subject #540:1670996_+ ID: lcl|Query_98735 Length: 56
+Subject #541:1672783_- ID: lcl|Query_98736 Length: 40
+Subject #542:1672819_+ ID: lcl|Query_98737 Length: 42
+Subject #543:1674941_- ID: lcl|Query_98738 Length: 40
+Subject #544:1679413_+ ID: lcl|Query_98739 Length: 37
+Subject #545:1685003_- ID: lcl|Query_98740 Length: 52
+Subject #546:1686703_- ID: lcl|Query_98741 Length: 34
+Subject #547:1691403_+ ID: lcl|Query_98742 Length: 40
+Subject #548:1696415_- ID: lcl|Query_98743 Length: 41
+Subject #549:1697225_- ID: lcl|Query_98744 Length: 47
+Subject #550:1703231_- ID: lcl|Query_98745 Length: 40
+Subject #551:1703270_+ ID: lcl|Query_98746 Length: 40
+Subject #552:1714323_+ ID: lcl|Query_98747 Length: 43
+Subject #553:1714986_- ID: lcl|Query_98748 Length: 42
+Subject #554:1715017_+ ID: lcl|Query_98749 Length: 42
+Subject #555:1715903_- ID: lcl|Query_98750 Length: 42
+Subject #556:1718026_- ID: lcl|Query_98751 Length: 47
+Subject #557:1720347_- ID: lcl|Query_98752 Length: 56
+Subject #558:1720381_+ ID: lcl|Query_98753 Length: 44
+Subject #559:1728279_+ ID: lcl|Query_98754 Length: 44
+Subject #560:1733706_- ID: lcl|Query_98755 Length: 46
+Subject #561:1735287_+ ID: lcl|Query_98756 Length: 51
+Subject #562:1736082_- ID: lcl|Query_98757 Length: 54
+Subject #563:1736114_+ ID: lcl|Query_98758 Length: 38
+Subject #564:1737422_- ID: lcl|Query_98759 Length: 38
+Subject #565:1738907_+ ID: lcl|Query_98760 Length: 46
+Subject #566:1742567_- ID: lcl|Query_98761 Length: 56
+Subject #567:1742598_+ ID: lcl|Query_98762 Length: 48
+Subject #568:1744834_- ID: lcl|Query_98763 Length: 55
+Subject #569:1744868_+ ID: lcl|Query_98764 Length: 47
+Subject #570:1747039_+ ID: lcl|Query_98765 Length: 35
+Subject #571:1754894_- ID: lcl|Query_98766 Length: 45
+Subject #572:1757164_+ ID: lcl|Query_98767 Length: 38
+Subject #573:1757671_- ID: lcl|Query_98768 Length: 35
+Subject #574:1757703_+ ID: lcl|Query_98769 Length: 35
+Subject #575:1765143_- ID: lcl|Query_98770 Length: 58
+Subject #576:1770218_+ ID: lcl|Query_98771 Length: 39
+Subject #577:1770477_+ ID: lcl|Query_98772 Length: 36
+Subject #578:1775484_+ ID: lcl|Query_98773 Length: 43
+Subject #579:1778349_- ID: lcl|Query_98774 Length: 61
+Subject #580:1784696_- ID: lcl|Query_98775 Length: 53
+Subject #581:1789482_- ID: lcl|Query_98776 Length: 54
+Subject #582:1789514_+ ID: lcl|Query_98777 Length: 42
+Subject #583:1792222_- ID: lcl|Query_98778 Length: 49
+Subject #584:1795214_- ID: lcl|Query_98779 Length: 33
+Subject #585:1799357_- ID: lcl|Query_98780 Length: 35
+Subject #586:1805287_- ID: lcl|Query_98781 Length: 41
+Subject #587:1807330_+ ID: lcl|Query_98782 Length: 38
+Subject #588:1808668_- ID: lcl|Query_98783 Length: 33
+Subject #589:1808696_+ ID: lcl|Query_98784 Length: 33
+Subject #590:1810084_+ ID: lcl|Query_98785 Length: 48
+Subject #591:1812373_+ ID: lcl|Query_98786 Length: 49
+Subject #592:1813385_- ID: lcl|Query_98787 Length: 35
+Subject #593:1816378_+ ID: lcl|Query_98788 Length: 46
+Subject #594:1821228_- ID: lcl|Query_98789 Length: 38
+Subject #595:1821861_- ID: lcl|Query_98790 Length: 36
+Subject #596:1823351_+ ID: lcl|Query_98791 Length: 42
+Subject #597:1824452_+ ID: lcl|Query_98792 Length: 51
+Subject #598:1825060_- ID: lcl|Query_98793 Length: 38
+Subject #599:1833274_+ ID: lcl|Query_98794 Length: 43
+Subject #600:1840816_+ ID: lcl|Query_98795 Length: 43
+Subject #601:1843813_+ ID: lcl|Query_98796 Length: 61
+Subject #602:1844921_- ID: lcl|Query_98797 Length: 47
+Subject #603:1850701_- ID: lcl|Query_98798 Length: 39
+Subject #604:1850733_+ ID: lcl|Query_98799 Length: 39
+Subject #605:1852573_+ ID: lcl|Query_98800 Length: 49
+Subject #606:1854008_- ID: lcl|Query_98801 Length: 38
+Subject #607:1861660_- ID: lcl|Query_98802 Length: 58
+Subject #608:1863817_+ ID: lcl|Query_98803 Length: 34
+Subject #609:1864739_- ID: lcl|Query_98804 Length: 51
+Subject #610:1864785_+ ID: lcl|Query_98805 Length: 55
+Subject #611:1865668_- ID: lcl|Query_98806 Length: 51
+Subject #612:1870276_+ ID: lcl|Query_98807 Length: 43
+Subject #613:1874112_+ ID: lcl|Query_98808 Length: 40
+Subject #614:1874843_+ ID: lcl|Query_98809 Length: 38
+Subject #615:1877139_- ID: lcl|Query_98810 Length: 50
+Subject #616:1877301_+ ID: lcl|Query_98811 Length: 51
+Subject #617:1878964_- ID: lcl|Query_98812 Length: 42
+Subject #618:1878996_+ ID: lcl|Query_98813 Length: 36
+Subject #619:1879361_- ID: lcl|Query_98814 Length: 41
+Subject #620:1880089_- ID: lcl|Query_98815 Length: 52
+Subject #621:1883042_+ ID: lcl|Query_98816 Length: 39
+Subject #622:1886809_- ID: lcl|Query_98817 Length: 36
+Subject #623:1886861_+ ID: lcl|Query_98818 Length: 49
+Subject #624:1889900_- ID: lcl|Query_98819 Length: 35
+Subject #625:1893787_+ ID: lcl|Query_98820 Length: 43
+Subject #626:1894456_- ID: lcl|Query_98821 Length: 49
+Subject #627:1894497_+ ID: lcl|Query_98822 Length: 61
+Subject #628:1898334_+ ID: lcl|Query_98823 Length: 41
+Subject #629:1899953_- ID: lcl|Query_98824 Length: 48
+Subject #630:1904784_+ ID: lcl|Query_98825 Length: 34
+Subject #631:1905324_+ ID: lcl|Query_98826 Length: 30
+Subject #632:1906214_- ID: lcl|Query_98827 Length: 52
+Subject #633:1907152_- ID: lcl|Query_98828 Length: 41
+Subject #634:1908211_- ID: lcl|Query_98829 Length: 48
+Subject #635:1909261_- ID: lcl|Query_98830 Length: 51
+Subject #636:1909303_+ ID: lcl|Query_98831 Length: 51
+Subject #637:1911647_- ID: lcl|Query_98832 Length: 36
+Subject #638:1912732_- ID: lcl|Query_98833 Length: 44
+Subject #639:1920180_+ ID: lcl|Query_98834 Length: 42
+Subject #640:1922050_+ ID: lcl|Query_98835 Length: 49
+Subject #641:1923291_- ID: lcl|Query_98836 Length: 46
+Subject #642:1928997_- ID: lcl|Query_98837 Length: 53
+Subject #643:1929917_- ID: lcl|Query_98838 Length: 48
+Subject #644:1929971_- ID: lcl|Query_98839 Length: 55
+Subject #645:1932079_- ID: lcl|Query_98840 Length: 37
+Subject #646:1932111_+ ID: lcl|Query_98841 Length: 37
+Subject #647:1934728_- ID: lcl|Query_98842 Length: 46
+Subject #648:1939094_- ID: lcl|Query_98843 Length: 55
+Subject #649:1939222_+ ID: lcl|Query_98844 Length: 35
+Subject #650:1940266_- ID: lcl|Query_98845 Length: 41
+Subject #651:1946817_- ID: lcl|Query_98846 Length: 42
+Subject #652:1954573_+ ID: lcl|Query_98847 Length: 36
+Subject #653:1958441_- ID: lcl|Query_98848 Length: 43
+Subject #654:1961848_+ ID: lcl|Query_98849 Length: 48
+Subject #655:1966348_- ID: lcl|Query_98850 Length: 54
+Subject #656:1982486_- ID: lcl|Query_98851 Length: 44
+Subject #657:1987428_- ID: lcl|Query_98852 Length: 49
+Subject #658:1987508_+ ID: lcl|Query_98853 Length: 44
+Subject #659:1989216_- ID: lcl|Query_98854 Length: 39
+Subject #660:1989247_+ ID: lcl|Query_98855 Length: 39
+Subject #661:1990910_- ID: lcl|Query_98856 Length: 56
+Subject #662:1990949_+ ID: lcl|Query_98857 Length: 56
+Subject #663:1991747_- ID: lcl|Query_98858 Length: 34
+Subject #664:1996082_+ ID: lcl|Query_98859 Length: 43
+Subject #665:1997018_- ID: lcl|Query_98860 Length: 45
+Subject #666:1999539_- ID: lcl|Query_98861 Length: 36
+Subject #667:2001911_- ID: lcl|Query_98862 Length: 55
+Subject #668:2007644_- ID: lcl|Query_98863 Length: 52
+Subject #669:2007674_+ ID: lcl|Query_98864 Length: 42
+Subject #670:2009747_+ ID: lcl|Query_98865 Length: 41
+Subject #671:2024594_- ID: lcl|Query_98866 Length: 50
+Subject #672:2024626_+ ID: lcl|Query_98867 Length: 50
+Subject #673:2025257_+ ID: lcl|Query_98868 Length: 41
+Subject #674:2028141_- ID: lcl|Query_98869 Length: 47
+Subject #675:2032320_- ID: lcl|Query_98870 Length: 37
+Subject #676:2036758_+ ID: lcl|Query_98871 Length: 49
+Subject #677:2042152_+ ID: lcl|Query_98872 Length: 49
+Subject #678:2043181_+ ID: lcl|Query_98873 Length: 40
+Subject #679:2044746_+ ID: lcl|Query_98874 Length: 49
+Subject #680:2052064_+ ID: lcl|Query_98875 Length: 44
+Subject #681:2054994_+ ID: lcl|Query_98876 Length: 40
+Subject #682:2056606_+ ID: lcl|Query_98877 Length: 39
+Subject #683:2057617_+ ID: lcl|Query_98878 Length: 35
+Subject #684:2057927_- ID: lcl|Query_98879 Length: 47
+Subject #685:2062338_- ID: lcl|Query_98880 Length: 34
+Subject #686:2078319_+ ID: lcl|Query_98881 Length: 43
+Subject #687:2078988_- ID: lcl|Query_98882 Length: 45
+Subject #688:2081333_- ID: lcl|Query_98883 Length: 51
+Subject #689:2084185_- ID: lcl|Query_98884 Length: 50
+Subject #690:2084218_+ ID: lcl|Query_98885 Length: 40
+Subject #691:2085648_- ID: lcl|Query_98886 Length: 50
+Subject #692:2088155_- ID: lcl|Query_98887 Length: 49
+Subject #693:2093092_+ ID: lcl|Query_98888 Length: 59
+Subject #694:2097269_- ID: lcl|Query_98889 Length: 40
+Subject #695:2097303_+ ID: lcl|Query_98890 Length: 40
+Subject #696:2099805_- ID: lcl|Query_98891 Length: 39
+Subject #697:2113335_- ID: lcl|Query_98892 Length: 37
+Subject #698:2113346_- ID: lcl|Query_98893 Length: 58
+Subject #699:2139739_+ ID: lcl|Query_98894 Length: 49
+Subject #700:2152450_- ID: lcl|Query_98895 Length: 50
+Subject #701:2153453_+ ID: lcl|Query_98896 Length: 43
+Subject #702:2153781_+ ID: lcl|Query_98897 Length: 38
+Subject #703:2165055_+ ID: lcl|Query_98898 Length: 55
+Subject #704:2165611_+ ID: lcl|Query_98899 Length: 52
+Subject #705:2167199_+ ID: lcl|Query_98900 Length: 44
+Subject #706:2167264_- ID: lcl|Query_98901 Length: 34
+Subject #707:2167293_+ ID: lcl|Query_98902 Length: 51
+Subject #708:2169684_+ ID: lcl|Query_98903 Length: 55
+Subject #709:2171800_- ID: lcl|Query_98904 Length: 39
+Subject #710:2172887_- ID: lcl|Query_98905 Length: 39
+Subject #711:2177322_- ID: lcl|Query_98906 Length: 58
+Subject #712:2182147_+ ID: lcl|Query_98907 Length: 48
+Subject #713:2187327_+ ID: lcl|Query_98908 Length: 35
+Subject #714:2191618_- ID: lcl|Query_98909 Length: 37
+Subject #715:2192445_- ID: lcl|Query_98910 Length: 46
+Subject #716:2192993_- ID: lcl|Query_98911 Length: 51
+Subject #717:2196370_+ ID: lcl|Query_98912 Length: 40
+Subject #718:2211687_- ID: lcl|Query_98913 Length: 47
+Subject #719:2211727_+ ID: lcl|Query_98914 Length: 51
+Subject #720:2219619_- ID: lcl|Query_98915 Length: 46
+Subject #721:2223898_- ID: lcl|Query_98916 Length: 40
+Subject #722:2223987_+ ID: lcl|Query_98917 Length: 36
+Subject #723:2224993_- ID: lcl|Query_98918 Length: 50
+Subject #724:2232769_+ ID: lcl|Query_98919 Length: 58
+Subject #725:2236663_+ ID: lcl|Query_98920 Length: 58
+Subject #726:2239313_- ID: lcl|Query_98921 Length: 53
+Subject #727:2244773_+ ID: lcl|Query_98922 Length: 32
+Subject #728:2247015_- ID: lcl|Query_98923 Length: 51
+Subject #729:2250838_+ ID: lcl|Query_98924 Length: 39
+Subject #730:2251933_+ ID: lcl|Query_98925 Length: 46
+Subject #731:2252710_- ID: lcl|Query_98926 Length: 38
+Subject #732:2252833_+ ID: lcl|Query_98927 Length: 58
+Subject #733:2259535_- ID: lcl|Query_98928 Length: 40
+Subject #734:2259671_- ID: lcl|Query_98929 Length: 51
+Subject #735:2265279_+ ID: lcl|Query_98930 Length: 58
+Subject #736:2266069_+ ID: lcl|Query_98931 Length: 36
+Subject #737:2267759_+ ID: lcl|Query_98932 Length: 55
+Subject #738:2269627_+ ID: lcl|Query_98933 Length: 51
+Subject #739:2270618_+ ID: lcl|Query_98934 Length: 34
+Subject #740:2277859_- ID: lcl|Query_98935 Length: 44
+Subject #741:2278524_- ID: lcl|Query_98936 Length: 56
+Subject #742:2282816_- ID: lcl|Query_98937 Length: 34
+Subject #743:2282846_+ ID: lcl|Query_98938 Length: 34
+Subject #744:2286296_- ID: lcl|Query_98939 Length: 35
+Subject #745:2286330_+ ID: lcl|Query_98940 Length: 35
+Subject #746:2291145_- ID: lcl|Query_98941 Length: 41
+Subject #747:2291356_+ ID: lcl|Query_98942 Length: 39
+Subject #748:2306927_- ID: lcl|Query_98943 Length: 53
+Subject #749:2311604_- ID: lcl|Query_98944 Length: 34
+Subject #750:2313176_+ ID: lcl|Query_98945 Length: 39
+Subject #751:2316832_- ID: lcl|Query_98946 Length: 48
+Subject #752:2316985_+ ID: lcl|Query_98947 Length: 48
+Subject #753:2327296_- ID: lcl|Query_98948 Length: 42
+Subject #754:2336713_- ID: lcl|Query_98949 Length: 38
+Subject #755:2340304_- ID: lcl|Query_98950 Length: 39
+Subject #756:2348769_- ID: lcl|Query_98951 Length: 44
+Subject #757:2348821_+ ID: lcl|Query_98952 Length: 48
+Subject #758:2349897_- ID: lcl|Query_98953 Length: 44
+Subject #759:2356756_+ ID: lcl|Query_98954 Length: 48
+Subject #760:2358039_+ ID: lcl|Query_98955 Length: 49
+Subject #761:2362391_- ID: lcl|Query_98956 Length: 41
+Subject #762:2363698_- ID: lcl|Query_98957 Length: 55
+Subject #763:2365011_+ ID: lcl|Query_98958 Length: 49
+Subject #764:2373096_- ID: lcl|Query_98959 Length: 42
+Subject #765:2374889_- ID: lcl|Query_98960 Length: 50
+Subject #766:2380673_- ID: lcl|Query_98961 Length: 47
+Subject #767:2385576_+ ID: lcl|Query_98962 Length: 49
+Subject #768:2387538_+ ID: lcl|Query_98963 Length: 31
+Subject #769:2389998_- ID: lcl|Query_98964 Length: 51
+Subject #770:2405622_- ID: lcl|Query_98965 Length: 50
+Subject #771:2408815_+ ID: lcl|Query_98966 Length: 39
+Subject #772:2409345_- ID: lcl|Query_98967 Length: 49
+Subject #773:2409520_+ ID: lcl|Query_98968 Length: 35
+Subject #774:2411395_- ID: lcl|Query_98969 Length: 36
+Subject #775:2412625_- ID: lcl|Query_98970 Length: 37
+Subject #776:2414703_+ ID: lcl|Query_98971 Length: 44
+Subject #777:2416960_+ ID: lcl|Query_98972 Length: 51
+Subject #778:2418605_- ID: lcl|Query_98973 Length: 54
+Subject #779:2418634_+ ID: lcl|Query_98974 Length: 50
+Subject #780:2421854_+ ID: lcl|Query_98975 Length: 53
+Subject #781:2422577_- ID: lcl|Query_98976 Length: 42
+Subject #782:2422775_+ ID: lcl|Query_98977 Length: 54
+Subject #783:2423701_- ID: lcl|Query_98978 Length: 40
+Subject #784:2425953_- ID: lcl|Query_98979 Length: 40
+Subject #785:2428023_- ID: lcl|Query_98980 Length: 45
+Subject #786:2428684_- ID: lcl|Query_98981 Length: 48
+Subject #787:2430843_- ID: lcl|Query_98982 Length: 53
+Subject #788:2430860_- ID: lcl|Query_98983 Length: 46
+Subject #789:2432883_- ID: lcl|Query_98984 Length: 40
+Subject #790:2432972_- ID: lcl|Query_98985 Length: 43
+Subject #791:2436669_- ID: lcl|Query_98986 Length: 44
+Subject #792:2439119_+ ID: lcl|Query_98987 Length: 46
+Subject #793:2440280_- ID: lcl|Query_98988 Length: 34
+Subject #794:2443783_- ID: lcl|Query_98989 Length: 54
+Subject #795:2443873_+ ID: lcl|Query_98990 Length: 60
+Subject #796:2449128_- ID: lcl|Query_98991 Length: 36
+Subject #797:2449185_- ID: lcl|Query_98992 Length: 38
+Subject #798:2449217_+ ID: lcl|Query_98993 Length: 57
+Subject #799:2456278_- ID: lcl|Query_98994 Length: 53
+Subject #800:2460600_- ID: lcl|Query_98995 Length: 45
+Subject #801:2462694_+ ID: lcl|Query_98996 Length: 52
+Subject #802:2464209_- ID: lcl|Query_98997 Length: 36
+Subject #803:2466310_+ ID: lcl|Query_98998 Length: 35
+Subject #804:2470466_- ID: lcl|Query_98999 Length: 38
+Subject #805:2470494_+ ID: lcl|Query_99000 Length: 38
+Subject #806:2471163_+ ID: lcl|Query_99001 Length: 47
+Subject #807:2476597_+ ID: lcl|Query_99002 Length: 50
+Subject #808:2480583_+ ID: lcl|Query_99003 Length: 54
+Subject #809:2497009_- ID: lcl|Query_99004 Length: 36
+Subject #810:2497038_+ ID: lcl|Query_99005 Length: 36
+Subject #811:2508420_- ID: lcl|Query_99006 Length: 40
+Subject #812:2511263_- ID: lcl|Query_99007 Length: 53
+Subject #813:2511445_+ ID: lcl|Query_99008 Length: 60
+Subject #814:2515035_- ID: lcl|Query_99009 Length: 36
+Subject #815:2519206_- ID: lcl|Query_99010 Length: 39
+Subject #816:2519242_+ ID: lcl|Query_99011 Length: 45
+Subject #817:2521362_+ ID: lcl|Query_99012 Length: 35
+Subject #818:2521485_- ID: lcl|Query_99013 Length: 33
+Subject #819:2525893_- ID: lcl|Query_99014 Length: 39
+Subject #820:2525923_+ ID: lcl|Query_99015 Length: 52
+Subject #821:2527989_+ ID: lcl|Query_99016 Length: 53
+Subject #822:2530192_- ID: lcl|Query_99017 Length: 47
+Subject #823:2532288_+ ID: lcl|Query_99018 Length: 53
+Subject #824:2533430_+ ID: lcl|Query_99019 Length: 34
+Subject #825:2534344_+ ID: lcl|Query_99020 Length: 52
+Subject #826:2536355_- ID: lcl|Query_99021 Length: 34
+Subject #827:2536388_+ ID: lcl|Query_99022 Length: 34
+Subject #828:2538529_- ID: lcl|Query_99023 Length: 60
+Subject #829:2539662_- ID: lcl|Query_99024 Length: 44
+Subject #830:2543679_- ID: lcl|Query_99025 Length: 51
+Subject #831:2549628_+ ID: lcl|Query_99026 Length: 48
+Subject #832:2555186_- ID: lcl|Query_99027 Length: 52
+Subject #833:2560191_+ ID: lcl|Query_99028 Length: 32
+Subject #834:2560930_+ ID: lcl|Query_99029 Length: 37
+Subject #835:2564427_+ ID: lcl|Query_99030 Length: 47
+Subject #836:2565387_+ ID: lcl|Query_99031 Length: 36
+Subject #837:2572122_- ID: lcl|Query_99032 Length: 42
+Subject #838:2576050_- ID: lcl|Query_99033 Length: 42
+Subject #839:2581778_+ ID: lcl|Query_99034 Length: 40
+Subject #840:2583474_- ID: lcl|Query_99035 Length: 50
+Subject #841:2590712_- ID: lcl|Query_99036 Length: 38
+Subject #842:2590748_+ ID: lcl|Query_99037 Length: 38
+Subject #843:2592977_- ID: lcl|Query_99038 Length: 59
+Subject #844:2593061_+ ID: lcl|Query_99039 Length: 58
+Subject #845:2596859_- ID: lcl|Query_99040 Length: 43
+Subject #846:2597797_- ID: lcl|Query_99041 Length: 36
+Subject #847:2600994_+ ID: lcl|Query_99042 Length: 42
+Subject #848:2614781_- ID: lcl|Query_99043 Length: 46
+Subject #849:2614819_+ ID: lcl|Query_99044 Length: 46
+Subject #850:2617962_- ID: lcl|Query_99045 Length: 49
+Subject #851:2618003_+ ID: lcl|Query_99046 Length: 49
+Subject #852:2618835_- ID: lcl|Query_99047 Length: 55
+Subject #853:2620201_- ID: lcl|Query_99048 Length: 35
+Subject #854:2622916_+ ID: lcl|Query_99049 Length: 36
+Subject #855:2626695_+ ID: lcl|Query_99050 Length: 45
+Subject #856:2629573_+ ID: lcl|Query_99051 Length: 46
+Subject #857:2630902_- ID: lcl|Query_99052 Length: 36
+Subject #858:2630935_+ ID: lcl|Query_99053 Length: 36
+Subject #859:2635531_- ID: lcl|Query_99054 Length: 51
+Subject #860:2637421_- ID: lcl|Query_99055 Length: 36
+Subject #861:2640598_- ID: lcl|Query_99056 Length: 39
+Subject #862:2643084_- ID: lcl|Query_99057 Length: 54
+Subject #863:2644336_- ID: lcl|Query_99058 Length: 52
+Subject #864:2647268_- ID: lcl|Query_99059 Length: 46
+Subject #865:2653353_- ID: lcl|Query_99060 Length: 36
+Subject #866:2653385_+ ID: lcl|Query_99061 Length: 34
+Subject #867:2654130_- ID: lcl|Query_99062 Length: 37
+Subject #868:2654157_+ ID: lcl|Query_99063 Length: 37
+Subject #869:2656376_- ID: lcl|Query_99064 Length: 38
+Subject #870:2659514_- ID: lcl|Query_99065 Length: 47
+Subject #871:2664279_+ ID: lcl|Query_99066 Length: 59
+Subject #872:2666492_- ID: lcl|Query_99067 Length: 48
+Subject #873:2673811_+ ID: lcl|Query_99068 Length: 54
+Subject #874:2684070_- ID: lcl|Query_99069 Length: 38
+Subject #875:2687027_- ID: lcl|Query_99070 Length: 42
+Subject #876:2687088_+ ID: lcl|Query_99071 Length: 39
+Subject #877:2691187_+ ID: lcl|Query_99072 Length: 35
+Subject #878:2691571_- ID: lcl|Query_99073 Length: 54
+Subject #879:2700060_- ID: lcl|Query_99074 Length: 50
+Subject #880:2700102_+ ID: lcl|Query_99075 Length: 60
+Subject #881:2700555_- ID: lcl|Query_99076 Length: 41
+Subject #882:2704285_- ID: lcl|Query_99077 Length: 51
+Subject #883:2707305_- ID: lcl|Query_99078 Length: 47
+Subject #884:2716014_- ID: lcl|Query_99079 Length: 44
+Subject #885:2716049_+ ID: lcl|Query_99080 Length: 44
+Subject #886:2717452_- ID: lcl|Query_99081 Length: 42
+Subject #887:2717488_+ ID: lcl|Query_99082 Length: 42
+Subject #888:2719186_+ ID: lcl|Query_99083 Length: 37
+Subject #889:2724111_+ ID: lcl|Query_99084 Length: 42
+Subject #890:2724342_- ID: lcl|Query_99085 Length: 55
+Subject #891:2724468_+ ID: lcl|Query_99086 Length: 38
+Subject #892:2726027_- ID: lcl|Query_99087 Length: 36
+Subject #893:2731566_- ID: lcl|Query_99088 Length: 34
+Subject #894:2736929_+ ID: lcl|Query_99089 Length: 36
+Subject #895:2737541_+ ID: lcl|Query_99090 Length: 36
+Subject #896:2737721_+ ID: lcl|Query_99091 Length: 41
+Subject #897:2738907_- ID: lcl|Query_99092 Length: 44
+Subject #898:2738942_+ ID: lcl|Query_99093 Length: 46
+Subject #899:2744123_- ID: lcl|Query_99094 Length: 38
+Subject #900:2750061_- ID: lcl|Query_99095 Length: 44
+Subject #901:2750097_+ ID: lcl|Query_99096 Length: 44
+Subject #902:2753969_- ID: lcl|Query_99097 Length: 33
+Subject #903:2754000_+ ID: lcl|Query_99098 Length: 33
+Subject #904:2755438_+ ID: lcl|Query_99099 Length: 56
+Subject #905:2756033_+ ID: lcl|Query_99100 Length: 42
+Subject #906:2757436_+ ID: lcl|Query_99101 Length: 42
+Subject #907:2761186_- ID: lcl|Query_99102 Length: 57
+Subject #908:2767187_- ID: lcl|Query_99103 Length: 42
+Subject #909:2767222_+ ID: lcl|Query_99104 Length: 42
+Subject #910:2768632_+ ID: lcl|Query_99105 Length: 44
+Subject #911:2778109_- ID: lcl|Query_99106 Length: 34
+Subject #912:2778137_+ ID: lcl|Query_99107 Length: 48
+Subject #913:2796239_- ID: lcl|Query_99108 Length: 44
+Subject #914:2796391_+ ID: lcl|Query_99109 Length: 40
+Subject #915:2798047_- ID: lcl|Query_99110 Length: 54
+Subject #916:2798087_+ ID: lcl|Query_99111 Length: 57
+Subject #917:2799490_- ID: lcl|Query_99112 Length: 36
+Subject #918:2799650_+ ID: lcl|Query_99113 Length: 39
+Subject #919:2800533_+ ID: lcl|Query_99114 Length: 41
+Subject #920:2804606_+ ID: lcl|Query_99115 Length: 58
+Subject #921:2807106_+ ID: lcl|Query_99116 Length: 35
+Subject #922:2808168_+ ID: lcl|Query_99117 Length: 46
+Subject #923:2811376_+ ID: lcl|Query_99118 Length: 40
+Subject #924:2814159_- ID: lcl|Query_99119 Length: 40
+Subject #925:2814190_+ ID: lcl|Query_99120 Length: 40
+Subject #926:2817783_- ID: lcl|Query_99121 Length: 46
+Subject #927:2818924_- ID: lcl|Query_99122 Length: 42
+Subject #928:2822663_- ID: lcl|Query_99123 Length: 44
+Subject #929:2824455_- ID: lcl|Query_99124 Length: 57
+Subject #930:2828590_+ ID: lcl|Query_99125 Length: 45
+Subject #931:2830827_+ ID: lcl|Query_99126 Length: 55
+Subject #932:2838210_- ID: lcl|Query_99127 Length: 49
+Subject #933:2842417_- ID: lcl|Query_99128 Length: 53
+Subject #934:2842507_+ ID: lcl|Query_99129 Length: 52
+Subject #935:2854326_+ ID: lcl|Query_99130 Length: 47
+Subject #936:2856419_- ID: lcl|Query_99131 Length: 51
+Subject #937:2859757_+ ID: lcl|Query_99132 Length: 50
+Subject #938:2860411_- ID: lcl|Query_99133 Length: 55
+Subject #939:2866471_- ID: lcl|Query_99134 Length: 36
+Subject #940:2866504_+ ID: lcl|Query_99135 Length: 36
+Subject #941:2866509_- ID: lcl|Query_99136 Length: 40
+Subject #942:2887525_- ID: lcl|Query_99137 Length: 48
+Subject #943:2892744_+ ID: lcl|Query_99138 Length: 46
+Subject #944:2904074_- ID: lcl|Query_99139 Length: 45
+Subject #945:2904686_- ID: lcl|Query_99140 Length: 45
+Subject #946:2906591_- ID: lcl|Query_99141 Length: 36
+Subject #947:2918004_- ID: lcl|Query_99142 Length: 42
+Subject #948:2922421_- ID: lcl|Query_99143 Length: 55
+Subject #949:2924160_- ID: lcl|Query_99144 Length: 42
+Subject #950:2924677_- ID: lcl|Query_99145 Length: 58
+Subject #951:2927708_+ ID: lcl|Query_99146 Length: 38
+Subject #952:2929550_+ ID: lcl|Query_99147 Length: 36
+Subject #953:2930978_+ ID: lcl|Query_99148 Length: 37
+Subject #954:2931813_- ID: lcl|Query_99149 Length: 58
+Subject #955:2939347_+ ID: lcl|Query_99150 Length: 47
+Subject #956:2940106_- ID: lcl|Query_99151 Length: 47
+Subject #957:2940142_+ ID: lcl|Query_99152 Length: 52
+Subject #958:2942869_- ID: lcl|Query_99153 Length: 38
+Subject #959:2942898_+ ID: lcl|Query_99154 Length: 38
+Subject #960:2944991_- ID: lcl|Query_99155 Length: 56
+Subject #961:2945033_+ ID: lcl|Query_99156 Length: 52
+Subject #962:2945856_- ID: lcl|Query_99157 Length: 39
+Subject #963:2947715_+ ID: lcl|Query_99158 Length: 36
+Subject #964:2950391_- ID: lcl|Query_99159 Length: 51
+Subject #965:2950580_- ID: lcl|Query_99160 Length: 47
+Subject #966:2950631_+ ID: lcl|Query_99161 Length: 49
+Subject #967:2964312_- ID: lcl|Query_99162 Length: 36
+Subject #968:2971169_+ ID: lcl|Query_99163 Length: 42
+Subject #969:2971521_+ ID: lcl|Query_99164 Length: 41
+Subject #970:2972637_- ID: lcl|Query_99165 Length: 42
+Subject #971:2972706_+ ID: lcl|Query_99166 Length: 53
+Subject #972:2976101_- ID: lcl|Query_99167 Length: 38
+Subject #973:2977708_+ ID: lcl|Query_99168 Length: 55
+Subject #974:2979747_- ID: lcl|Query_99169 Length: 48
+Subject #975:2980724_- ID: lcl|Query_99170 Length: 43
+Subject #976:2982450_- ID: lcl|Query_99171 Length: 38
+Subject #977:2987126_+ ID: lcl|Query_99172 Length: 56
+Subject #978:2988237_+ ID: lcl|Query_99173 Length: 61
+Subject #979:3003970_- ID: lcl|Query_99174 Length: 50
+Subject #980:3004002_+ ID: lcl|Query_99175 Length: 50
+Subject #981:3012393_- ID: lcl|Query_99176 Length: 42
+Subject #982:3012430_+ ID: lcl|Query_99177 Length: 42
+Subject #983:3012610_+ ID: lcl|Query_99178 Length: 42
+Subject #984:3020495_- ID: lcl|Query_99179 Length: 39
+Subject #985:3024216_+ ID: lcl|Query_99180 Length: 32
+Subject #986:3028488_- ID: lcl|Query_99181 Length: 59
+Subject #987:3033612_- ID: lcl|Query_99182 Length: 38
+Subject #988:3036319_- ID: lcl|Query_99183 Length: 47
+Subject #989:3040416_+ ID: lcl|Query_99184 Length: 46
+Subject #990:3042476_+ ID: lcl|Query_99185 Length: 48
+Subject #991:3045107_- ID: lcl|Query_99186 Length: 60
+Subject #992:3045144_+ ID: lcl|Query_99187 Length: 47
+Subject #993:3046122_- ID: lcl|Query_99188 Length: 34
+Subject #994:3047815_- ID: lcl|Query_99189 Length: 54
+Subject #995:3049096_- ID: lcl|Query_99190 Length: 60
+Subject #996:3051042_- ID: lcl|Query_99191 Length: 42
+Subject #997:3056165_+ ID: lcl|Query_99192 Length: 61
+Subject #998:3057127_- ID: lcl|Query_99193 Length: 39
+Subject #999:3058637_- ID: lcl|Query_99194 Length: 39
+Subject #1000:3067306_- ID: lcl|Query_99195 Length: 40
+Subject #1001:3067337_+ ID: lcl|Query_99196 Length: 40
+Subject #1002:3068908_- ID: lcl|Query_99197 Length: 42
+Subject #1003:3070118_- ID: lcl|Query_99198 Length: 37
+Subject #1004:3073837_- ID: lcl|Query_99199 Length: 47
+Subject #1005:3079601_- ID: lcl|Query_99200 Length: 34
+Subject #1006:3082572_- ID: lcl|Query_99201 Length: 58
+Subject #1007:3082841_+ ID: lcl|Query_99202 Length: 46
+Subject #1008:3083826_- ID: lcl|Query_99203 Length: 53
+Subject #1009:3087907_+ ID: lcl|Query_99204 Length: 41
+Subject #1010:3089715_+ ID: lcl|Query_99205 Length: 40
+Subject #1011:3092910_+ ID: lcl|Query_99206 Length: 49
+Subject #1012:3094202_+ ID: lcl|Query_99207 Length: 26
+Subject #1013:3098535_+ ID: lcl|Query_99208 Length: 46
+Subject #1014:3099648_- ID: lcl|Query_99209 Length: 37
+Subject #1015:3100859_- ID: lcl|Query_99210 Length: 45
+Subject #1016:3101641_- ID: lcl|Query_99211 Length: 46
+Subject #1017:3104399_+ ID: lcl|Query_99212 Length: 42
+Subject #1018:3105550_+ ID: lcl|Query_99213 Length: 53
+Subject #1019:3106978_- ID: lcl|Query_99214 Length: 38
+Subject #1020:3107013_+ ID: lcl|Query_99215 Length: 38
+Subject #1021:3110450_- ID: lcl|Query_99216 Length: 37
+Subject #1022:3110479_+ ID: lcl|Query_99217 Length: 35
+Subject #1023:3114463_- ID: lcl|Query_99218 Length: 52
+Subject #1024:3119555_- ID: lcl|Query_99219 Length: 47
+Subject #1025:3121589_- ID: lcl|Query_99220 Length: 57
+Subject #1026:3134830_- ID: lcl|Query_99221 Length: 51
+Subject #1027:3136607_- ID: lcl|Query_99222 Length: 51
+Subject #1028:3148943_- ID: lcl|Query_99223 Length: 48
+Subject #1029:3148973_+ ID: lcl|Query_99224 Length: 53
+Subject #1030:3150546_- ID: lcl|Query_99225 Length: 47
+Subject #1031:3150582_+ ID: lcl|Query_99226 Length: 45
+Subject #1032:3154263_+ ID: lcl|Query_99227 Length: 42
+Subject #1033:3156604_+ ID: lcl|Query_99228 Length: 40
+Subject #1034:3157452_- ID: lcl|Query_99229 Length: 45
+Subject #1035:3157493_+ ID: lcl|Query_99230 Length: 43
+Subject #1036:3161222_- ID: lcl|Query_99231 Length: 57
+Subject #1037:3163638_- ID: lcl|Query_99232 Length: 46
+Subject #1038:3167720_- ID: lcl|Query_99233 Length: 59
+Subject #1039:3168684_- ID: lcl|Query_99234 Length: 35
+Subject #1040:3169249_- ID: lcl|Query_99235 Length: 37
+Subject #1041:3171878_+ ID: lcl|Query_99236 Length: 50
+Subject #1042:3173464_- ID: lcl|Query_99237 Length: 41
+Subject #1043:3173495_+ ID: lcl|Query_99238 Length: 41
+Subject #1044:3179627_+ ID: lcl|Query_99239 Length: 36
+Subject #1045:3181259_+ ID: lcl|Query_99240 Length: 48
+Subject #1046:3181584_- ID: lcl|Query_99241 Length: 60
+Subject #1047:3181617_+ ID: lcl|Query_99242 Length: 51
+Subject #1048:3183328_- ID: lcl|Query_99243 Length: 47
+Subject #1049:3183366_+ ID: lcl|Query_99244 Length: 47
+Subject #1050:3183747_- ID: lcl|Query_99245 Length: 38
+Subject #1051:3185189_+ ID: lcl|Query_99246 Length: 51
+Subject #1052:3191712_- ID: lcl|Query_99247 Length: 50
+Subject #1053:3194720_- ID: lcl|Query_99248 Length: 43
+Subject #1054:3195097_- ID: lcl|Query_99249 Length: 42
+Subject #1055:3203138_- ID: lcl|Query_99250 Length: 58
+Subject #1056:3203272_+ ID: lcl|Query_99251 Length: 60
+Subject #1057:3209490_- ID: lcl|Query_99252 Length: 42
+Subject #1058:3211075_+ ID: lcl|Query_99253 Length: 47
+Subject #1059:3214890_- ID: lcl|Query_99254 Length: 52
+Subject #1060:3214968_+ ID: lcl|Query_99255 Length: 41
+Subject #1061:3215678_- ID: lcl|Query_99256 Length: 38
+Subject #1062:3217604_+ ID: lcl|Query_99257 Length: 46
+Subject #1063:3220875_- ID: lcl|Query_99258 Length: 51
+Subject #1064:3220915_+ ID: lcl|Query_99259 Length: 47
+Subject #1065:3222495_+ ID: lcl|Query_99260 Length: 53
+Subject #1066:3233690_- ID: lcl|Query_99261 Length: 47
+Subject #1067:3234489_- ID: lcl|Query_99262 Length: 56
+Subject #1068:3238560_+ ID: lcl|Query_99263 Length: 42
+Subject #1069:3239705_+ ID: lcl|Query_99264 Length: 40
+Subject #1070:3241227_+ ID: lcl|Query_99265 Length: 58
+Subject #1071:3241769_- ID: lcl|Query_99266 Length: 47
+Subject #1072:3246577_+ ID: lcl|Query_99267 Length: 40
+Subject #1073:3247467_+ ID: lcl|Query_99268 Length: 48
+Subject #1074:3248615_+ ID: lcl|Query_99269 Length: 45
+Subject #1075:3250409_+ ID: lcl|Query_99270 Length: 35
+Subject #1076:3251006_+ ID: lcl|Query_99271 Length: 34
+Subject #1077:3252709_+ ID: lcl|Query_99272 Length: 39
+Subject #1078:3253272_- ID: lcl|Query_99273 Length: 34
+Subject #1079:3253301_+ ID: lcl|Query_99274 Length: 44
+Subject #1080:3255212_- ID: lcl|Query_99275 Length: 46
+Subject #1081:3255323_+ ID: lcl|Query_99276 Length: 56
+Subject #1082:3258234_- ID: lcl|Query_99277 Length: 55
+Subject #1083:3259677_- ID: lcl|Query_99278 Length: 51
+Subject #1084:3269989_- ID: lcl|Query_99279 Length: 40
+Subject #1085:3270066_- ID: lcl|Query_99280 Length: 34
+Subject #1086:3270179_- ID: lcl|Query_99281 Length: 34
+Subject #1087:3270217_- ID: lcl|Query_99282 Length: 42
+Subject #1088:3276904_+ ID: lcl|Query_99283 Length: 36
+Subject #1089:3277853_+ ID: lcl|Query_99284 Length: 53
+Subject #1090:3281676_+ ID: lcl|Query_99285 Length: 42
+Subject #1091:3295543_+ ID: lcl|Query_99286 Length: 59
+Subject #1092:3296992_- ID: lcl|Query_99287 Length: 49
+Subject #1093:3297036_+ ID: lcl|Query_99288 Length: 49
+Subject #1094:3299644_+ ID: lcl|Query_99289 Length: 50
+Subject #1095:3300209_- ID: lcl|Query_99290 Length: 54
+Subject #1096:3304466_- ID: lcl|Query_99291 Length: 57
+Subject #1097:3304572_+ ID: lcl|Query_99292 Length: 45
+Subject #1098:3305899_- ID: lcl|Query_99293 Length: 41
+Subject #1099:3307973_- ID: lcl|Query_99294 Length: 40
+Subject #1100:3308994_- ID: lcl|Query_99295 Length: 57
+Subject #1101:3311370_- ID: lcl|Query_99296 Length: 35
+Subject #1102:3313194_- ID: lcl|Query_99297 Length: 33
+Subject #1103:3320017_+ ID: lcl|Query_99298 Length: 41
+Subject #1104:3322030_- ID: lcl|Query_99299 Length: 36
+Subject #1105:3322687_- ID: lcl|Query_99300 Length: 51
+Subject #1106:3324939_- ID: lcl|Query_99301 Length: 36
+Subject #1107:3328168_- ID: lcl|Query_99302 Length: 33
+Subject #1108:3328196_+ ID: lcl|Query_99303 Length: 33
+Subject #1109:3330400_- ID: lcl|Query_99304 Length: 35
+Subject #1110:3332805_- ID: lcl|Query_99305 Length: 38
+Subject #1111:3334718_+ ID: lcl|Query_99306 Length: 41
+Subject #1112:3335195_- ID: lcl|Query_99307 Length: 47
+Subject #1113:3336873_- ID: lcl|Query_99308 Length: 41
+Subject #1114:3336918_- ID: lcl|Query_99309 Length: 46
+Subject #1115:3349180_+ ID: lcl|Query_99310 Length: 56
+Subject #1116:3350696_+ ID: lcl|Query_99311 Length: 35
+Subject #1117:3360660_+ ID: lcl|Query_99312 Length: 46
+Subject #1118:3368967_- ID: lcl|Query_99313 Length: 58
+Subject #1119:3372618_- ID: lcl|Query_99314 Length: 46
+Subject #1120:3373646_- ID: lcl|Query_99315 Length: 57
+Subject #1121:3376247_- ID: lcl|Query_99316 Length: 35
+Subject #1122:3377754_- ID: lcl|Query_99317 Length: 34
+Subject #1123:3378824_- ID: lcl|Query_99318 Length: 35
+Subject #1124:3380623_+ ID: lcl|Query_99319 Length: 35
+Subject #1125:3382154_+ ID: lcl|Query_99320 Length: 56
+Subject #1126:3383282_- ID: lcl|Query_99321 Length: 36
+Subject #1127:3383315_+ ID: lcl|Query_99322 Length: 34
+Subject #1128:3385206_+ ID: lcl|Query_99323 Length: 39
+Subject #1129:3385823_- ID: lcl|Query_99324 Length: 33
+Subject #1130:3385851_+ ID: lcl|Query_99325 Length: 33
+Subject #1131:3390502_- ID: lcl|Query_99326 Length: 39
+Subject #1132:3390539_+ ID: lcl|Query_99327 Length: 39
+Subject #1133:3404496_+ ID: lcl|Query_99328 Length: 26
+Subject #1134:3407309_+ ID: lcl|Query_99329 Length: 33
+Subject #1135:3410050_+ ID: lcl|Query_99330 Length: 49
+Subject #1136:3411629_+ ID: lcl|Query_99331 Length: 42
+Subject #1137:3418175_+ ID: lcl|Query_99332 Length: 34
+Subject #1138:3418756_+ ID: lcl|Query_99333 Length: 45
+Subject #1139:3423380_- ID: lcl|Query_99334 Length: 38
+Subject #1140:3429641_- ID: lcl|Query_99335 Length: 41
+Subject #1141:3429912_+ ID: lcl|Query_99336 Length: 49
+Subject #1142:3434286_+ ID: lcl|Query_99337 Length: 51
+Subject #1143:3435199_+ ID: lcl|Query_99338 Length: 33
+Subject #1144:3437925_+ ID: lcl|Query_99339 Length: 44
+Subject #1145:3438496_+ ID: lcl|Query_99340 Length: 53
+Subject #1146:3439573_- ID: lcl|Query_99341 Length: 34
+Subject #1147:3448261_- ID: lcl|Query_99342 Length: 34
+Subject #1148:3465226_- ID: lcl|Query_99343 Length: 60
+Subject #1149:3466216_- ID: lcl|Query_99344 Length: 38
+Subject #1150:3466245_+ ID: lcl|Query_99345 Length: 36
+Subject #1151:3467122_- ID: lcl|Query_99346 Length: 45
+Subject #1152:3470093_- ID: lcl|Query_99347 Length: 34
+Subject #1153:3476569_- ID: lcl|Query_99348 Length: 38
+Subject #1154:3477862_- ID: lcl|Query_99349 Length: 33
+Subject #1155:3477893_+ ID: lcl|Query_99350 Length: 33
+Subject #1156:3485366_- ID: lcl|Query_99351 Length: 54
+Subject #1157:3485398_+ ID: lcl|Query_99352 Length: 38
+Subject #1158:3486794_+ ID: lcl|Query_99353 Length: 52
+Subject #1159:3488789_- ID: lcl|Query_99354 Length: 33
+Subject #1160:3493788_+ ID: lcl|Query_99355 Length: 42
+Subject #1161:3496955_+ ID: lcl|Query_99356 Length: 48
+Subject #1162:3499233_+ ID: lcl|Query_99357 Length: 36
+Subject #1163:3503989_+ ID: lcl|Query_99358 Length: 46
+Subject #1164:3504796_- ID: lcl|Query_99359 Length: 47
+Subject #1165:3512462_- ID: lcl|Query_99360 Length: 34
+Subject #1166:3515769_- ID: lcl|Query_99361 Length: 42
+Subject #1167:3525422_- ID: lcl|Query_99362 Length: 45
+Subject #1168:3525450_+ ID: lcl|Query_99363 Length: 34
+Subject #1169:3530656_- ID: lcl|Query_99364 Length: 51
+Subject #1170:3530689_+ ID: lcl|Query_99365 Length: 51
+Subject #1171:3534482_- ID: lcl|Query_99366 Length: 38
+Subject #1172:3534516_+ ID: lcl|Query_99367 Length: 44
+Subject #1173:3537338_+ ID: lcl|Query_99368 Length: 51
+Subject #1174:3539832_+ ID: lcl|Query_99369 Length: 37
+Subject #1175:3543021_+ ID: lcl|Query_99370 Length: 41
+Subject #1176:3544028_- ID: lcl|Query_99371 Length: 43
+Subject #1177:3546256_+ ID: lcl|Query_99372 Length: 59
+Subject #1178:3546294_+ ID: lcl|Query_99373 Length: 50
+Subject #1179:3547881_- ID: lcl|Query_99374 Length: 46
+Subject #1180:3547978_+ ID: lcl|Query_99375 Length: 49
+Subject #1181:3549913_- ID: lcl|Query_99376 Length: 43
+Subject #1182:3564090_- ID: lcl|Query_99377 Length: 34
+Subject #1183:3573733_- ID: lcl|Query_99378 Length: 52
+Subject #1184:3575680_- ID: lcl|Query_99379 Length: 42
+Subject #1185:3575715_+ ID: lcl|Query_99380 Length: 55
+Subject #1186:3577660_- ID: lcl|Query_99381 Length: 52
+Subject #1187:3579716_- ID: lcl|Query_99382 Length: 49
+Subject #1188:3581663_+ ID: lcl|Query_99383 Length: 52
+Subject #1189:3585044_- ID: lcl|Query_99384 Length: 40
+Subject #1190:3587467_+ ID: lcl|Query_99385 Length: 50
+Subject #1191:3590982_- ID: lcl|Query_99386 Length: 41
+Subject #1192:3592576_- ID: lcl|Query_99387 Length: 40
+Subject #1193:3592668_+ ID: lcl|Query_99388 Length: 53
+Subject #1194:3598555_+ ID: lcl|Query_99389 Length: 44
+Subject #1195:3599881_- ID: lcl|Query_99390 Length: 36
+Subject #1196:3600968_- ID: lcl|Query_99391 Length: 39
+Subject #1197:3605147_- ID: lcl|Query_99392 Length: 46
+Subject #1198:3605345_+ ID: lcl|Query_99393 Length: 60
+Subject #1199:3608649_- ID: lcl|Query_99394 Length: 42
+Subject #1200:3610563_+ ID: lcl|Query_99395 Length: 44
+Subject #1201:3613634_+ ID: lcl|Query_99396 Length: 60
+Subject #1202:3619035_+ ID: lcl|Query_99397 Length: 46
+Subject #1203:3625626_- ID: lcl|Query_99398 Length: 47
+Subject #1204:3635947_+ ID: lcl|Query_99399 Length: 44
+Subject #1205:3639154_- ID: lcl|Query_99400 Length: 51
+Subject #1206:3639360_+ ID: lcl|Query_99401 Length: 42
+Subject #1207:3640594_+ ID: lcl|Query_99402 Length: 40
+Subject #1208:3642342_- ID: lcl|Query_99403 Length: 40
+Subject #1209:3642376_+ ID: lcl|Query_99404 Length: 40
+Subject #1210:3647652_- ID: lcl|Query_99405 Length: 47
+Subject #1211:3647692_+ ID: lcl|Query_99406 Length: 47
+Subject #1212:3648377_+ ID: lcl|Query_99407 Length: 35
+Subject #1213:3654571_+ ID: lcl|Query_99408 Length: 45
+Subject #1214:3655911_- ID: lcl|Query_99409 Length: 47
+Subject #1215:3656319_- ID: lcl|Query_99410 Length: 43
+Subject #1216:3657621_+ ID: lcl|Query_99411 Length: 49
+Subject #1217:3659081_+ ID: lcl|Query_99412 Length: 35
+Subject #1218:3661797_- ID: lcl|Query_99413 Length: 54
+Subject #1219:3663578_+ ID: lcl|Query_99414 Length: 54
+Subject #1220:3664969_+ ID: lcl|Query_99415 Length: 35
+Subject #1221:3666117_- ID: lcl|Query_99416 Length: 51
+Subject #1222:3667750_- ID: lcl|Query_99417 Length: 46
+Subject #1223:3674479_+ ID: lcl|Query_99418 Length: 60
+Subject #1224:3676253_- ID: lcl|Query_99419 Length: 47
+Subject #1225:3680361_- ID: lcl|Query_99420 Length: 59
+Subject #1226:3680554_+ ID: lcl|Query_99421 Length: 53
+Subject #1227:3682060_- ID: lcl|Query_99422 Length: 47
+Subject #1228:3682115_- ID: lcl|Query_99423 Length: 54
+Subject #1229:3695852_- ID: lcl|Query_99424 Length: 45
+Subject #1230:3699897_- ID: lcl|Query_99425 Length: 56
+Subject #1231:3701829_- ID: lcl|Query_99426 Length: 41
+Subject #1232:3710691_- ID: lcl|Query_99427 Length: 34
+Subject #1233:3714180_+ ID: lcl|Query_99428 Length: 37
+Subject #1234:3717247_+ ID: lcl|Query_99429 Length: 46
+Subject #1235:3718267_- ID: lcl|Query_99430 Length: 45
+Subject #1236:3718333_+ ID: lcl|Query_99431 Length: 48
+Subject #1237:3719818_+ ID: lcl|Query_99432 Length: 38
+Subject #1238:3720315_+ ID: lcl|Query_99433 Length: 36
+Subject #1239:3722285_- ID: lcl|Query_99434 Length: 34
+Subject #1240:3727879_- ID: lcl|Query_99435 Length: 48
+Subject #1241:3729385_- ID: lcl|Query_99436 Length: 43
+Subject #1242:3732157_+ ID: lcl|Query_99437 Length: 47
+Subject #1243:3736302_- ID: lcl|Query_99438 Length: 50
+Subject #1244:3739567_+ ID: lcl|Query_99439 Length: 49
+Subject #1245:3741105_+ ID: lcl|Query_99440 Length: 55
+Subject #1246:3750816_+ ID: lcl|Query_99441 Length: 38
+Subject #1247:3754807_- ID: lcl|Query_99442 Length: 52
+Subject #1248:3761265_- ID: lcl|Query_99443 Length: 60
+Subject #1249:3774364_+ ID: lcl|Query_99444 Length: 50
+Subject #1250:3775997_- ID: lcl|Query_99445 Length: 49
+Subject #1251:3777159_+ ID: lcl|Query_99446 Length: 46
+Subject #1252:3781217_+ ID: lcl|Query_99447 Length: 50
+Subject #1253:3781692_- ID: lcl|Query_99448 Length: 48
+Subject #1254:3781730_+ ID: lcl|Query_99449 Length: 45
+Subject #1255:3782585_- ID: lcl|Query_99450 Length: 48
+Subject #1256:3783603_- ID: lcl|Query_99451 Length: 45
+Subject #1257:3790287_- ID: lcl|Query_99452 Length: 38
+Subject #1258:3792750_- ID: lcl|Query_99453 Length: 34
+Subject #1259:3798250_+ ID: lcl|Query_99454 Length: 51
+Subject #1260:3810306_- ID: lcl|Query_99455 Length: 50
+Subject #1261:3810336_+ ID: lcl|Query_99456 Length: 50
+Subject #1262:3811201_- ID: lcl|Query_99457 Length: 34
+Subject #1263:3815091_- ID: lcl|Query_99458 Length: 40
+Subject #1264:3815123_+ ID: lcl|Query_99459 Length: 40
+Subject #1265:3815800_- ID: lcl|Query_99460 Length: 54
+Subject #1266:3817606_+ ID: lcl|Query_99461 Length: 46
+Subject #1267:3819541_+ ID: lcl|Query_99462 Length: 42
+Subject #1268:3827287_- ID: lcl|Query_99463 Length: 37
+Subject #1269:3832172_- ID: lcl|Query_99464 Length: 43
+Subject #1270:3832209_+ ID: lcl|Query_99465 Length: 43
+Subject #1271:3839126_- ID: lcl|Query_99466 Length: 49
+Subject #1272:3839284_+ ID: lcl|Query_99467 Length: 53
+Subject #1273:3840466_- ID: lcl|Query_99468 Length: 34
+Subject #1274:3845731_- ID: lcl|Query_99469 Length: 35
+Subject #1275:3845761_+ ID: lcl|Query_99470 Length: 35
+Subject #1276:3850751_- ID: lcl|Query_99471 Length: 41
+Subject #1277:3852831_- ID: lcl|Query_99472 Length: 41
+Subject #1278:3853692_+ ID: lcl|Query_99473 Length: 44
+Subject #1279:3856911_+ ID: lcl|Query_99474 Length: 61
+Subject #1280:3861134_- ID: lcl|Query_99475 Length: 51
+Subject #1281:3864565_- ID: lcl|Query_99476 Length: 51
+Subject #1282:3866425_- ID: lcl|Query_99477 Length: 37
+Subject #1283:3867973_- ID: lcl|Query_99478 Length: 26
+Subject #1284:3868541_+ ID: lcl|Query_99479 Length: 49
+Subject #1285:3870354_- ID: lcl|Query_99480 Length: 44
+Subject #1286:3874220_- ID: lcl|Query_99481 Length: 52
+Subject #1287:3876094_- ID: lcl|Query_99482 Length: 53
+Subject #1288:3877540_- ID: lcl|Query_99483 Length: 37
+Subject #1289:3884541_+ ID: lcl|Query_99484 Length: 39
+Subject #1290:3886771_+ ID: lcl|Query_99485 Length: 40
+Subject #1291:3888239_+ ID: lcl|Query_99486 Length: 50
+Subject #1292:3890187_+ ID: lcl|Query_99487 Length: 45
+Subject #1293:3891519_+ ID: lcl|Query_99488 Length: 45
+Subject #1294:3895219_- ID: lcl|Query_99489 Length: 41
+Subject #1295:3895258_+ ID: lcl|Query_99490 Length: 41
+Subject #1296:3898624_- ID: lcl|Query_99491 Length: 58
+Subject #1297:3898662_+ ID: lcl|Query_99492 Length: 58
+Subject #1298:3906809_- ID: lcl|Query_99493 Length: 39
+Subject #1299:3911805_- ID: lcl|Query_99494 Length: 42
+Subject #1300:3915502_- ID: lcl|Query_99495 Length: 38
+Subject #1301:3917990_- ID: lcl|Query_99496 Length: 54
+Subject #1302:3922924_- ID: lcl|Query_99497 Length: 9
+Subject #1303:3923701_- ID: lcl|Query_99498 Length: 44
+Subject #1304:3923737_+ ID: lcl|Query_99499 Length: 44
+Subject #1305:3928241_+ ID: lcl|Query_99500 Length: 36
+Subject #1306:3933221_+ ID: lcl|Query_99501 Length: 41
+Subject #1307:3933642_+ ID: lcl|Query_99502 Length: 60
+Subject #1308:3937278_+ ID: lcl|Query_99503 Length: 39
+Subject #1309:3938386_+ ID: lcl|Query_99504 Length: 43
+Subject #1310:3947035_- ID: lcl|Query_99505 Length: 38
+Subject #1311:3947066_+ ID: lcl|Query_99506 Length: 36
+Subject #1312:3948450_+ ID: lcl|Query_99507 Length: 35
+Subject #1313:3950475_+ ID: lcl|Query_99508 Length: 40
+Subject #1314:3956991_+ ID: lcl|Query_99509 Length: 35
+Subject #1315:3959498_- ID: lcl|Query_99510 Length: 54
+Subject #1316:3959531_+ ID: lcl|Query_99511 Length: 43
+Subject #1317:3959908_- ID: lcl|Query_99512 Length: 44
+Subject #1318:3962697_- ID: lcl|Query_99513 Length: 53
+Subject #1319:3966140_+ ID: lcl|Query_99514 Length: 59
+Subject #1320:3967721_+ ID: lcl|Query_99515 Length: 36
+Subject #1321:3980743_+ ID: lcl|Query_99516 Length: 40
+Subject #1322:3982846_+ ID: lcl|Query_99517 Length: 34
+Subject #1323:3986599_- ID: lcl|Query_99518 Length: 46
+Subject #1324:3986638_+ ID: lcl|Query_99519 Length: 46
+Subject #1325:3993701_- ID: lcl|Query_99520 Length: 57
+Subject #1326:3993736_+ ID: lcl|Query_99521 Length: 57
+Subject #1327:3997961_+ ID: lcl|Query_99522 Length: 42
+Subject #1328:4000256_+ ID: lcl|Query_99523 Length: 56
+Subject #1329:4002417_+ ID: lcl|Query_99524 Length: 55
+Subject #1330:4003230_- ID: lcl|Query_99525 Length: 50
+Subject #1331:4005841_+ ID: lcl|Query_99526 Length: 40
+Subject #1332:4008395_- ID: lcl|Query_99527 Length: 46
+Subject #1333:4008435_+ ID: lcl|Query_99528 Length: 59
+Subject #1334:4011086_+ ID: lcl|Query_99529 Length: 42
+Subject #1335:4015316_- ID: lcl|Query_99530 Length: 43
+Subject #1336:4015349_+ ID: lcl|Query_99531 Length: 39
+Subject #1337:4017233_+ ID: lcl|Query_99532 Length: 39
+Subject #1338:4023540_+ ID: lcl|Query_99533 Length: 38
+Subject #1339:4027233_- ID: lcl|Query_99534 Length: 35
+Subject #1340:4040813_- ID: lcl|Query_99535 Length: 49
+Subject #1341:4042498_+ ID: lcl|Query_99536 Length: 49
+Subject #1342:4044090_+ ID: lcl|Query_99537 Length: 42
+Subject #1343:4045632_- ID: lcl|Query_99538 Length: 50
+Subject #1344:4049970_- ID: lcl|Query_99539 Length: 42
+Subject #1345:4050006_+ ID: lcl|Query_99540 Length: 42
+Subject #1346:4051274_+ ID: lcl|Query_99541 Length: 38
+Subject #1347:4053421_- ID: lcl|Query_99542 Length: 51
+Subject #1348:4053617_+ ID: lcl|Query_99543 Length: 49
+Subject #1349:4056427_- ID: lcl|Query_99544 Length: 36
+Subject #1350:4060279_+ ID: lcl|Query_99545 Length: 34
+Subject #1351:4078473_+ ID: lcl|Query_99546 Length: 52
+Subject #1352:4080257_- ID: lcl|Query_99547 Length: 48
+Subject #1353:4086894_+ ID: lcl|Query_99548 Length: 55
+Subject #1354:4101512_+ ID: lcl|Query_99549 Length: 35
+Subject #1355:4102726_+ ID: lcl|Query_99550 Length: 44
+Subject #1356:4103507_- ID: lcl|Query_99551 Length: 49
+Subject #1357:4106386_+ ID: lcl|Query_99552 Length: 35
+Subject #1358:4108722_+ ID: lcl|Query_99553 Length: 37
+Subject #1359:4109874_+ ID: lcl|Query_99554 Length: 45
+Subject #1360:4110702_- ID: lcl|Query_99555 Length: 43
+Subject #1361:4110734_+ ID: lcl|Query_99556 Length: 39
+Subject #1362:4112832_+ ID: lcl|Query_99557 Length: 25
+Subject #1363:4113599_- ID: lcl|Query_99558 Length: 54
+Subject #1364:4113796_+ ID: lcl|Query_99559 Length: 51
+Subject #1365:4114520_- ID: lcl|Query_99560 Length: 38
+Subject #1366:4115642_- ID: lcl|Query_99561 Length: 36
+Subject #1367:4118814_- ID: lcl|Query_99562 Length: 34
+Subject #1368:4118843_+ ID: lcl|Query_99563 Length: 38
+Subject #1369:4120362_- ID: lcl|Query_99564 Length: 38
+Subject #1370:4122315_- ID: lcl|Query_99565 Length: 51
+Subject #1371:4127264_+ ID: lcl|Query_99566 Length: 46
+Subject #1372:4127853_- ID: lcl|Query_99567 Length: 28
+Subject #1373:4132448_+ ID: lcl|Query_99568 Length: 43
+Subject #1374:4136061_+ ID: lcl|Query_99569 Length: 50
+Subject #1375:4137894_- ID: lcl|Query_99570 Length: 43
+Subject #1376:4148364_- ID: lcl|Query_99571 Length: 39
+Subject #1377:4150401_- ID: lcl|Query_99572 Length: 56
+Subject #1378:4158272_+ ID: lcl|Query_99573 Length: 35
+Subject #1379:4159344_- ID: lcl|Query_99574 Length: 42
+Subject #1380:4159504_+ ID: lcl|Query_99575 Length: 50
+Subject #1381:4162134_- ID: lcl|Query_99576 Length: 42
+Subject #1382:4162266_+ ID: lcl|Query_99577 Length: 58
+Subject #1383:4165573_+ ID: lcl|Query_99578 Length: 43
+Subject #1384:4171933_- ID: lcl|Query_99579 Length: 49
+Subject #1385:4174045_- ID: lcl|Query_99580 Length: 36
+Subject #1386:4177185_+ ID: lcl|Query_99581 Length: 53
+Subject #1387:4178363_+ ID: lcl|Query_99582 Length: 45
+Subject #1388:4180995_+ ID: lcl|Query_99583 Length: 55
+Subject #1389:4186365_+ ID: lcl|Query_99584 Length: 56
+Subject #1390:4189619_+ ID: lcl|Query_99585 Length: 34
+Subject #1391:4196185_- ID: lcl|Query_99586 Length: 27
+Subject #1392:4200605_+ ID: lcl|Query_99587 Length: 38
+Subject #1393:4204562_- ID: lcl|Query_99588 Length: 48
+Subject #1394:4215276_+ ID: lcl|Query_99589 Length: 34
+Subject #1395:4218963_+ ID: lcl|Query_99590 Length: 38
+Subject #1396:4222764_- ID: lcl|Query_99591 Length: 46
+Subject #1397:4227570_+ ID: lcl|Query_99592 Length: 41
+Subject #1398:4229374_- ID: lcl|Query_99593 Length: 54
+Subject #1399:4229450_+ ID: lcl|Query_99594 Length: 37
+Subject #1400:4231163_- ID: lcl|Query_99595 Length: 52
+Subject #1401:4231457_+ ID: lcl|Query_99596 Length: 60
+Subject #1402:4231843_- ID: lcl|Query_99597 Length: 48
+Subject #1403:4234686_+ ID: lcl|Query_99598 Length: 54
+Subject #1404:4235596_+ ID: lcl|Query_99599 Length: 39
+Subject #1405:4236241_+ ID: lcl|Query_99600 Length: 40
+Subject #1406:4239775_+ ID: lcl|Query_99601 Length: 58
+Subject #1407:4240733_- ID: lcl|Query_99602 Length: 49
+Subject #1408:4242530_- ID: lcl|Query_99603 Length: 34
+Subject #1409:4245093_- ID: lcl|Query_99604 Length: 57
+Subject #1410:4250532_+ ID: lcl|Query_99605 Length: 36
+Subject #1411:4253893_- ID: lcl|Query_99606 Length: 34
+Subject #1412:4253924_+ ID: lcl|Query_99607 Length: 40
+Subject #1413:4254035_+ ID: lcl|Query_99608 Length: 57
+Subject #1414:4257766_+ ID: lcl|Query_99609 Length: 46
+Subject #1415:4258967_+ ID: lcl|Query_99610 Length: 55
+Subject #1416:4259483_+ ID: lcl|Query_99611 Length: 34
+Subject #1417:4262764_+ ID: lcl|Query_99612 Length: 42
+Subject #1418:4263213_- ID: lcl|Query_99613 Length: 37
+Subject #1419:4263245_+ ID: lcl|Query_99614 Length: 39
+Subject #1420:4266922_+ ID: lcl|Query_99615 Length: 51
+Subject #1421:4268345_+ ID: lcl|Query_99616 Length: 40
+Subject #1422:4270159_+ ID: lcl|Query_99617 Length: 51
+Subject #1423:4271016_- ID: lcl|Query_99618 Length: 45
+Subject #1424:4271046_+ ID: lcl|Query_99619 Length: 39
+Subject #1425:4274725_- ID: lcl|Query_99620 Length: 41
+Subject #1426:4274757_+ ID: lcl|Query_99621 Length: 41
+Subject #1427:4277022_- ID: lcl|Query_99622 Length: 48
+Subject #1428:4277926_- ID: lcl|Query_99623 Length: 35
+Subject #1429:4277960_+ ID: lcl|Query_99624 Length: 41
+Subject #1430:4279876_+ ID: lcl|Query_99625 Length: 50
+Subject #1431:4281712_+ ID: lcl|Query_99626 Length: 57
+Subject #1432:4283215_- ID: lcl|Query_99627 Length: 40
+Subject #1433:4295797_- ID: lcl|Query_99628 Length: 42
+Subject #1434:4296438_+ ID: lcl|Query_99629 Length: 49
+Subject #1435:4297178_- ID: lcl|Query_99630 Length: 38
+Subject #1436:4307313_+ ID: lcl|Query_99631 Length: 57
+Subject #1437:4312063_- ID: lcl|Query_99632 Length: 44
+Subject #1438:4314216_- ID: lcl|Query_99633 Length: 59
+Subject #1439:4314440_+ ID: lcl|Query_99634 Length: 53
+Subject #1440:4332080_- ID: lcl|Query_99635 Length: 52
+Subject #1441:4332116_+ ID: lcl|Query_99636 Length: 50
+Subject #1442:4344807_- ID: lcl|Query_99637 Length: 57
+Subject #1443:4347360_- ID: lcl|Query_99638 Length: 44
+Subject #1444:4349217_- ID: lcl|Query_99639 Length: 49
+Subject #1445:4352488_+ ID: lcl|Query_99640 Length: 39
+Subject #1446:4353153_- ID: lcl|Query_99641 Length: 50
+Subject #1447:4356429_- ID: lcl|Query_99642 Length: 58
+Subject #1448:4362512_- ID: lcl|Query_99643 Length: 42
+Subject #1449:4365437_- ID: lcl|Query_99644 Length: 36
+Subject #1450:4366837_- ID: lcl|Query_99645 Length: 36
+Subject #1451:4369187_+ ID: lcl|Query_99646 Length: 55
+Subject #1452:4372729_+ ID: lcl|Query_99647 Length: 46
+Subject #1453:4373349_+ ID: lcl|Query_99648 Length: 36
+Subject #1454:4376301_+ ID: lcl|Query_99649 Length: 50
+Subject #1455:4376734_+ ID: lcl|Query_99650 Length: 54
+Subject #1456:4377329_+ ID: lcl|Query_99651 Length: 30
+Subject #1457:4378962_- ID: lcl|Query_99652 Length: 37
+Subject #1458:4383676_+ ID: lcl|Query_99653 Length: 50
+Subject #1459:4389169_- ID: lcl|Query_99654 Length: 53
+Subject #1460:4392316_+ ID: lcl|Query_99655 Length: 41
+Subject #1461:4392711_+ ID: lcl|Query_99656 Length: 40
+Subject #1462:4400650_+ ID: lcl|Query_99657 Length: 49
+Subject #1463:4404365_+ ID: lcl|Query_99658 Length: 43
+Subject #1464:4406079_+ ID: lcl|Query_99659 Length: 53
+Subject #1465:4410051_+ ID: lcl|Query_99660 Length: 50
+Subject #1466:4415956_- ID: lcl|Query_99661 Length: 46
+Subject #1467:4415996_+ ID: lcl|Query_99662 Length: 46
+Subject #1468:4417765_+ ID: lcl|Query_99663 Length: 37
+Subject #1469:4418511_- ID: lcl|Query_99664 Length: 58
+Subject #1470:4424450_- ID: lcl|Query_99665 Length: 34
+Subject #1471:4424480_+ ID: lcl|Query_99666 Length: 34
+Subject #1472:4426575_- ID: lcl|Query_99667 Length: 35
+Subject #1473:4426606_+ ID: lcl|Query_99668 Length: 35
+Subject #1474:4428015_- ID: lcl|Query_99669 Length: 32
+Subject #1475:4429596_+ ID: lcl|Query_99670 Length: 46
+Subject #1476:4431318_+ ID: lcl|Query_99671 Length: 41
+Subject #1477:4434558_- ID: lcl|Query_99672 Length: 58
+Subject #1478:4437540_+ ID: lcl|Query_99673 Length: 57
+Subject #1479:4438642_- ID: lcl|Query_99674 Length: 47
+Subject #1480:4439829_- ID: lcl|Query_99675 Length: 39
+Subject #1481:4439859_+ ID: lcl|Query_99676 Length: 41
+Subject #1482:4441283_- ID: lcl|Query_99677 Length: 53
+Subject #1483:4448269_+ ID: lcl|Query_99678 Length: 43
+Subject #1484:4449067_- ID: lcl|Query_99679 Length: 50
+Subject #1485:4454576_- ID: lcl|Query_99680 Length: 40
+Subject #1486:4457183_- ID: lcl|Query_99681 Length: 46
+Subject #1487:4457269_+ ID: lcl|Query_99682 Length: 56
+Subject #1488:4459899_+ ID: lcl|Query_99683 Length: 48
+Subject #1489:4460463_- ID: lcl|Query_99684 Length: 60
+Subject #1490:4464729_- ID: lcl|Query_99685 Length: 34
+Subject #1491:4470490_- ID: lcl|Query_99686 Length: 51
+Subject #1492:4472419_- ID: lcl|Query_99687 Length: 36
+Subject #1493:4475354_+ ID: lcl|Query_99688 Length: 48
+Subject #1494:4477256_- ID: lcl|Query_99689 Length: 47
+Subject #1495:4478998_- ID: lcl|Query_99690 Length: 45
+Subject #1496:4479034_+ ID: lcl|Query_99691 Length: 47
+Subject #1497:4480931_- ID: lcl|Query_99692 Length: 36
+Subject #1498:4480962_+ ID: lcl|Query_99693 Length: 40
+Subject #1499:4488410_- ID: lcl|Query_99694 Length: 34
+Subject #1500:4488441_+ ID: lcl|Query_99695 Length: 34
+Subject #1501:4495154_- ID: lcl|Query_99696 Length: 39
+Subject #1502:4497967_+ ID: lcl|Query_99697 Length: 50
+Subject #1503:4502087_- ID: lcl|Query_99698 Length: 42
+Subject #1504:4502161_+ ID: lcl|Query_99699 Length: 43
+Subject #1505:4503469_+ ID: lcl|Query_99700 Length: 46
+Subject #1506:4506443_+ ID: lcl|Query_99701 Length: 40
+Subject #1507:4507355_+ ID: lcl|Query_99702 Length: 34
+Subject #1508:4518691_+ ID: lcl|Query_99703 Length: 42
+Subject #1509:4519297_- ID: lcl|Query_99704 Length: 40
+Subject #1510:4523168_- ID: lcl|Query_99705 Length: 44
+Subject #1511:4531886_- ID: lcl|Query_99706 Length: 60
+Subject #1512:4537625_- ID: lcl|Query_99707 Length: 40
+Subject #1513:4541590_+ ID: lcl|Query_99708 Length: 34
+Subject #1514:4543709_+ ID: lcl|Query_99709 Length: 53
+Subject #1515:4549781_- ID: lcl|Query_99710 Length: 48
+Subject #1516:4552855_+ ID: lcl|Query_99711 Length: 43
+Subject #1517:4554422_+ ID: lcl|Query_99712 Length: 50
+Subject #1518:4555393_+ ID: lcl|Query_99713 Length: 45
+Subject #1519:4557504_+ ID: lcl|Query_99714 Length: 55
+Subject #1520:4576858_- ID: lcl|Query_99715 Length: 43
+Subject #1521:4576895_+ ID: lcl|Query_99716 Length: 59
+Subject #1522:4579464_- ID: lcl|Query_99717 Length: 37
+Subject #1523:4580030_- ID: lcl|Query_99718 Length: 37
+Subject #1524:4587865_- ID: lcl|Query_99719 Length: 47
+Subject #1525:4587904_+ ID: lcl|Query_99720 Length: 45
+Subject #1526:4589096_- ID: lcl|Query_99721 Length: 36
+Subject #1527:4593319_- ID: lcl|Query_99722 Length: 46
+Subject #1528:4599646_- ID: lcl|Query_99723 Length: 49
+Subject #1529:4605980_- ID: lcl|Query_99724 Length: 48
+Subject #1530:4606505_- ID: lcl|Query_99725 Length: 26
+Subject #1531:4611043_+ ID: lcl|Query_99726 Length: 42
+Subject #1532:4612345_+ ID: lcl|Query_99727 Length: 35
+Subject #1533:4621665_+ ID: lcl|Query_99728 Length: 40
+Subject #1534:4623041_- ID: lcl|Query_99729 Length: 43
+Subject #1535:4628849_+ ID: lcl|Query_99730 Length: 57
+Subject #1536:4632709_- ID: lcl|Query_99731 Length: 41
+Subject #1537:4634385_- ID: lcl|Query_99732 Length: 48
+Subject #1538:4634533_+ ID: lcl|Query_99733 Length: 37
+Subject #1539:4639540_- ID: lcl|Query_99734 Length: 34
+Subject #1540:4639571_+ ID: lcl|Query_99735 Length: 34
+	                    			
+Query #1: Eco1 Query ID: lcl|Query_98148 Length: 39
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1168155_-                                                                                         0          28.3   28.3  38%   0.003 100.00 60         Query_98571      
+1770477_+                                                                                         0          27.4   27.4  43%   0.012 94.12  36         Query_98772      
+
+
+Alignments:
+
+>1168155_-
+Sequence ID: Query_98571 Length: 60
+Range 1: 7 to 21
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  22  GGGCTTTTTTTGCGA  36
+           |||||||||||||||
+Sbjct  21  GGGCTTTTTTTGCGA  7
+
+
+
+
+>1770477_+
+Sequence ID: Query_98772 Length: 36
+Range 1: 19 to 35
+
+Score:27.4 bits(29), Expect:0.012, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  16  CACGTTGGGCTTTTTTT  32
+           |||| ||||||||||||
+Sbjct  19  CACGATGGGCTTTTTTT  35
+
+
+
+
+
+Query #2: Eco2 Query ID: lcl|Query_98149 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4253924_+                                                                                         0          24.7   24.7  86%   0.040 75.76  40         Query_99607      
+
+
+Alignments:
+
+>4253924_+
+Sequence ID: Query_99607 Length: 40
+Range 1: 7 to 39
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:25/33(76%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  1   AAAGAGCCGGCCCAACGGCCGGCTTTTTTCTGG  33
+           ||| ||||||   | |  |||||||| ||||||
+Sbjct  7   AAAAAGCCGGATGATCATCCGGCTTTCTTCTGG  39
+
+
+
+
+
+Query #3: Eco3 Query ID: lcl|Query_98150 Length: 48
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1151890_+                                                                                         0          69.8   101   79%   1e-15 100.00 38         Query_98565      
+
+
+Alignments:
+
+>1151890_+
+Sequence ID: Query_98565 Length: 38
+Range 1: 1 to 38
+
+Score:69.8 bits(76), Expect:1e-15, 
+Identities:38/38(100%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  2   AACATCTCCAGGCGGTCGTTCGACCGCCTGAGTTTTAT  39
+           ||||||||||||||||||||||||||||||||||||||
+Sbjct  1   AACATCTCCAGGCGGTCGTTCGACCGCCTGAGTTTTAT  38
+
+
+
+
+Range 2: 9 to 30
+
+Score:31.9 bits(34), Expect:4e-04, 
+Identities:20/22(91%),  Gaps:0/22(0%), Strand: Plus/Minus
+
+Query  10  CAGGCGGTCGTTCGACCGCCTG  31
+           ||||||||||  ||||||||||
+Sbjct  30  CAGGCGGTCGAACGACCGCCTG  9
+
+
+
+
+
+Query #4: Eco4 Query ID: lcl|Query_98151 Length: 37
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1292457_-                                                                                         0          55.4   88.2  81%   2e-11 100.00 33         Query_98619      
+3439573_-                                                                                         0          31.9   31.9  78%   3e-04 86.21  34         Query_99341      
+2001911_-                                                                                         0          31.9   31.9  59%   3e-04 90.91  55         Query_98862      
+4189619_+                                                                                         0          29.2   29.2  81%   0.003 83.33  34         Query_99585      
+3377754_-                                                                                         0          27.4   27.4  78%   0.011 82.76  34         Query_99317      
+1316382_-                                                                                         0          27.4   27.4  45%   0.011 94.12  59         Query_98634      
+4027233_-                                                                                         0          24.7   24.7  48%   0.039 88.89  35         Query_99534      
+1028396_+                                                                                         0          24.7   24.7  35%   0.039 100.00 50         Query_98527      
+1028357_-                                                                                         0          24.7   24.7  35%   0.039 100.00 50         Query_98526      
+
+
+Alignments:
+
+>1292457_-
+Sequence ID: Query_98619 Length: 33
+Range 1: 4 to 33
+
+Score:55.4 bits(60), Expect:2e-11, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Plus
+
+Query  1   TAAAATCCCGCCAGCGGCGGGATTTTTTAT  30
+           ||||||||||||||||||||||||||||||
+Sbjct  4   TAAAATCCCGCCAGCGGCGGGATTTTTTAT  33
+
+
+
+
+Range 2: 5 to 29
+
+Score:32.8 bits(35), Expect:3e-04, 
+Identities:22/25(88%),  Gaps:0/25(0%), Strand: Plus/Minus
+
+Query  2   AAAATCCCGCCAGCGGCGGGATTTT  26
+           |||||||||||   |||||||||||
+Sbjct  29  AAAATCCCGCCGCTGGCGGGATTTT  5
+
+
+
+
+>3439573_-
+Sequence ID: Query_99341 Length: 34
+Range 1: 6 to 33
+
+Score:31.9 bits(34), Expect:3e-04, 
+Identities:25/29(86%),  Gaps:1/29(3%), Strand: Plus/Plus
+
+Query  2   AAAATCCCGCCAGCGGCGGGATTTTTTAT  30
+           |||| ||||||  ||||||| ||||||||
+Sbjct  6   AAAAACCCGCCC-CGGCGGGTTTTTTTAT  33
+
+
+
+
+>2001911_-
+Sequence ID: Query_98862 Length: 55
+Range 1: 21 to 42
+
+Score:31.9 bits(34), Expect:3e-04, 
+Identities:20/22(91%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  7   CCCGCCAGCGGCGGGATTTTTT  28
+           ||||||| ||||||| ||||||
+Sbjct  21  CCCGCCACCGGCGGGGTTTTTT  42
+
+
+
+
+>4189619_+
+Sequence ID: Query_99585 Length: 34
+Range 1: 5 to 33
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:25/30(83%),  Gaps:1/30(3%), Strand: Plus/Plus
+
+Query  1   TAAAATCCCGCCAGCGGCGGGATTTTTTAT  30
+           ||||| |||||   ||||||| ||||||||
+Sbjct  5   TAAAAACCCGCTT-CGGCGGGTTTTTTTAT  33
+
+
+
+
+>3377754_-
+Sequence ID: Query_99317 Length: 34
+Range 1: 6 to 33
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:24/29(83%),  Gaps:1/29(3%), Strand: Plus/Plus
+
+Query  2   AAAATCCCGCCAGCGGCGGGATTTTTTAT  30
+           |||| |||||   ||||||| ||||||||
+Sbjct  6   AAAAACCCGCTT-CGGCGGGTTTTTTTAT  33
+
+
+
+
+>1316382_-
+Sequence ID: Query_98634 Length: 59
+Range 1: 32 to 48
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Minus
+
+Query  1   TAAAATCCCGCCAGCGG  17
+           |||||| ||||||||||
+Sbjct  48  TAAAATGCCGCCAGCGG  32
+
+
+
+
+>4027233_-
+Sequence ID: Query_99534 Length: 35
+Range 1: 18 to 35
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:16/18(89%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  12  CAGCGGCGGGATTTTTTA  29
+           ||| |||||| |||||||
+Sbjct  18  CAGGGGCGGGTTTTTTTA  35
+
+
+
+
+>1028396_+
+Sequence ID: Query_98527 Length: 50
+Range 1: 3 to 15
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  19  GGGATTTTTTATT  31
+           |||||||||||||
+Sbjct  15  GGGATTTTTTATT  3
+
+
+
+
+>1028357_-
+Sequence ID: Query_98526 Length: 50
+Range 1: 36 to 48
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  19  GGGATTTTTTATT  31
+           |||||||||||||
+Sbjct  36  GGGATTTTTTATT  48
+
+
+
+
+
+Query #5: Eco5 Query ID: lcl|Query_98152 Length: 36
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1286569_+                                                                                         0          59.0   59.0  88%   2e-12 100.00 38         Query_98615      
+3982846_+                                                                                         0          38.3   38.3  63%   6e-06 95.65  34         Query_99517      
+4189619_+                                                                                         0          33.7   33.7  69%   7e-05 92.00  34         Query_99585      
+2282846_+                                                                                         0          33.7   33.7  63%   7e-05 91.30  34         Query_98938      
+2282816_-                                                                                         0          33.7   33.7  63%   7e-05 91.30  34         Query_98937      
+3377754_-                                                                                         0          31.9   31.9  66%   2e-04 91.67  34         Query_99317      
+1018998_+                                                                                         0          31.0   31.0  66%   9e-04 87.50  34         Query_98522      
+1018970_-                                                                                         0          31.0   31.0  66%   9e-04 87.50  51         Query_98521      
+4589096_-                                                                                         0          29.2   29.2  63%   0.003 86.96  36         Query_99721      
+3811201_-                                                                                         0          29.2   29.2  50%   0.003 94.44  34         Query_99457      
+2001911_-                                                                                         0          29.2   29.2  50%   0.003 94.44  55         Query_98862      
+1260888_-                                                                                         0          29.2   29.2  69%   0.003 88.00  34         Query_98608      
+1335696_+                                                                                         0          28.3   28.3  55%   0.003 90.00  48         Query_98641      
+1645028_-                                                                                         0          27.4   27.4  61%   0.011 86.36  44         Query_98725      
+3270179_-                                                                                         0          26.5   26.5  52%   0.011 89.47  34         Query_99281      
+3270066_-                                                                                         0          26.5   26.5  52%   0.011 89.47  34         Query_99280      
+3033612_-                                                                                         0          26.5   26.5  38%   0.011 100.00 38         Query_99182      
+2411395_-                                                                                         0          26.5   26.5  52%   0.011 89.47  36         Query_98969      
+1686703_-                                                                                         0          26.5   26.5  52%   0.011 89.47  34         Query_98741      
+4449067_-                                                                                         0          24.7   24.7  36%   0.037 100.00 50         Query_99679      
+9921_+                                                                                            0          24.7   24.7  50%   0.037 88.89  36         Query_98200      
+
+
+Alignments:
+
+>1286569_+
+Sequence ID: Query_98615 Length: 38
+Range 1: 7 to 38
+
+Score:59.0 bits(64), Expect:2e-12, 
+Identities:32/32(100%),  Gaps:0/32(0%), Strand: Plus/Plus
+
+Query  1   ATAGACCCTGCTTCGGCGGGGTTTTTTTATGG  32
+           ||||||||||||||||||||||||||||||||
+Sbjct  7   ATAGACCCTGCTTCGGCGGGGTTTTTTTATGG  38
+
+
+
+
+>3982846_+
+Sequence ID: Query_99517 Length: 34
+Range 1: 9 to 31
+
+Score:38.3 bits(41), Expect:6e-06, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  5   ACCCTGCTTCGGCGGGGTTTTTT  27
+           |||| ||||||||||||||||||
+Sbjct  9   ACCCCGCTTCGGCGGGGTTTTTT  31
+
+
+
+
+>4189619_+
+Sequence ID: Query_99585 Length: 34
+Range 1: 11 to 34
+
+Score:33.7 bits(36), Expect:7e-05, 
+Identities:23/25(92%),  Gaps:1/25(4%), Strand: Plus/Plus
+
+Query  7   CCTGCTTCGGCGGGGTTTTTTTATG  31
+           || |||||||| |||||||||||||
+Sbjct  11  CCCGCTTCGGC-GGGTTTTTTTATG  34
+
+
+
+
+>2282846_+
+Sequence ID: Query_98938 Length: 34
+Range 1: 9 to 31
+
+Score:33.7 bits(36), Expect:7e-05, 
+Identities:21/23(91%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  5   ACCCTGCTTCGGCGGGGTTTTTT  27
+           |||| ||| ||||||||||||||
+Sbjct  9   ACCCCGCTCCGGCGGGGTTTTTT  31
+
+
+
+
+>2282816_-
+Sequence ID: Query_98937 Length: 34
+Range 1: 4 to 26
+
+Score:33.7 bits(36), Expect:7e-05, 
+Identities:21/23(91%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  5   ACCCTGCTTCGGCGGGGTTTTTT  27
+           |||| ||| ||||||||||||||
+Sbjct  26  ACCCCGCTCCGGCGGGGTTTTTT  4
+
+
+
+
+>3377754_-
+Sequence ID: Query_99317 Length: 34
+Range 1: 11 to 33
+
+Score:31.9 bits(34), Expect:2e-04, 
+Identities:22/24(92%),  Gaps:1/24(4%), Strand: Plus/Plus
+
+Query  7   CCTGCTTCGGCGGGGTTTTTTTAT  30
+           || |||||||| ||||||||||||
+Sbjct  11  CCCGCTTCGGC-GGGTTTTTTTAT  33
+
+
+
+
+>1018998_+
+Sequence ID: Query_98522 Length: 34
+Range 1: 3 to 26
+
+Score:31.0 bits(33), Expect:9e-04, 
+Identities:21/24(88%),  Gaps:0/24(0%), Strand: Plus/Minus
+
+Query  5   ACCCTGCTTCGGCGGGGTTTTTTT  28
+           |||| ||| | |||||||||||||
+Sbjct  26  ACCCCGCTGCTGCGGGGTTTTTTT  3
+
+
+
+
+>1018970_-
+Sequence ID: Query_98521 Length: 51
+Range 1: 27 to 50
+
+Score:31.0 bits(33), Expect:9e-04, 
+Identities:21/24(88%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  5   ACCCTGCTTCGGCGGGGTTTTTTT  28
+           |||| ||| | |||||||||||||
+Sbjct  27  ACCCCGCTGCTGCGGGGTTTTTTT  50
+
+
+
+
+>4589096_-
+Sequence ID: Query_99721 Length: 36
+Range 1: 11 to 33
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:20/23(87%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  6   CCCTGCTTCGGCGGGGTTTTTTT  28
+           ||| |||||||||||| ||| ||
+Sbjct  11  CCCCGCTTCGGCGGGGCTTTGTT  33
+
+
+
+
+>3811201_-
+Sequence ID: Query_99457 Length: 34
+Range 1: 14 to 31
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  10  GCTTCGGCGGGGTTTTTT  27
+           ||| ||||||||||||||
+Sbjct  14  GCTCCGGCGGGGTTTTTT  31
+
+
+
+
+>2001911_-
+Sequence ID: Query_98862 Length: 55
+Range 1: 29 to 46
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  14  CGGCGGGGTTTTTTTATG  31
+           ||||||||||||||| ||
+Sbjct  29  CGGCGGGGTTTTTTTCTG  46
+
+
+
+
+>1260888_-
+Sequence ID: Query_98608 Length: 34
+Range 1: 8 to 31
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:22/25(88%),  Gaps:1/25(4%), Strand: Plus/Plus
+
+Query  3   AGACCCTGCTTCGGCGGGGTTTTTT  27
+           |||||| ||| ||||||| ||||||
+Sbjct  8   AGACCC-GCTGCGGCGGGTTTTTTT  31
+
+
+
+
+>1335696_+
+Sequence ID: Query_98641 Length: 48
+Range 1: 17 to 36
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:18/20(90%),  Gaps:0/20(0%), Strand: Plus/Plus
+
+Query  4   GACCCTGCTTCGGCGGGGTT  23
+           ||||| ||| ||||||||||
+Sbjct  17  GACCCCGCTGCGGCGGGGTT  36
+
+
+
+
+>1645028_-
+Sequence ID: Query_98725 Length: 44
+Range 1: 23 to 44
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:19/22(86%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  7   CCTGCTTCGGCGGGGTTTTTTT  28
+           || ||||||||||| |||| ||
+Sbjct  23  CCCGCTTCGGCGGGTTTTTGTT  44
+
+
+
+
+>3270179_-
+Sequence ID: Query_99281 Length: 34
+Range 1: 11 to 29
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:17/19(89%),  Gaps:0/19(0%), Strand: Plus/Plus
+
+Query  7   CCTGCTTCGGCGGGGTTTT  25
+           || ||||||||||| ||||
+Sbjct  11  CCCGCTTCGGCGGGTTTTT  29
+
+
+
+
+>3270066_-
+Sequence ID: Query_99280 Length: 34
+Range 1: 11 to 29
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:17/19(89%),  Gaps:0/19(0%), Strand: Plus/Plus
+
+Query  7   CCTGCTTCGGCGGGGTTTT  25
+           || ||||||||||| ||||
+Sbjct  11  CCCGCTTCGGCGGGTTTTT  29
+
+
+
+
+>3033612_-
+Sequence ID: Query_99182 Length: 38
+Range 1: 24 to 37
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  17  CGGGGTTTTTTTAT  30
+           ||||||||||||||
+Sbjct  24  CGGGGTTTTTTTAT  37
+
+
+
+
+>2411395_-
+Sequence ID: Query_98969 Length: 36
+Range 1: 18 to 36
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:17/19(89%),  Gaps:0/19(0%), Strand: Plus/Plus
+
+Query  13  TCGGCGGGGTTTTTTTATG  31
+           ||| ||||| |||||||||
+Sbjct  18  TCGTCGGGGCTTTTTTATG  36
+
+
+
+
+>1686703_-
+Sequence ID: Query_98741 Length: 34
+Range 1: 15 to 33
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:17/19(89%),  Gaps:0/19(0%), Strand: Plus/Plus
+
+Query  11  CTTCGGCGGGGTTTTTTTA  29
+           |||||| | ||||||||||
+Sbjct  15  CTTCGGGGCGGTTTTTTTA  33
+
+
+
+
+>4449067_-
+Sequence ID: Query_99679 Length: 50
+Range 1: 38 to 50
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  19  GGGTTTTTTTATG  31
+           |||||||||||||
+Sbjct  38  GGGTTTTTTTATG  50
+
+
+
+
+>9921_+
+Sequence ID: Query_98200 Length: 36
+Range 1: 1 to 18
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:16/18(89%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  13  TCGGCGGGGTTTTTTTAT  30
+           |||| ||| |||||||||
+Sbjct  18  TCGGGGGGATTTTTTTAT  1
+
+
+
+
+
+Query #6: Eco6 Query ID: lcl|Query_98153 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1333700_+                                                                                         0          57.2   57.2  81%   7e-12 100.00 49         Query_98639      
+481213_-                                                                                          0          29.2   29.2  65%   0.003 88.00  36         Query_98345      
+463858_+                                                                                          0          27.4   27.4  71%   0.012 81.48  34         Query_98335      
+2822663_-                                                                                         0          26.5   26.5  63%   0.012 83.33  44         Query_99123      
+2259535_-                                                                                         0          26.5   26.5  36%   0.012 100.00 40         Query_98928      
+209625_+                                                                                          0          26.5   26.5  76%   0.012 79.31  34         Query_98258      
+2744123_-                                                                                         0          24.7   24.7  34%   0.040 100.00 38         Query_99094      
+
+
+Alignments:
+
+>1333700_+
+Sequence ID: Query_98639 Length: 49
+Range 1: 19 to 49
+
+Score:57.2 bits(62), Expect:7e-12, 
+Identities:31/31(100%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  1   ACAAAGGGTCGCGAAAGCGGCCCTTTTTTAT  31
+           |||||||||||||||||||||||||||||||
+Sbjct  19  ACAAAGGGTCGCGAAAGCGGCCCTTTTTTAT  49
+
+
+
+
+>481213_-
+Sequence ID: Query_98345 Length: 36
+Range 1: 11 to 34
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:22/25(88%),  Gaps:1/25(4%), Strand: Plus/Plus
+
+Query  7   GGTCGCGAAAGCGGCCCTTTTTTAT  31
+           || |||| |||||| ||||||||||
+Sbjct  11  GGCCGCGTAAGCGG-CCTTTTTTAT  34
+
+
+
+
+>463858_+
+Sequence ID: Query_98335 Length: 34
+Range 1: 3 to 29
+
+Score:27.4 bits(29), Expect:0.012, 
+Identities:22/27(81%),  Gaps:0/27(0%), Strand: Plus/Minus
+
+Query  3   AAAGGGTCGCGAAAGCGGCCCTTTTTT  29
+           ||| || |||||||||| || ||| ||
+Sbjct  29  AAAAGGCCGCGAAAGCGACCTTTTCTT  3
+
+
+
+
+>2822663_-
+Sequence ID: Query_99123 Length: 44
+Range 1: 12 to 35
+
+Score:26.5 bits(28), Expect:0.012, 
+Identities:20/24(83%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  4   AAGGGTCGCGAAAGCGGCCCTTTT  27
+           |||||||||    |||||||||||
+Sbjct  12  AAGGGTCGCATCTGCGGCCCTTTT  35
+
+
+
+
+>2259535_-
+Sequence ID: Query_98928 Length: 40
+Range 1: 27 to 40
+
+Score:26.5 bits(28), Expect:0.012, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  20  GCCCTTTTTTATTG  33
+           ||||||||||||||
+Sbjct  27  GCCCTTTTTTATTG  40
+
+
+
+
+>209625_+
+Sequence ID: Query_98258 Length: 34
+Range 1: 6 to 34
+
+Score:26.5 bits(28), Expect:0.012, 
+Identities:23/29(79%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  3   AAAGGGTCGCGAAAGCGGCCCTTTTTTAT  31
+           |||||||| |    | |||||||||||||
+Sbjct  6   AAAGGGTCACTTCGGTGGCCCTTTTTTAT  34
+
+
+
+
+>2744123_-
+Sequence ID: Query_99094 Length: 38
+Range 1: 26 to 38
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  19  GGCCCTTTTTTAT  31
+           |||||||||||||
+Sbjct  26  GGCCCTTTTTTAT  38
+
+
+
+
+
+Query #7: Eco7 Query ID: lcl|Query_98154 Length: 44
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1912732_-                                                                                         0          71.6   105   88%   4e-16 100.00 44         Query_98833      
+
+
+Alignments:
+
+>1912732_-
+Sequence ID: Query_98833 Length: 44
+Range 1: 6 to 44
+
+Score:71.6 bits(78), Expect:4e-16, 
+Identities:39/39(100%),  Gaps:0/39(0%), Strand: Plus/Plus
+
+Query  1   ATCAATCAGGCACAAGAAATTGTGCCTGATTTTTTAACA  39
+           |||||||||||||||||||||||||||||||||||||||
+Sbjct  6   ATCAATCAGGCACAAGAAATTGTGCCTGATTTTTTAACA  44
+
+
+
+
+Range 2: 9 to 36
+
+Score:33.7 bits(36), Expect:1e-04, 
+Identities:24/28(86%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  4   AATCAGGCACAAGAAATTGTGCCTGATT  31
+           ||||||||||||    ||||||||||||
+Sbjct  36  AATCAGGCACAATTTCTTGTGCCTGATT  9
+
+
+
+
+
+Query #8: Eco8 Query ID: lcl|Query_98155 Length: 40
+
+No significant similarity found.
+
+
+
+Query #9: Eco9 Query ID: lcl|Query_98156 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+209625_+                                                                                          0          57.2   81.9  81%   7e-12 100.00 34         Query_98258      
+1863817_+                                                                                         0          31.0   31.0  76%   0.001 82.76  34         Query_98803      
+2744123_-                                                                                         0          28.3   28.3  65%   0.003 84.00  38         Query_99094      
+2822663_-                                                                                         0          26.5   26.5  63%   0.012 83.33  44         Query_99123      
+1333700_+                                                                                         0          26.5   26.5  76%   0.012 79.31  49         Query_98639      
+2737721_+                                                                                         0          24.7   24.7  47%   0.040 88.89  41         Query_99091      
+
+
+Alignments:
+
+>209625_+
+Sequence ID: Query_98258 Length: 34
+Range 1: 4 to 34
+
+Score:57.2 bits(62), Expect:7e-12, 
+Identities:31/31(100%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGGTCACTTCGGTGGCCCTTTTTTAT  31
+           |||||||||||||||||||||||||||||||
+Sbjct  4   AAAAAGGGTCACTTCGGTGGCCCTTTTTTAT  34
+
+
+
+
+Range 2: 4 to 31
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:22/28(79%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  1   AAAAAGGGTCACTTCGGTGGCCCTTTTT  28
+           |||||||| |||    ||| ||||||||
+Sbjct  31  AAAAAGGGCCACCGAAGTGACCCTTTTT  4
+
+
+
+
+>1863817_+
+Sequence ID: Query_98803 Length: 34
+Range 1: 4 to 32
+
+Score:31.0 bits(33), Expect:0.001, 
+Identities:24/29(83%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGGTCACTTCGGTGGCCCTTTTTT  29
+           |||||| |  |||||||| || |||||||
+Sbjct  4   AAAAAGAGCGACTTCGGTCGCTCTTTTTT  32
+
+
+
+
+>2744123_-
+Sequence ID: Query_99094 Length: 38
+Range 1: 14 to 38
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:21/25(84%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  7   GGTCACTTCGGTGGCCCTTTTTTAT  31
+           || || || | ||||||||||||||
+Sbjct  14  GGCCAATTGGCTGGCCCTTTTTTAT  38
+
+
+
+
+>2822663_-
+Sequence ID: Query_99123 Length: 44
+Range 1: 12 to 35
+
+Score:26.5 bits(28), Expect:0.012, 
+Identities:20/24(83%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  4   AAGGGTCACTTCGGTGGCCCTTTT  27
+           ||||||| | || | |||||||||
+Sbjct  12  AAGGGTCGCATCTGCGGCCCTTTT  35
+
+
+
+
+>1333700_+
+Sequence ID: Query_98639 Length: 49
+Range 1: 21 to 49
+
+Score:26.5 bits(28), Expect:0.012, 
+Identities:23/29(79%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  3   AAAGGGTCACTTCGGTGGCCCTTTTTTAT  31
+           |||||||| |    | |||||||||||||
+Sbjct  21  AAAGGGTCGCGAAAGCGGCCCTTTTTTAT  49
+
+
+
+
+>2737721_+
+Sequence ID: Query_99091 Length: 41
+Range 1: 22 to 39
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:16/18(89%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  14  TCGGTGGCCCTTTTTTAT  31
+           |||| || ||||||||||
+Sbjct  22  TCGGGGGGCCTTTTTTAT  39
+
+
+
+
+
+Query #10: Eco10 Query ID: lcl|Query_98157 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+2196370_+                                                                                         0          60.8   60.8  86%   6e-13 100.00 40         Query_98912      
+
+
+Alignments:
+
+>2196370_+
+Sequence ID: Query_98912 Length: 40
+Range 1: 8 to 40
+
+Score:60.8 bits(66), Expect:6e-13, 
+Identities:33/33(100%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  1   CAAGGCGCTGCATCGACAGCGCCTTTTCTTTAT  33
+           |||||||||||||||||||||||||||||||||
+Sbjct  8   CAAGGCGCTGCATCGACAGCGCCTTTTCTTTAT  40
+
+
+
+
+
+Query #11: Eco11 Query ID: lcl|Query_98158 Length: 39
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+2286330_+                                                                                         0          59.0   99.1  82%   2e-12 100.00 35         Query_98940      
+2286296_-                                                                                         0          59.0   99.1  82%   2e-12 100.00 35         Query_98939      
+
+
+Alignments:
+
+>2286330_+
+Sequence ID: Query_98940 Length: 35
+Range 1: 4 to 35
+
+Score:59.0 bits(64), Expect:2e-12, 
+Identities:32/32(100%),  Gaps:0/32(0%), Strand: Plus/Plus
+
+Query  1   AAAAAACCAACCCTTACGGTTGGTTTTTTTAT  32
+           ||||||||||||||||||||||||||||||||
+Sbjct  4   AAAAAACCAACCCTTACGGTTGGTTTTTTTAT  35
+
+
+
+
+Range 2: 4 to 32
+
+Score:40.1 bits(43), Expect:2e-06, 
+Identities:26/29(90%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  1   AAAAAACCAACCCTTACGGTTGGTTTTTT  29
+           |||||||||||| | | ||||||||||||
+Sbjct  32  AAAAAACCAACCGTAAGGGTTGGTTTTTT  4
+
+
+
+
+>2286296_-
+Sequence ID: Query_98939 Length: 35
+Range 1: 1 to 32
+
+Score:59.0 bits(64), Expect:2e-12, 
+Identities:32/32(100%),  Gaps:0/32(0%), Strand: Plus/Minus
+
+Query  1   AAAAAACCAACCCTTACGGTTGGTTTTTTTAT  32
+           ||||||||||||||||||||||||||||||||
+Sbjct  32  AAAAAACCAACCCTTACGGTTGGTTTTTTTAT  1
+
+
+
+
+Range 2: 4 to 32
+
+Score:40.1 bits(43), Expect:2e-06, 
+Identities:26/29(90%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  1   AAAAAACCAACCCTTACGGTTGGTTTTTT  29
+           |||||||||||| | | ||||||||||||
+Sbjct  4   AAAAAACCAACCGTAAGGGTTGGTTTTTT  32
+
+
+
+
+
+Query #12: Eco12 Query ID: lcl|Query_98159 Length: 36
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+2311604_-                                                                                         0          55.4   87.3  83%   2e-11 100.00 34         Query_98944      
+940766_+                                                                                          0          33.7   33.7  63%   7e-05 91.30  34         Query_98492      
+454867_+                                                                                          0          30.1   30.1  58%   9e-04 90.48  34         Query_98330      
+
+
+Alignments:
+
+>2311604_-
+Sequence ID: Query_98944 Length: 34
+Range 1: 5 to 34
+
+Score:55.4 bits(60), Expect:2e-11, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Plus
+
+Query  1   AACAAAGGGCCTGCGGGCCCTTTTTTCATT  30
+           ||||||||||||||||||||||||||||||
+Sbjct  5   AACAAAGGGCCTGCGGGCCCTTTTTTCATT  34
+
+
+
+
+Range 2: 4 to 30
+
+Score:31.9 bits(34), Expect:2e-04, 
+Identities:23/27(85%),  Gaps:0/27(0%), Strand: Plus/Minus
+
+Query  1   AACAAAGGGCCTGCGGGCCCTTTTTTC  27
+           || |||||||| || |||||||| |||
+Sbjct  30  AAAAAAGGGCCCGCAGGCCCTTTGTTC  4
+
+
+
+
+>940766_+
+Sequence ID: Query_98492 Length: 34
+Range 1: 8 to 30
+
+Score:33.7 bits(36), Expect:7e-05, 
+Identities:21/23(91%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  4   AAAGGGCCTGCGGGCCCTTTTTT  26
+           |||| |||||||||| |||||||
+Sbjct  8   AAAGCGCCTGCGGGCGCTTTTTT  30
+
+
+
+
+>454867_+
+Sequence ID: Query_98330 Length: 34
+Range 1: 8 to 28
+
+Score:30.1 bits(32), Expect:9e-04, 
+Identities:19/21(90%),  Gaps:0/21(0%), Strand: Plus/Plus
+
+Query  4   AAAGGGCCTGCGGGCCCTTTT  24
+           ||| |||||||||||| ||||
+Sbjct  8   AAACGGCCTGCGGGCCGTTTT  28
+
+
+
+
+
+Query #13: Eco13 Query ID: lcl|Query_98160 Length: 49
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+2704285_-                                                                                         0          82.4   129   91%   2e-19 100.00 51         Query_99077      
+
+
+Alignments:
+
+>2704285_-
+Sequence ID: Query_99077 Length: 51
+Range 1: 7 to 51
+
+Score:82.4 bits(90), Expect:2e-19, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1   TCGTTCACGTTGTCGCCGTTATGGCGACAACGTGAATTATTTATG  45
+           |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7   TCGTTCACGTTGTCGCCGTTATGGCGACAACGTGAATTATTTATG  51
+
+
+
+
+Range 2: 10 to 42
+
+Score:47.3 bits(51), Expect:2e-08, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Minus
+
+Query  4   TTCACGTTGTCGCCGTTATGGCGACAACGTGAA  36
+           |||||||||||||| | | ||||||||||||||
+Sbjct  42  TTCACGTTGTCGCCATAACGGCGACAACGTGAA  10
+
+
+
+
+
+Query #14: Eco14 Query ID: lcl|Query_98161 Length: 47
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+3211075_+                                                                                         0          77.0   77.0  89%   9e-18 100.00 47         Query_99253      
+
+
+Alignments:
+
+>3211075_+
+Sequence ID: Query_99253 Length: 47
+Range 1: 6 to 47
+
+Score:77.0 bits(84), Expect:9e-18, 
+Identities:42/42(100%),  Gaps:0/42(0%), Strand: Plus/Plus
+
+Query  1   GTAAGGCCGTGCTTCCGAAAGGAATGCGCGGCTTATTTTCGT  42
+           ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GTAAGGCCGTGCTTCCGAAAGGAATGCGCGGCTTATTTTCGT  47
+
+
+
+
+
+Query #15: Eco15 Query ID: lcl|Query_98162 Length: 34
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+3525422_-                                                                                         0          62.6   62.6  100%  1e-13 100.00 45         Query_99362      
+3525450_+                                                                                         0          53.6   53.6  85%   7e-11 100.00 34         Query_99363      
+3046122_-                                                                                         0          41.9   41.9  73%   4e-07 96.00  34         Query_99188      
+3470093_-                                                                                         0          33.7   33.7  67%   6e-05 91.30  34         Query_99347      
+3079601_-                                                                                         0          30.1   30.1  67%   8e-04 92.00  34         Query_99200      
+446773_-                                                                                          0          29.2   29.2  67%   0.003 86.96  34         Query_98328      
+4189619_+                                                                                         0          24.7   24.7  67%   0.034 82.61  34         Query_99585      
+3411629_+                                                                                         0          24.7   24.7  38%   0.034 100.00 42         Query_99331      
+3377754_-                                                                                         0          24.7   24.7  67%   0.034 82.61  34         Query_99317      
+3270179_-                                                                                         0          24.7   24.7  67%   0.034 82.61  34         Query_99281      
+3270066_-                                                                                         0          24.7   24.7  67%   0.034 82.61  34         Query_99280      
+1223943_+                                                                                         0          24.7   24.7  67%   0.034 82.61  34         Query_98588      
+
+
+Alignments:
+
+>3525422_-
+Sequence ID: Query_99362 Length: 45
+Range 1: 9 to 42
+
+Score:62.6 bits(68), Expect:1e-13, 
+Identities:34/34(100%),  Gaps:0/34(0%), Strand: Plus/Minus
+
+Query  1   AAAAAGGCGCTTCGGCGCCTTTTCAGTTTGCTGA  34
+           ||||||||||||||||||||||||||||||||||
+Sbjct  42  AAAAAGGCGCTTCGGCGCCTTTTCAGTTTGCTGA  9
+
+
+
+
+>3525450_+
+Sequence ID: Query_99363 Length: 34
+Range 1: 6 to 34
+
+Score:53.6 bits(58), Expect:7e-11, 
+Identities:29/29(100%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCTTCGGCGCCTTTTCAGTTT  29
+           |||||||||||||||||||||||||||||
+Sbjct  6   AAAAAGGCGCTTCGGCGCCTTTTCAGTTT  34
+
+
+
+
+>3046122_-
+Sequence ID: Query_99188 Length: 34
+Range 1: 8 to 32
+
+Score:41.9 bits(45), Expect:4e-07, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  3   AAAGGCGCTTCGGCGCCTTTTCAGT  27
+           ||||||||||||||||||||| |||
+Sbjct  8   AAAGGCGCTTCGGCGCCTTTTTAGT  32
+
+
+
+
+>3470093_-
+Sequence ID: Query_99347 Length: 34
+Range 1: 6 to 28
+
+Score:33.7 bits(36), Expect:6e-05, 
+Identities:21/23(91%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCTTCGGCGCCTTTT  23
+           |||| |||||||||||||| |||
+Sbjct  6   AAAAGGGCGCTTCGGCGCCCTTT  28
+
+
+
+
+>3079601_-
+Sequence ID: Query_99200 Length: 34
+Range 1: 5 to 29
+
+Score:30.1 bits(32), Expect:8e-04, 
+Identities:23/25(92%),  Gaps:2/25(8%), Strand: Plus/Plus
+
+Query  1   AAAAAGG-CGCTTCGGCG-CCTTTT  23
+           ||||||| |||||||||| ||||||
+Sbjct  5   AAAAAGGTCGCTTCGGCGACCTTTT  29
+
+
+
+
+>446773_-
+Sequence ID: Query_98328 Length: 34
+Range 1: 6 to 28
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:20/23(87%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCTTCGGCGCCTTTT  23
+           ||||||| ||| |||| ||||||
+Sbjct  6   AAAAAGGTGCTACGGCACCTTTT  28
+
+
+
+
+>4189619_+
+Sequence ID: Query_99585 Length: 34
+Range 1: 6 to 28
+
+Score:24.7 bits(26), Expect:0.034, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCTTCGGCGCCTTTT  23
+           |||||  ||||||||||  ||||
+Sbjct  6   AAAAACCCGCTTCGGCGGGTTTT  28
+
+
+
+
+>3411629_+
+Sequence ID: Query_99331 Length: 42
+Range 1: 27 to 39
+
+Score:24.7 bits(26), Expect:0.034, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1   AAAAAGGCGCTTC  13
+           |||||||||||||
+Sbjct  39  AAAAAGGCGCTTC  27
+
+
+
+
+>3377754_-
+Sequence ID: Query_99317 Length: 34
+Range 1: 6 to 28
+
+Score:24.7 bits(26), Expect:0.034, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCTTCGGCGCCTTTT  23
+           |||||  ||||||||||  ||||
+Sbjct  6   AAAAACCCGCTTCGGCGGGTTTT  28
+
+
+
+
+>3270179_-
+Sequence ID: Query_99281 Length: 34
+Range 1: 6 to 28
+
+Score:24.7 bits(26), Expect:0.034, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCTTCGGCGCCTTTT  23
+           |||||  ||||||||||  ||||
+Sbjct  6   AAAAACCCGCTTCGGCGGGTTTT  28
+
+
+
+
+>3270066_-
+Sequence ID: Query_99280 Length: 34
+Range 1: 6 to 28
+
+Score:24.7 bits(26), Expect:0.034, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCTTCGGCGCCTTTT  23
+           |||||  ||||||||||  ||||
+Sbjct  6   AAAAACCCGCTTCGGCGGGTTTT  28
+
+
+
+
+>1223943_+
+Sequence ID: Query_98588 Length: 34
+Range 1: 12 to 34
+
+Score:24.7 bits(26), Expect:0.034, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  7   GCGCTTCGGCGCCTTTTCAGTTT  29
+           ||||||||||||  |||  ||||
+Sbjct  12  GCGCTTCGGCGCAGTTTTCGTTT  34
+
+
+
+
+
+Query #16: Eco16 Query ID: lcl|Query_98163 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+3599881_-                                                                                         0          59.0   59.0  84%   2e-12 100.00 36         Query_99390      
+
+
+Alignments:
+
+>3599881_-
+Sequence ID: Query_99390 Length: 36
+Range 1: 5 to 36
+
+Score:59.0 bits(64), Expect:2e-12, 
+Identities:32/32(100%),  Gaps:0/32(0%), Strand: Plus/Plus
+
+Query  1   AGAACCCTGGATGAGAGTCCGGGGTTTTTGTT  32
+           ||||||||||||||||||||||||||||||||
+Sbjct  5   AGAACCCTGGATGAGAGTCCGGGGTTTTTGTT  36
+
+
+
+
+
+Query #17: Eco17 Query ID: lcl|Query_98164 Length: 45
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+3895258_+                                                                                         0          69.8   102   84%   1e-15 100.00 41         Query_99490      
+3895219_-                                                                                         0          69.8   102   84%   1e-15 100.00 41         Query_99489      
+4060279_+                                                                                         0          28.3   28.3  44%   0.004 90.00  34         Query_99545      
+4109874_+                                                                                         0          26.5   26.5  31%   0.015 100.00 45         Query_99554      
+1441599_+                                                                                         0          26.5   26.5  42%   0.015 89.47  41         Query_98671      
+
+
+Alignments:
+
+>3895258_+
+Sequence ID: Query_99490 Length: 41
+Range 1: 1 to 38
+
+Score:69.8 bits(76), Expect:1e-15, 
+Identities:38/38(100%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  1   AAAAACCCGCCATGCATGATTGCTGGCGGGTTTTTTAT  38
+           ||||||||||||||||||||||||||||||||||||||
+Sbjct  38  AAAAACCCGCCATGCATGATTGCTGGCGGGTTTTTTAT  1
+
+
+
+
+Range 2: 4 to 38
+
+Score:32.8 bits(35), Expect:4e-04, 
+Identities:28/35(80%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  1   AAAAACCCGCCATGCATGATTGCTGGCGGGTTTTT  35
+           ||||||||||||   || ||   ||||||||||||
+Sbjct  4   AAAAACCCGCCAGCAATCATGCATGGCGGGTTTTT  38
+
+
+
+
+>3895219_-
+Sequence ID: Query_99489 Length: 41
+Range 1: 4 to 41
+
+Score:69.8 bits(76), Expect:1e-15, 
+Identities:38/38(100%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  1   AAAAACCCGCCATGCATGATTGCTGGCGGGTTTTTTAT  38
+           ||||||||||||||||||||||||||||||||||||||
+Sbjct  4   AAAAACCCGCCATGCATGATTGCTGGCGGGTTTTTTAT  41
+
+
+
+
+Range 2: 4 to 38
+
+Score:32.8 bits(35), Expect:4e-04, 
+Identities:28/35(80%),  Gaps:0/35(0%), Strand: Plus/Minus
+
+Query  1   AAAAACCCGCCATGCATGATTGCTGGCGGGTTTTT  35
+           ||||||||||||   || ||   ||||||||||||
+Sbjct  38  AAAAACCCGCCAGCAATCATGCATGGCGGGTTTTT  4
+
+
+
+
+>4060279_+
+Sequence ID: Query_99545 Length: 34
+Range 1: 1 to 20
+
+Score:28.3 bits(30), Expect:0.004, 
+Identities:18/20(90%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  19  ATTGCTGGCGGGTTTTTTAT  38
+           || |||||| ||||||||||
+Sbjct  20  ATCGCTGGCAGGTTTTTTAT  1
+
+
+
+
+>4109874_+
+Sequence ID: Query_99554 Length: 45
+Range 1: 31 to 44
+
+Score:26.5 bits(28), Expect:0.015, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  27  CGGGTTTTTTATTT  40
+           ||||||||||||||
+Sbjct  31  CGGGTTTTTTATTT  44
+
+
+
+
+>1441599_+
+Sequence ID: Query_98671 Length: 41
+Range 1: 20 to 38
+
+Score:26.5 bits(28), Expect:0.015, 
+Identities:17/19(89%),  Gaps:0/19(0%), Strand: Plus/Plus
+
+Query  17  TGATTGCTGGCGGGTTTTT  35
+           ||||| ||||||| |||||
+Sbjct  20  TGATTTCTGGCGGATTTTT  38
+
+
+
+
+
+Query #18: Eco18 Query ID: lcl|Query_98165 Length: 36
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4005841_+                                                                                         0          59.0   59.0  88%   2e-12 100.00 40         Query_99526      
+
+
+Alignments:
+
+>4005841_+
+Sequence ID: Query_99526 Length: 40
+Range 1: 9 to 40
+
+Score:59.0 bits(64), Expect:2e-12, 
+Identities:32/32(100%),  Gaps:0/32(0%), Strand: Plus/Plus
+
+Query  1   GCAGGCGCTGAAAATAGCGCCTGTTTTTATTT  32
+           ||||||||||||||||||||||||||||||||
+Sbjct  9   GCAGGCGCTGAAAATAGCGCCTGTTTTTATTT  40
+
+
+
+
+
+Query #19: Eco19 Query ID: lcl|Query_98166 Length: 40
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4044090_+                                                                                         0          66.2   114   90%   1e-14 100.00 42         Query_99537      
+1934728_-                                                                                         0          25.6   25.6  42%   0.044 94.44  46         Query_98842      
+3845761_+                                                                                         0          24.7   24.7  32%   0.044 100.00 35         Query_99470      
+3845731_-                                                                                         0          24.7   24.7  32%   0.044 100.00 35         Query_99469      
+837469_+                                                                                          0          24.7   24.7  32%   0.044 100.00 38         Query_98450      
+837435_-                                                                                          0          24.7   24.7  32%   0.044 100.00 38         Query_98449      
+
+
+Alignments:
+
+>4044090_+
+Sequence ID: Query_99537 Length: 42
+Range 1: 7 to 42
+
+Score:66.2 bits(72), Expect:1e-14, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  1   ATAAAGCCCGTGAATATTCACGGGCTTTTTTTATTA  36
+           ||||||||||||||||||||||||||||||||||||
+Sbjct  7   ATAAAGCCCGTGAATATTCACGGGCTTTTTTTATTA  42
+
+
+
+
+Range 2: 9 to 34
+
+Score:48.2 bits(52), Expect:4e-09, 
+Identities:26/26(100%),  Gaps:0/26(0%), Strand: Plus/Minus
+
+Query  3   AAAGCCCGTGAATATTCACGGGCTTT  28
+           ||||||||||||||||||||||||||
+Sbjct  34  AAAGCCCGTGAATATTCACGGGCTTT  9
+
+
+
+
+>1934728_-
+Sequence ID: Query_98842 Length: 46
+Range 1: 29 to 46
+
+Score:25.6 bits(27), Expect:0.044, 
+Identities:17/18(94%),  Gaps:1/18(5%), Strand: Plus/Plus
+
+Query  19  CACG-GGCTTTTTTTATT  35
+           |||| |||||||||||||
+Sbjct  29  CACGAGGCTTTTTTTATT  46
+
+
+
+
+>3845761_+
+Sequence ID: Query_99470 Length: 35
+Range 1: 1 to 13
+
+Score:24.7 bits(26), Expect:0.044, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  21  CGGGCTTTTTTTA  33
+           |||||||||||||
+Sbjct  13  CGGGCTTTTTTTA  1
+
+
+
+
+>3845731_-
+Sequence ID: Query_99469 Length: 35
+Range 1: 23 to 35
+
+Score:24.7 bits(26), Expect:0.044, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  21  CGGGCTTTTTTTA  33
+           |||||||||||||
+Sbjct  23  CGGGCTTTTTTTA  35
+
+
+
+
+>837469_+
+Sequence ID: Query_98450 Length: 38
+Range 1: 2 to 14
+
+Score:24.7 bits(26), Expect:0.044, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  20  ACGGGCTTTTTTT  32
+           |||||||||||||
+Sbjct  14  ACGGGCTTTTTTT  2
+
+
+
+
+>837435_-
+Sequence ID: Query_98449 Length: 38
+Range 1: 25 to 37
+
+Score:24.7 bits(26), Expect:0.044, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  20  ACGGGCTTTTTTT  32
+           |||||||||||||
+Sbjct  25  ACGGGCTTTTTTT  37
+
+
+
+
+
+Query #20: Eco20 Query ID: lcl|Query_98167 Length: 36
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4118843_+                                                                                         0          59.0   59.0  88%   2e-12 100.00 38         Query_99563      
+4118814_-                                                                                         0          55.4   55.4  83%   2e-11 100.00 34         Query_99562      
+4215276_+                                                                                         0          28.3   53.1  69%   0.003 90.00  34         Query_99589      
+4366837_-                                                                                         0          24.7   24.7  36%   0.037 100.00 36         Query_99645      
+481213_-                                                                                          0          24.7   24.7  77%   0.037 78.57  36         Query_98345      
+
+
+Alignments:
+
+>4118843_+
+Sequence ID: Query_99563 Length: 38
+Range 1: 1 to 32
+
+Score:59.0 bits(64), Expect:2e-12, 
+Identities:32/32(100%),  Gaps:0/32(0%), Strand: Plus/Minus
+
+Query  1   AGAAAGGCACCGCAAGGTGCCTTTTTTCTGCG  32
+           ||||||||||||||||||||||||||||||||
+Sbjct  32  AGAAAGGCACCGCAAGGTGCCTTTTTTCTGCG  1
+
+
+
+
+>4118814_-
+Sequence ID: Query_99562 Length: 34
+Range 1: 5 to 34
+
+Score:55.4 bits(60), Expect:2e-11, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Plus
+
+Query  1   AGAAAGGCACCGCAAGGTGCCTTTTTTCTG  30
+           ||||||||||||||||||||||||||||||
+Sbjct  5   AGAAAGGCACCGCAAGGTGCCTTTTTTCTG  34
+
+
+
+
+>4215276_+
+Sequence ID: Query_99589 Length: 34
+Range 1: 9 to 28
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:18/20(90%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  3   AAAGGCACCGCAAGGTGCCT  22
+           |||||||||  |||||||||
+Sbjct  28  AAAGGCACCCGAAGGTGCCT  9
+
+
+
+
+Range 2: 9 to 31
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  5   AGGCACCGCAAGGTGCCTTTTTT  27
+           |||||||    ||||||||||||
+Sbjct  9   AGGCACCTTCGGGTGCCTTTTTT  31
+
+
+
+
+>4366837_-
+Sequence ID: Query_99645 Length: 36
+Range 1: 24 to 36
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  17  GTGCCTTTTTTCT  29
+           |||||||||||||
+Sbjct  24  GTGCCTTTTTTCT  36
+
+
+
+
+>481213_-
+Sequence ID: Query_98345 Length: 36
+Range 1: 9 to 36
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:22/28(79%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  4   AAGGCACCGCAAGGTGCCTTTTTTCTGC  31
+           |||||  || |||  ||||||||| |||
+Sbjct  9   AAGGCCGCGTAAGCGGCCTTTTTTATGC  36
+
+
+
+
+
+Query #21: Eco21 Query ID: lcl|Query_98168 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4177185_+                                                                                         0          57.2   96.3  81%   7e-12 100.00 53         Query_99581      
+765148_+                                                                                          0          24.7   24.7  60%   0.040 82.61  50         Query_98422      
+
+
+Alignments:
+
+>4177185_+
+Sequence ID: Query_99581 Length: 53
+Range 1: 23 to 53
+
+Score:57.2 bits(62), Expect:7e-12, 
+Identities:31/31(100%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  1   TAAAAGGGCATCATTTGATGCCCTTTTTGCA  31
+           |||||||||||||||||||||||||||||||
+Sbjct  23  TAAAAGGGCATCATTTGATGCCCTTTTTGCA  53
+
+
+
+
+Range 2: 24 to 49
+
+Score:39.2 bits(42), Expect:2e-06, 
+Identities:24/26(92%),  Gaps:0/26(0%), Strand: Plus/Minus
+
+Query  2   AAAAGGGCATCATTTGATGCCCTTTT  27
+           ||||||||||||  ||||||||||||
+Sbjct  49  AAAAGGGCATCAAATGATGCCCTTTT  24
+
+
+
+
+>765148_+
+Sequence ID: Query_98422 Length: 50
+Range 1: 17 to 39
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  6   GGGCATCATTTGATGCCCTTTTT  28
+           || |||| | ||||| |||||||
+Sbjct  17  GGCCATCGTATGATGGCCTTTTT  39
+
+
+
+
+
+Query #22: Eco22 Query ID: lcl|Query_98169 Length: 45
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4178363_+                                                                                         0          73.4   73.4  88%   1e-16 100.00 45         Query_99582      
+
+
+Alignments:
+
+>4178363_+
+Sequence ID: Query_99582 Length: 45
+Range 1: 6 to 45
+
+Score:73.4 bits(80), Expect:1e-16, 
+Identities:40/40(100%),  Gaps:0/40(0%), Strand: Plus/Plus
+
+Query  1   CAAGGCGTGAGATTGGAATACAATTTCGCGCCTTTTGTTT  40
+           ||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   CAAGGCGTGAGATTGGAATACAATTTCGCGCCTTTTGTTT  45
+
+
+
+
+
+Query #23: Eco23 Query ID: lcl|Query_98170 Length: 40
+
+No significant similarity found.
+
+
+
+Query #24: Sal1 Query ID: lcl|Query_98171 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1487022_+                                                                                         0          27.4   27.4  44%   0.012 94.12  39         Query_98679      
+1904784_+                                                                                         0          26.5   26.5  63%   0.012 83.33  34         Query_98825      
+3276904_+                                                                                         0          25.6   25.6  68%   0.040 80.77  36         Query_99283      
+1622816_-                                                                                         0          25.6   25.6  42%   0.040 93.75  56         Query_98716      
+3648377_+                                                                                         0          24.7   24.7  34%   0.040 100.00 35         Query_99407      
+3512462_-                                                                                         0          24.7   24.7  34%   0.040 100.00 34         Query_99360      
+468270_+                                                                                          0          24.7   24.7  34%   0.040 100.00 34         Query_98339      
+
+
+Alignments:
+
+>1487022_+
+Sequence ID: Query_98679 Length: 39
+Range 1: 21 to 37
+
+Score:27.4 bits(29), Expect:0.012, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  13  TTAGCGCCCGGTTTTTT  29
+           |||||||| ||||||||
+Sbjct  21  TTAGCGCCGGGTTTTTT  37
+
+
+
+
+>1904784_+
+Sequence ID: Query_98825 Length: 34
+Range 1: 11 to 34
+
+Score:26.5 bits(28), Expect:0.012, 
+Identities:20/24(83%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  8   GGGCCTTAGCGCCCGGTTTTTTTA  31
+           |||||||   |||| |||||||||
+Sbjct  11  GGGCCTTTTGGCCCCGTTTTTTTA  34
+
+
+
+
+>3276904_+
+Sequence ID: Query_99283 Length: 36
+Range 1: 7 to 32
+
+Score:25.6 bits(27), Expect:0.040, 
+Identities:21/26(81%),  Gaps:0/26(0%), Strand: Plus/Plus
+
+Query  3   AAACCGGGCCTTAGCGCCCGGTTTTT  28
+           ||||  |||||||| |||  ||||||
+Sbjct  7   AAACATGGCCTTAGTGCCATGTTTTT  32
+
+
+
+
+>1622816_-
+Sequence ID: Query_98716 Length: 56
+Range 1: 35 to 50
+
+Score:25.6 bits(27), Expect:0.040, 
+Identities:15/16(94%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  21  CGGTTTTTTTACGCCG  36
+           |||||||||| |||||
+Sbjct  35  CGGTTTTTTTTCGCCG  50
+
+
+
+
+>3648377_+
+Sequence ID: Query_99407 Length: 35
+Range 1: 23 to 35
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  21  CGGTTTTTTTACG  33
+           |||||||||||||
+Sbjct  23  CGGTTTTTTTACG  35
+
+
+
+
+>3512462_-
+Sequence ID: Query_99360 Length: 34
+Range 1: 20 to 32
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  19  CCCGGTTTTTTTA  31
+           |||||||||||||
+Sbjct  20  CCCGGTTTTTTTA  32
+
+
+
+
+>468270_+
+Sequence ID: Query_98339 Length: 34
+Range 1: 20 to 32
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  18  GCCCGGTTTTTTT  30
+           |||||||||||||
+Sbjct  20  GCCCGGTTTTTTT  32
+
+
+
+
+
+Query #25: Sal2 Query ID: lcl|Query_98172 Length: 40
+
+No significant similarity found.
+
+
+
+Query #26: Sal3 Query ID: lcl|Query_98173 Length: 42
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1934728_-                                                                                         0          52.7   52.7  85%   3e-10 91.67  46         Query_98842      
+3336873_-                                                                                         0          28.3   28.3  76%   0.004 81.25  41         Query_99308      
+4044090_+                                                                                         0          26.5   26.5  33%   0.013 100.00 42         Query_99537      
+1907152_-                                                                                         0          24.7   24.7  30%   0.047 100.00 41         Query_98828      
+
+
+Alignments:
+
+>1934728_-
+Sequence ID: Query_98842 Length: 46
+Range 1: 11 to 46
+
+Score:52.7 bits(57), Expect:3e-10, 
+Identities:33/36(92%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  3   GCCTCGTGTGGATTCACCTGCGAGGCTTTTTTTATT  38
+           |||||||| |||||||||  ||||||||||||||||
+Sbjct  11  GCCTCGTGCGGATTCACCCACGAGGCTTTTTTTATT  46
+
+
+
+
+>3336873_-
+Sequence ID: Query_99308 Length: 41
+Range 1: 8 to 38
+
+Score:28.3 bits(30), Expect:0.004, 
+Identities:26/32(81%),  Gaps:1/32(3%), Strand: Plus/Plus
+
+Query  2   AGCCTCGTGTGGATTCACCTGCGAGGCTTTTT  33
+           ||||| || || ||| | | ||||||||||||
+Sbjct  8   AGCCTTGTCTG-ATTTATCAGCGAGGCTTTTT  38
+
+
+
+
+>4044090_+
+Sequence ID: Query_99537 Length: 42
+Range 1: 29 to 42
+
+Score:26.5 bits(28), Expect:0.013, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  26  GGCTTTTTTTATTA  39
+           ||||||||||||||
+Sbjct  29  GGCTTTTTTTATTA  42
+
+
+
+
+>1907152_-
+Sequence ID: Query_98828 Length: 41
+Range 1: 23 to 35
+
+Score:24.7 bits(26), Expect:0.047, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  21  TGCGAGGCTTTTT  33
+           |||||||||||||
+Sbjct  23  TGCGAGGCTTTTT  35
+
+
+
+
+
+Query #27: Sal4 Query ID: lcl|Query_98174 Length: 40
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1411008_+                                                                                         0          26.5   26.5  35%   0.013 100.00 47         Query_98667      
+
+
+Alignments:
+
+>1411008_+
+Sequence ID: Query_98667 Length: 47
+Range 1: 34 to 47
+
+Score:26.5 bits(28), Expect:0.013, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6   GGCGCTATCCTGGT  19
+           ||||||||||||||
+Sbjct  34  GGCGCTATCCTGGT  47
+
+
+
+
+
+Query #28: Sal5 Query ID: lcl|Query_98175 Length: 48
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+1151890_+                                                                                         0          69.8   101   79%   1e-15 100.00 38         Query_98565      
+
+
+Alignments:
+
+>1151890_+
+Sequence ID: Query_98565 Length: 38
+Range 1: 1 to 38
+
+Score:69.8 bits(76), Expect:1e-15, 
+Identities:38/38(100%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  2   AACATCTCCAGGCGGTCGTTCGACCGCCTGAGTTTTAT  39
+           ||||||||||||||||||||||||||||||||||||||
+Sbjct  1   AACATCTCCAGGCGGTCGTTCGACCGCCTGAGTTTTAT  38
+
+
+
+
+Range 2: 9 to 30
+
+Score:31.9 bits(34), Expect:4e-04, 
+Identities:20/22(91%),  Gaps:0/22(0%), Strand: Plus/Minus
+
+Query  10  CAGGCGGTCGTTCGACCGCCTG  31
+           ||||||||||  ||||||||||
+Sbjct  30  CAGGCGGTCGAACGACCGCCTG  9
+
+
+
+
+
+Query #29: Sal6 Query ID: lcl|Query_98176 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4480962_+                                                                                         0          40.1   74.7  63%   2e-06 95.83  40         Query_99693      
+4480931_-                                                                                         0          40.1   74.7  63%   2e-06 95.83  36         Query_99692      
+4253924_+                                                                                         0          31.9   58.5  78%   3e-04 85.19  40         Query_99607      
+4253893_-                                                                                         0          31.9   58.5  78%   3e-04 85.19  34         Query_99606      
+4621665_+                                                                                         0          31.0   57.6  73%   0.001 87.50  40         Query_99728      
+188683_-                                                                                          0          31.0   31.0  73%   0.001 85.71  34         Query_98252      
+2515035_-                                                                                         0          28.3   28.3  39%   0.003 100.00 36         Query_99009      
+608769_-                                                                                          0          28.3   28.3  39%   0.003 100.00 36         Query_98381      
+16149_-                                                                                           0          28.3   28.3  39%   0.003 100.00 36         Query_98202      
+3156604_+                                                                                         0          25.6   51.3  42%   0.040 93.75  40         Query_99228      
+3324939_-                                                                                         0          24.7   24.7  60%   0.040 82.61  36         Query_99301      
+1655217_-                                                                                         0          24.7   24.7  34%   0.040 100.00 40         Query_98729      
+1498907_+                                                                                         0          24.7   24.7  34%   0.040 100.00 37         Query_98687      
+1100845_+                                                                                         0          24.7   24.7  34%   0.040 100.00 35         Query_98546      
+
+
+Alignments:
+
+>4480962_+
+Sequence ID: Query_99693 Length: 40
+Range 1: 6 to 29
+
+Score:40.1 bits(43), Expect:2e-06, 
+Identities:23/24(96%),  Gaps:0/24(0%), Strand: Plus/Minus
+
+Query  6   GCCGGAGCATGCTCCGGCTTTTTT  29
+           |||||||||||||||||| |||||
+Sbjct  29  GCCGGAGCATGCTCCGGCCTTTTT  6
+
+
+
+
+Range 2: 12 to 32
+
+Score:34.6 bits(37), Expect:8e-05, 
+Identities:20/21(95%),  Gaps:0/21(0%), Strand: Plus/Plus
+
+Query  6   GCCGGAGCATGCTCCGGCTTT  26
+           |||||||||||||||||| ||
+Sbjct  12  GCCGGAGCATGCTCCGGCCTT  32
+
+
+
+
+>4480931_-
+Sequence ID: Query_99692 Length: 36
+Range 1: 10 to 33
+
+Score:40.1 bits(43), Expect:2e-06, 
+Identities:23/24(96%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  6   GCCGGAGCATGCTCCGGCTTTTTT  29
+           |||||||||||||||||| |||||
+Sbjct  10  GCCGGAGCATGCTCCGGCCTTTTT  33
+
+
+
+
+Range 2: 7 to 27
+
+Score:34.6 bits(37), Expect:8e-05, 
+Identities:20/21(95%),  Gaps:0/21(0%), Strand: Plus/Minus
+
+Query  6   GCCGGAGCATGCTCCGGCTTT  26
+           |||||||||||||||||| ||
+Sbjct  27  GCCGGAGCATGCTCCGGCCTT  7
+
+
+
+
+>4253924_+
+Sequence ID: Query_99607 Length: 40
+Range 1: 5 to 31
+
+Score:31.9 bits(34), Expect:3e-04, 
+Identities:23/27(85%),  Gaps:0/27(0%), Strand: Plus/Minus
+
+Query  4   AAGCCGGAGCATGCTCCGGCTTTTTTA  30
+           ||||||||  ||  |||||||||||||
+Sbjct  31  AAGCCGGATGATCATCCGGCTTTTTTA  5
+
+
+
+
+Range 2: 7 to 35
+
+Score:26.5 bits(28), Expect:0.012, 
+Identities:23/29(79%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  1   AACAAGCCGGAGCATGCTCCGGCTTTTTT  29
+           || ||||||||  ||  ||||||||| ||
+Sbjct  7   AAAAAGCCGGATGATCATCCGGCTTTCTT  35
+
+
+
+
+>4253893_-
+Sequence ID: Query_99606 Length: 34
+Range 1: 7 to 33
+
+Score:31.9 bits(34), Expect:3e-04, 
+Identities:23/27(85%),  Gaps:0/27(0%), Strand: Plus/Plus
+
+Query  4   AAGCCGGAGCATGCTCCGGCTTTTTTA  30
+           ||||||||  ||  |||||||||||||
+Sbjct  7   AAGCCGGATGATCATCCGGCTTTTTTA  33
+
+
+
+
+Range 2: 3 to 31
+
+Score:26.5 bits(28), Expect:0.012, 
+Identities:23/29(79%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  1   AACAAGCCGGAGCATGCTCCGGCTTTTTT  29
+           || ||||||||  ||  ||||||||| ||
+Sbjct  31  AAAAAGCCGGATGATCATCCGGCTTTCTT  3
+
+
+
+
+>4621665_+
+Sequence ID: Query_99728 Length: 40
+Range 1: 14 to 37
+
+Score:31.0 bits(33), Expect:0.001, 
+Identities:21/24(88%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  5   AGCCGGAGCATGCTCCGGCTTTTT  28
+           ||| ||||  ||||||||||||||
+Sbjct  14  AGCGGGAGACTGCTCCGGCTTTTT  37
+
+
+
+
+Range 2: 14 to 37
+
+Score:26.5 bits(28), Expect:0.012, 
+Identities:20/24(83%),  Gaps:0/24(0%), Strand: Plus/Minus
+
+Query  1   AACAAGCCGGAGCATGCTCCGGCT  24
+           || |||||||||||  |||| |||
+Sbjct  37  AAAAAGCCGGAGCAGTCTCCCGCT  14
+
+
+
+
+>188683_-
+Sequence ID: Query_98252 Length: 34
+Range 1: 8 to 33
+
+Score:31.0 bits(33), Expect:0.001, 
+Identities:24/28(86%),  Gaps:2/28(7%), Strand: Plus/Plus
+
+Query  4   AAGCCGGAGCATGCTCCGGCTTTTTTAA  31
+           ||||||| | ||||  ||||||||||||
+Sbjct  8   AAGCCGGCGAATGC--CGGCTTTTTTAA  33
+
+
+
+
+>2515035_-
+Sequence ID: Query_99009 Length: 36
+Range 1: 21 to 35
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  16  GCTCCGGCTTTTTTA  30
+           |||||||||||||||
+Sbjct  21  GCTCCGGCTTTTTTA  35
+
+
+
+
+>608769_-
+Sequence ID: Query_98381 Length: 36
+Range 1: 21 to 35
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  16  GCTCCGGCTTTTTTA  30
+           |||||||||||||||
+Sbjct  21  GCTCCGGCTTTTTTA  35
+
+
+
+
+>16149_-
+Sequence ID: Query_98202 Length: 36
+Range 1: 21 to 35
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  16  GCTCCGGCTTTTTTA  30
+           |||||||||||||||
+Sbjct  21  GCTCCGGCTTTTTTA  35
+
+
+
+
+>3156604_+
+Sequence ID: Query_99228 Length: 40
+Range 1: 13 to 28
+
+Score:25.6 bits(27), Expect:0.040, 
+Identities:15/16(94%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  7   CCGGAGCATGCTCCGG  22
+           ||||||| ||||||||
+Sbjct  13  CCGGAGCCTGCTCCGG  28
+
+
+
+
+Range 2: 13 to 28
+
+Score:25.6 bits(27), Expect:0.040, 
+Identities:15/16(94%),  Gaps:0/16(0%), Strand: Plus/Minus
+
+Query  7   CCGGAGCATGCTCCGG  22
+           |||||||| |||||||
+Sbjct  28  CCGGAGCAGGCTCCGG  13
+
+
+
+
+>3324939_-
+Sequence ID: Query_99301 Length: 36
+Range 1: 11 to 33
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  7   CCGGAGCATGCTCCGGCTTTTTT  29
+           |||| || ||||||||  |||||
+Sbjct  11  CCGGGGCGTGCTCCGGGGTTTTT  33
+
+
+
+
+>1655217_-
+Sequence ID: Query_98729 Length: 40
+Range 1: 26 to 38
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  17  CTCCGGCTTTTTT  29
+           |||||||||||||
+Sbjct  26  CTCCGGCTTTTTT  38
+
+
+
+
+>1498907_+
+Sequence ID: Query_98687 Length: 37
+Range 1: 24 to 36
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  20  CGGCTTTTTTAAC  32
+           |||||||||||||
+Sbjct  24  CGGCTTTTTTAAC  36
+
+
+
+
+>1100845_+
+Sequence ID: Query_98546 Length: 35
+Range 1: 22 to 34
+
+Score:24.7 bits(26), Expect:0.040, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  18  TCCGGCTTTTTTA  30
+           |||||||||||||
+Sbjct  22  TCCGGCTTTTTTA  34
+
+
+
+
+
+Query #30: Sal7 Query ID: lcl|Query_98177 Length: 32
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+2311604_-                                                                                         0          48.2   79.2  81%   3e-09 100.00 34         Query_98944      
+940766_+                                                                                          0          33.7   33.7  71%   6e-05 91.30  34         Query_98492      
+454867_+                                                                                          0          30.1   30.1  65%   7e-04 90.48  34         Query_98330      
+
+
+Alignments:
+
+>2311604_-
+Sequence ID: Query_98944 Length: 34
+Range 1: 8 to 33
+
+Score:48.2 bits(52), Expect:3e-09, 
+Identities:26/26(100%),  Gaps:0/26(0%), Strand: Plus/Plus
+
+Query  1   AAAGGGCCTGCGGGCCCTTTTTTCAT  26
+           ||||||||||||||||||||||||||
+Sbjct  8   AAAGGGCCTGCGGGCCCTTTTTTCAT  33
+
+
+
+
+Range 2: 4 to 27
+
+Score:31.0 bits(33), Expect:7e-04, 
+Identities:21/24(88%),  Gaps:0/24(0%), Strand: Plus/Minus
+
+Query  1   AAAGGGCCTGCGGGCCCTTTTTTC  24
+           |||||||| || |||||||| |||
+Sbjct  27  AAAGGGCCCGCAGGCCCTTTGTTC  4
+
+
+
+
+>940766_+
+Sequence ID: Query_98492 Length: 34
+Range 1: 8 to 30
+
+Score:33.7 bits(36), Expect:6e-05, 
+Identities:21/23(91%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  1   AAAGGGCCTGCGGGCCCTTTTTT  23
+           |||| |||||||||| |||||||
+Sbjct  8   AAAGCGCCTGCGGGCGCTTTTTT  30
+
+
+
+
+>454867_+
+Sequence ID: Query_98330 Length: 34
+Range 1: 8 to 28
+
+Score:30.1 bits(32), Expect:7e-04, 
+Identities:19/21(90%),  Gaps:0/21(0%), Strand: Plus/Plus
+
+Query  1   AAAGGGCCTGCGGGCCCTTTT  21
+           ||| |||||||||||| ||||
+Sbjct  8   AAACGGCCTGCGGGCCGTTTT  28
+
+
+
+
+
+Query #31: Sal8 Query ID: lcl|Query_98178 Length: 47
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+3211075_+                                                                                         0          72.5   72.5  89%   4e-16 97.62  47         Query_99253      
+
+
+Alignments:
+
+>3211075_+
+Sequence ID: Query_99253 Length: 47
+Range 1: 6 to 47
+
+Score:72.5 bits(79), Expect:4e-16, 
+Identities:41/42(98%),  Gaps:0/42(0%), Strand: Plus/Plus
+
+Query  1   GTAAGGCCGTGCTTCCGAAAGGAATGCGCGGCTTGTTTTCGT  42
+           |||||||||||||||||||||||||||||||||| |||||||
+Sbjct  6   GTAAGGCCGTGCTTCCGAAAGGAATGCGCGGCTTATTTTCGT  47
+
+
+
+
+
+Query #32: Sal9 Query ID: lcl|Query_98179 Length: 36
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4118843_+                                                                                         0          37.4   63.9  88%   6e-06 86.67  38         Query_99563      
+4118814_-                                                                                         0          33.7   60.3  83%   7e-05 85.71  34         Query_99562      
+481213_-                                                                                          0          33.7   33.7  77%   7e-05 85.71  36         Query_98345      
+4127264_+                                                                                         0          30.1   30.1  72%   9e-04 84.62  46         Query_99566      
+2521362_+                                                                                         0          28.3   53.1  77%   0.003 86.21  35         Query_99012      
+3322687_-                                                                                         0          27.4   27.4  75%   0.011 81.48  51         Query_99300      
+2536388_+                                                                                         0          27.4   27.4  75%   0.011 81.48  34         Query_99022      
+2536355_-                                                                                         0          27.4   27.4  75%   0.011 81.48  34         Query_99021      
+111030_+                                                                                          0          25.6   25.6  77%   0.037 80.00  34         Query_98223      
+3411629_+                                                                                         0          24.7   24.7  36%   0.037 100.00 42         Query_99331      
+2737541_+                                                                                         0          24.7   24.7  63%   0.037 82.61  36         Query_99090      
+2521485_-                                                                                         0          24.7   24.7  77%   0.037 78.57  33         Query_99013      
+1999539_-                                                                                         0          24.7   24.7  36%   0.037 100.00 36         Query_98861      
+781809_-                                                                                          0          24.7   24.7  77%   0.037 78.57  33         Query_98428      
+781685_+                                                                                          0          24.7   24.7  77%   0.037 78.57  35         Query_98427      
+
+
+Alignments:
+
+>4118843_+
+Sequence ID: Query_99563 Length: 38
+Range 1: 1 to 30
+
+Score:37.4 bits(40), Expect:6e-06, 
+Identities:26/30(87%),  Gaps:0/30(0%), Strand: Plus/Minus
+
+Query  3   AAAGGCGCCGTAAGGCGCCTTTTTTATGCG  32
+           |||||| ||| |||| ||||||||| ||||
+Sbjct  30  AAAGGCACCGCAAGGTGCCTTTTTTCTGCG  1
+
+
+
+
+Range 2: 7 to 35
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:23/29(79%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTTTAT  29
+           |||||||| || |  || |||||| ||||
+Sbjct  7   AAAAAGGCACCTTGCGGTGCCTTTCTTAT  35
+
+
+
+
+>4118814_-
+Sequence ID: Query_99562 Length: 34
+Range 1: 7 to 34
+
+Score:33.7 bits(36), Expect:7e-05, 
+Identities:24/28(86%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  3   AAAGGCGCCGTAAGGCGCCTTTTTTATG  30
+           |||||| ||| |||| ||||||||| ||
+Sbjct  7   AAAGGCACCGCAAGGTGCCTTTTTTCTG  34
+
+
+
+
+Range 2: 2 to 30
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:23/29(79%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTTTAT  29
+           |||||||| || |  || |||||| ||||
+Sbjct  30  AAAAAGGCACCTTGCGGTGCCTTTCTTAT  2
+
+
+
+
+>481213_-
+Sequence ID: Query_98345 Length: 36
+Range 1: 9 to 36
+
+Score:33.7 bits(36), Expect:7e-05, 
+Identities:24/28(86%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  4   AAGGCGCCGTAAGGCGCCTTTTTTATGC  31
+           |||||  ||||||  |||||||||||||
+Sbjct  9   AAGGCCGCGTAAGCGGCCTTTTTTATGC  36
+
+
+
+
+>4127264_+
+Sequence ID: Query_99566 Length: 46
+Range 1: 19 to 44
+
+Score:30.1 bits(32), Expect:9e-04, 
+Identities:22/26(85%),  Gaps:0/26(0%), Strand: Plus/Minus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTT  26
+           ||||| |||||||  ||||| |||||
+Sbjct  44  AAAAAAGCGCCGTGCGGCGCTTTTTT  19
+
+
+
+
+>2521362_+
+Sequence ID: Query_99012 Length: 35
+Range 1: 5 to 32
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:25/29(86%),  Gaps:2/29(6%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCCGTAA-GGCGCCTTTTTTA  28
+           ||||| ||||| ||| ||||| |||||||
+Sbjct  5   AAAAAAGCGCCCTAAAGGCGC-TTTTTTA  32
+
+
+
+
+Range 2: 4 to 31
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:22/28(79%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTTTA  28
+           ||||| ||||| | |||   ||||||||
+Sbjct  31  AAAAAAGCGCCTTTAGGGCGCTTTTTTA  4
+
+
+
+
+>3322687_-
+Sequence ID: Query_99300 Length: 51
+Range 1: 23 to 49
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:22/27(81%),  Gaps:0/27(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTTT  27
+           ||||||||| ||   | ||||||||||
+Sbjct  23  AAAAAGGCGGCGATTGTCGCCTTTTTT  49
+
+
+
+
+>2536388_+
+Sequence ID: Query_99022 Length: 34
+Range 1: 4 to 30
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:22/27(81%),  Gaps:0/27(0%), Strand: Plus/Minus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTTT  27
+           |||| |||||||   |||||| |||||
+Sbjct  30  AAAATGGCGCCGATGGGCGCCATTTTT  4
+
+
+
+
+>2536355_-
+Sequence ID: Query_99021 Length: 34
+Range 1: 5 to 31
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:22/27(81%),  Gaps:0/27(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTTT  27
+           |||| |||||||   |||||| |||||
+Sbjct  5   AAAATGGCGCCGATGGGCGCCATTTTT  31
+
+
+
+
+>111030_+
+Sequence ID: Query_98223 Length: 34
+Range 1: 5 to 34
+
+Score:25.6 bits(27), Expect:0.037, 
+Identities:24/30(80%),  Gaps:2/30(6%), Strand: Plus/Plus
+
+Query  2   AAAAGGCGCCGTAAG--GCGCCTTTTTTAT  29
+           ||||||||| | |    |||||||||||||
+Sbjct  5   AAAAGGCGCAGGATTCTGCGCCTTTTTTAT  34
+
+
+
+
+>3411629_+
+Sequence ID: Query_99331 Length: 42
+Range 1: 30 to 42
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  17  GCGCCTTTTTTAT  29
+           |||||||||||||
+Sbjct  30  GCGCCTTTTTTAT  42
+
+
+
+
+>2737541_+
+Sequence ID: Query_99090 Length: 36
+Range 1: 9 to 31
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTT  23
+           ||||| |||||  ||||||| ||
+Sbjct  31  AAAAACGCGCCCGAAGGCGCGTT  9
+
+
+
+
+>2521485_-
+Sequence ID: Query_99013 Length: 33
+Range 1: 4 to 31
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:22/28(79%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTTTA  28
+           ||||| ||||| | |||   ||||||||
+Sbjct  4   AAAAAAGCGCCTTTAGGGCGCTTTTTTA  31
+
+
+
+
+>1999539_-
+Sequence ID: Query_98861 Length: 36
+Range 1: 23 to 35
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  17  GCGCCTTTTTTAT  29
+           |||||||||||||
+Sbjct  23  GCGCCTTTTTTAT  35
+
+
+
+
+>781809_-
+Sequence ID: Query_98428 Length: 33
+Range 1: 4 to 31
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:22/28(79%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTTTA  28
+           ||||| ||||| | |||   ||||||||
+Sbjct  4   AAAAAAGCGCCTTTAGGGCGCTTTTTTA  31
+
+
+
+
+>781685_+
+Sequence ID: Query_98427 Length: 35
+Range 1: 4 to 31
+
+Score:24.7 bits(26), Expect:0.037, 
+Identities:22/28(79%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  1   AAAAAGGCGCCGTAAGGCGCCTTTTTTA  28
+           ||||| ||||| | |||   ||||||||
+Sbjct  31  AAAAAAGCGCCTTTAGGGCGCTTTTTTA  4
+
+
+
+
+
+Query #33: Sal10 Query ID: lcl|Query_98180 Length: 37
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4426606_+                                                                                         0          27.4   27.4  72%   0.011 81.48  35         Query_99668      
+4426575_-                                                                                         0          27.4   27.4  72%   0.011 81.48  35         Query_99667      
+193489_+                                                                                          0          25.6   25.6  43%   0.039 93.75  53         Query_98255      
+
+
+Alignments:
+
+>4426606_+
+Sequence ID: Query_99668 Length: 35
+Range 1: 3 to 29
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:22/27(81%),  Gaps:0/27(0%), Strand: Plus/Minus
+
+Query  3   AACGCCGGTCACTGACCGGCGTTTTTA  29
+           |||||||  || ||  |||||||||||
+Sbjct  29  AACGCCGACCAATGGTCGGCGTTTTTA  3
+
+
+
+
+>4426575_-
+Sequence ID: Query_99667 Length: 35
+Range 1: 7 to 33
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:22/27(81%),  Gaps:0/27(0%), Strand: Plus/Plus
+
+Query  3   AACGCCGGTCACTGACCGGCGTTTTTA  29
+           |||||||  || ||  |||||||||||
+Sbjct  7   AACGCCGACCAATGGTCGGCGTTTTTA  33
+
+
+
+
+>193489_+
+Sequence ID: Query_98255 Length: 53
+Range 1: 4 to 19
+
+Score:25.6 bits(27), Expect:0.039, 
+Identities:15/16(94%),  Gaps:0/16(0%), Strand: Plus/Minus
+
+Query  13  ACTGACCGGCGTTTTT  28
+           ||||| ||||||||||
+Sbjct  19  ACTGAGCGGCGTTTTT  4
+
+
+
+
+
+Query #34: Sal11 Query ID: lcl|Query_98181 Length: 43
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4178363_+                                                                                         0          50.0   81.0  86%   1e-09 89.19  45         Query_99582      
+1122684_-                                                                                         0          24.7   24.7  41%   0.049 88.89  36         Query_98557      
+
+
+Alignments:
+
+>4178363_+
+Sequence ID: Query_99582 Length: 45
+Range 1: 9 to 45
+
+Score:50.0 bits(54), Expect:1e-09, 
+Identities:33/37(89%),  Gaps:0/37(0%), Strand: Plus/Plus
+
+Query  2   GGCGCGAAATTGACATACAATTTCGCGCCTTTTGTTT  38
+           |||| || ||||  |||||||||||||||||||||||
+Sbjct  9   GGCGTGAGATTGGAATACAATTTCGCGCCTTTTGTTT  45
+
+
+
+
+Range 2: 4 to 37
+
+Score:31.0 bits(33), Expect:0.001, 
+Identities:27/34(79%),  Gaps:0/34(0%), Strand: Plus/Minus
+
+Query  2   GGCGCGAAATTGACATACAATTTCGCGCCTTTTG  35
+           ||||||||||||   | |||| || |||||| ||
+Sbjct  37  GGCGCGAAATTGTATTCCAATCTCACGCCTTGTG  4
+
+
+
+
+>1122684_-
+Sequence ID: Query_98557 Length: 36
+Range 1: 18 to 35
+
+Score:24.7 bits(26), Expect:0.049, 
+Identities:16/18(89%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  23  TTCGCGCCTTTTGTTTTT  40
+           |||||||| ||| |||||
+Sbjct  18  TTCGCGCCCTTTATTTTT  35
+
+
+
+
+
+Query #35: Sal12 Query ID: lcl|Query_98182 Length: 36
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4005841_+                                                                                         0          54.5   54.5  88%   8e-11 96.88  40         Query_99526      
+
+
+Alignments:
+
+>4005841_+
+Sequence ID: Query_99526 Length: 40
+Range 1: 9 to 40
+
+Score:54.5 bits(59), Expect:8e-11, 
+Identities:31/32(97%),  Gaps:0/32(0%), Strand: Plus/Plus
+
+Query  1   GCAGGCGCTGAAAATAGCGCCTGTTTTGATTT  32
+           ||||||||||||||||||||||||||| ||||
+Sbjct  9   GCAGGCGCTGAAAATAGCGCCTGTTTTTATTT  40
+
+
+
+
+
+Query #36: Sal13 Query ID: lcl|Query_98183 Length: 40
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+3915502_-                                                                                         0          24.7   24.7  82%   0.044 75.76  38         Query_99495      
+
+
+Alignments:
+
+>3915502_-
+Sequence ID: Query_99495 Length: 38
+Range 1: 6 to 38
+
+Score:24.7 bits(26), Expect:0.044, 
+Identities:25/33(76%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  2   AAAACCAGTCTGATTGCGGACTGGTTTTTTTTT  34
+           ||| ||||||||    | | |||| ||||||||
+Sbjct  6   AAAGCCAGTCTGGAAACAGGCTGGCTTTTTTTT  38
+
+
+
+
+
+Query #37: Sal14 Query ID: lcl|Query_98184 Length: 43
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+3476569_-                                                                                         0          29.2   29.2  79%   0.004 80.00  38         Query_99348      
+1883042_+                                                                                         0          28.3   28.3  62%   0.004 85.19  39         Query_98816      
+3512462_-                                                                                         0          24.7   24.7  30%   0.049 100.00 34         Query_99360      
+1923291_-                                                                                         0          24.7   24.7  30%   0.049 100.00 46         Query_98836      
+1686703_-                                                                                         0          24.7   24.7  30%   0.049 100.00 34         Query_98741      
+1474066_+                                                                                         0          24.7   24.7  30%   0.049 100.00 46         Query_98676      
+
+
+Alignments:
+
+>3476569_-
+Sequence ID: Query_99348 Length: 38
+Range 1: 4 to 38
+
+Score:29.2 bits(31), Expect:0.004, 
+Identities:28/35(80%),  Gaps:1/35(2%), Strand: Plus/Plus
+
+Query  2   AAAAACCGCCGTGTCACAAA-CGGCGGTTTTTTTA  35
+           || ||||||||  | || |  ||||||||||||||
+Sbjct  4   AAGAACCGCCGCCTGACCAGGCGGCGGTTTTTTTA  38
+
+
+
+
+>1883042_+
+Sequence ID: Query_98816 Length: 39
+Range 1: 12 to 37
+
+Score:28.3 bits(30), Expect:0.004, 
+Identities:23/27(85%),  Gaps:1/27(3%), Strand: Plus/Plus
+
+Query  10  CCGTGTCACAAACGGCGGTTTTTTTAT  36
+           ||| |||||  ||| ||||||||||||
+Sbjct  12  CCGCGTCACTGACG-CGGTTTTTTTAT  37
+
+
+
+
+>3512462_-
+Sequence ID: Query_99360 Length: 34
+Range 1: 22 to 34
+
+Score:24.7 bits(26), Expect:0.049, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  25  CGGTTTTTTTATC  37
+           |||||||||||||
+Sbjct  22  CGGTTTTTTTATC  34
+
+
+
+
+>1923291_-
+Sequence ID: Query_98836 Length: 46
+Range 1: 1 to 13
+
+Score:24.7 bits(26), Expect:0.049, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  23  GGCGGTTTTTTTA  35
+           |||||||||||||
+Sbjct  13  GGCGGTTTTTTTA  1
+
+
+
+
+>1686703_-
+Sequence ID: Query_98741 Length: 34
+Range 1: 21 to 33
+
+Score:24.7 bits(26), Expect:0.049, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  23  GGCGGTTTTTTTA  35
+           |||||||||||||
+Sbjct  21  GGCGGTTTTTTTA  33
+
+
+
+
+>1474066_+
+Sequence ID: Query_98676 Length: 46
+Range 1: 32 to 44
+
+Score:24.7 bits(26), Expect:0.049, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  24  GCGGTTTTTTTAT  36
+           |||||||||||||
+Sbjct  32  GCGGTTTTTTTAT  44
+
+
+
+
+
+Query #38: Sal15 Query ID: lcl|Query_98185 Length: 37
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+3512462_-                                                                                         0          31.9   56.7  78%   3e-04 91.67  34         Query_99360      
+3477893_+                                                                                         0          28.3   28.3  81%   0.003 80.00  33         Query_99350      
+3477862_-                                                                                         0          28.3   28.3  81%   0.003 80.00  33         Query_99349      
+3959908_-                                                                                         0          24.7   24.7  62%   0.039 82.61  44         Query_99512      
+3407309_+                                                                                         0          24.7   24.7  75%   0.039 78.57  33         Query_99329      
+
+
+Alignments:
+
+>3512462_-
+Sequence ID: Query_99360 Length: 34
+Range 1: 8 to 30
+
+Score:31.9 bits(34), Expect:3e-04, 
+Identities:22/24(92%),  Gaps:1/24(4%), Strand: Plus/Minus
+
+Query  1   AAAAAACCGGGATTTTCCCGGTTT  24
+           ||||||||||| ||| ||||||||
+Sbjct  30  AAAAAACCGGG-TTTCCCCGGTTT  8
+
+
+
+
+Range 2: 20 to 32
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  17  CCCGGTTTTTTTA  29
+           |||||||||||||
+Sbjct  20  CCCGGTTTTTTTA  32
+
+
+
+
+>3477893_+
+Sequence ID: Query_99350 Length: 33
+Range 1: 1 to 30
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:24/30(80%),  Gaps:0/30(0%), Strand: Plus/Minus
+
+Query  1   AAAAAACCGGGATTTTCCCGGTTTTTTTAC  30
+           |||||| ||||   | |||| |||||||||
+Sbjct  30  AAAAAAGCGGGGAATCCCCGCTTTTTTTAC  1
+
+
+
+
+>3477862_-
+Sequence ID: Query_99349 Length: 33
+Range 1: 4 to 33
+
+Score:28.3 bits(30), Expect:0.003, 
+Identities:24/30(80%),  Gaps:0/30(0%), Strand: Plus/Plus
+
+Query  1   AAAAAACCGGGATTTTCCCGGTTTTTTTAC  30
+           |||||| ||||   | |||| |||||||||
+Sbjct  4   AAAAAAGCGGGGAATCCCCGCTTTTTTTAC  33
+
+
+
+
+>3959908_-
+Sequence ID: Query_99512 Length: 44
+Range 1: 12 to 34
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  4   AAACCGGGATTTTCCCGGTTTTT  26
+           || || ||||||||| || ||||
+Sbjct  12  AAGCCCGGATTTTCCGGGCTTTT  34
+
+
+
+
+>3407309_+
+Sequence ID: Query_99329 Length: 33
+Range 1: 5 to 32
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:22/28(79%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  2   AAAAACCGGGATTTTCCCGGTTTTTTTA  29
+           ||||  | ||||||||| |  |||||||
+Sbjct  5   AAAAGGCCGGATTTTCCGGCCTTTTTTA  32
+
+
+
+
+
+Query #39: Sal16 Query ID: lcl|Query_98186 Length: 39
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+458758_+                                                                                          0          55.4   55.4  89%   2e-11 94.29  41         Query_98332      
+
+
+Alignments:
+
+>458758_+
+Sequence ID: Query_98332 Length: 41
+Range 1: 7 to 41
+
+Score:55.4 bits(60), Expect:2e-11, 
+Identities:33/35(94%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  1   AAAAAGGGGGGATTTTATCTCCCCTTTCGTTTTTC  35
+           |||||||||||||||||||||||||||  ||||||
+Sbjct  7   AAAAAGGGGGGATTTTATCTCCCCTTTAATTTTTC  41
+
+
+
+
+
+Query #40: Sal17 Query ID: lcl|Query_98187 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+3448261_-                                                                                         0          43.7   74.7  81%   2e-07 90.32  34         Query_99342      
+1346936_-                                                                                         0          31.9   31.9  57%   3e-04 90.91  43         Query_98647      
+
+
+Alignments:
+
+>3448261_-
+Sequence ID: Query_99342 Length: 34
+Range 1: 4 to 34
+
+Score:43.7 bits(47), Expect:2e-07, 
+Identities:28/31(90%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  1   ATAAACGGCTCAGCGATGGGCCGTTTATTTT  31
+           |||||||||||||  ||| ||||||||||||
+Sbjct  4   ATAAACGGCTCAGAAATGAGCCGTTTATTTT  34
+
+
+
+
+Range 2: 3 to 31
+
+Score:31.0 bits(33), Expect:0.001, 
+Identities:24/29(83%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  1   ATAAACGGCTCAGCGATGGGCCGTTTATT  29
+           ||||||||||||    || ||||||||||
+Sbjct  31  ATAAACGGCTCATTTCTGAGCCGTTTATT  3
+
+
+
+
+>1346936_-
+Sequence ID: Query_98647 Length: 43
+Range 1: 20 to 41
+
+Score:31.9 bits(34), Expect:3e-04, 
+Identities:20/22(91%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  9   CTCAGCGATGGGCCGTTTATTT  30
+           ||||  ||||||||||||||||
+Sbjct  20  CTCATGGATGGGCCGTTTATTT  41
+
+
+
+
+
+Query #41: Sal18 Query ID: lcl|Query_98188 Length: 41
+
+No significant similarity found.
+
+
+
+Query #42: Sal19 Query ID: lcl|Query_98189 Length: 40
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4410051_+                                                                                         0          34.6   64.8  80%   8e-05 88.46  50         Query_99660      
+
+
+Alignments:
+
+>4410051_+
+Sequence ID: Query_99660 Length: 50
+Range 1: 25 to 50
+
+Score:34.6 bits(37), Expect:8e-05, 
+Identities:23/26(88%),  Gaps:0/26(0%), Strand: Plus/Plus
+
+Query  7   CCATCCATAATCGGATGGTTTTTTTT  32
+           ||||||| | | ||||||||||||||
+Sbjct  25  CCATCCAGATTTGGATGGTTTTTTTT  50
+
+
+
+
+Range 2: 20 to 48
+
+Score:30.1 bits(32), Expect:0.001, 
+Identities:26/30(87%),  Gaps:2/30(6%), Strand: Plus/Minus
+
+Query  1   AAATAACCATCCATAATC-GGATGGTTTTT  29
+           ||| ||||||||| |||| |||||| ||||
+Sbjct  48  AAAAAACCATCCA-AATCTGGATGGCTTTT  20
+
+
+
+
+
+Query #43: Sal20 Query ID: lcl|Query_98190 Length: 38
+
+No significant similarity found.
+
+
+
+Query #44: Sal21 Query ID: lcl|Query_98191 Length: 55
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+85362_+                                                                                           0          43.7   43.7  76%   2e-07 83.72  50         Query_98220      
+
+
+Alignments:
+
+>85362_+
+Sequence ID: Query_98220 Length: 50
+Range 1: 7 to 49
+
+Score:43.7 bits(47), Expect:2e-07, 
+Identities:36/43(84%),  Gaps:1/43(2%), Strand: Plus/Plus
+
+Query  5   GCAGAATAAATCAGAAACAAAT-TCTGGTTTATTCTGCTTTTT  46
+           ||||||||  ||||| |  ||| ||||||||||||||| ||||
+Sbjct  7   GCAGAATAGGTCAGACATGAATGTCTGGTTTATTCTGCATTTT  49
+
+
+
+
+
+Query #45: Sal22 Query ID: lcl|Query_98192 Length: 39
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+2630935_+                                                                                         0          37.4   37.4  82%   7e-06 87.50  36         Query_99053      
+2630902_-                                                                                         0          37.4   37.4  82%   7e-06 87.50  36         Query_99052      
+
+
+Alignments:
+
+>2630935_+
+Sequence ID: Query_99053 Length: 36
+Range 1: 1 to 31
+
+Score:37.4 bits(40), Expect:7e-06, 
+Identities:28/32(88%),  Gaps:1/32(3%), Strand: Plus/Minus
+
+Query  1   AAACCGTCTGTTAATAACAGACGGTTTTTTAT  32
+           ||||| ||||||| || |||| ||||||||||
+Sbjct  31  AAACCCTCTGTTACTA-CAGAGGGTTTTTTAT  1
+
+
+
+
+>2630902_-
+Sequence ID: Query_99052 Length: 36
+Range 1: 6 to 36
+
+Score:37.4 bits(40), Expect:7e-06, 
+Identities:28/32(88%),  Gaps:1/32(3%), Strand: Plus/Plus
+
+Query  1   AAACCGTCTGTTAATAACAGACGGTTTTTTAT  32
+           ||||| ||||||| || |||| ||||||||||
+Sbjct  6   AAACCCTCTGTTACTA-CAGAGGGTTTTTTAT  36
+
+
+
+
+
+Query #46: Sal23 Query ID: lcl|Query_98193 Length: 45
+
+No significant similarity found.
+
+
+
+Query #47: Sal24 Query ID: lcl|Query_98194 Length: 37
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+4189619_+                                                                                         0          36.5   36.5  75%   2e-05 89.29  34         Query_99585      
+3439573_-                                                                                         0          36.5   63.9  75%   2e-05 89.29  34         Query_99341      
+3377754_-                                                                                         0          36.5   36.5  75%   2e-05 89.29  34         Query_99317      
+657548_+                                                                                          0          34.6   34.6  83%   7e-05 83.87  35         Query_98394      
+657517_-                                                                                          0          34.6   34.6  83%   7e-05 83.87  35         Query_98393      
+3270179_-                                                                                         0          32.8   32.8  70%   3e-04 88.46  34         Query_99281      
+3270066_-                                                                                         0          32.8   32.8  70%   3e-04 88.46  34         Query_99280      
+3110479_+                                                                                         0          30.1   56.7  70%   0.001 84.62  35         Query_99217      
+3110450_-                                                                                         0          30.1   56.7  70%   0.001 84.62  37         Query_99216      
+1645028_-                                                                                         0          30.1   30.1  72%   0.001 85.19  44         Query_98725      
+2286330_+                                                                                         0          29.2   29.2  75%   0.003 82.14  35         Query_98940      
+2286296_-                                                                                         0          29.2   29.2  75%   0.003 82.14  35         Query_98939      
+1922050_+                                                                                         0          29.2   29.2  75%   0.003 82.14  49         Query_98835      
+2564427_+                                                                                         0          27.4   27.4  72%   0.011 81.48  47         Query_99030      
+1821861_-                                                                                         0          27.4   27.4  78%   0.011 82.76  36         Query_98790      
+1286569_+                                                                                         0          27.4   27.4  45%   0.011 94.12  38         Query_98615      
+1260888_-                                                                                         0          27.4   27.4  75%   0.011 82.14  34         Query_98608      
+2653353_-                                                                                         0          26.5   26.5  81%   0.011 80.65  36         Query_99060      
+3982846_+                                                                                         0          25.6   25.6  43%   0.039 93.75  34         Query_99517      
+4027233_-                                                                                         0          24.7   24.7  35%   0.039 100.00 35         Query_99534      
+2654157_+                                                                                         0          24.7   24.7  62%   0.039 82.61  37         Query_99063      
+2654130_-                                                                                         0          24.7   24.7  62%   0.039 82.61  37         Query_99062      
+1686703_-                                                                                         0          24.7   24.7  62%   0.039 82.61  34         Query_98741      
+
+
+Alignments:
+
+>4189619_+
+Sequence ID: Query_99585 Length: 34
+Range 1: 7 to 31
+
+Score:36.5 bits(39), Expect:2e-05, 
+Identities:25/28(89%),  Gaps:3/28(10%), Strand: Plus/Plus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTTTT  29
+           |||||||||   ||||||||||||||||
+Sbjct  7   AAAACCCGC---TTCGGCGGGTTTTTTT  31
+
+
+
+
+>3439573_-
+Sequence ID: Query_99341 Length: 34
+Range 1: 7 to 31
+
+Score:36.5 bits(39), Expect:2e-05, 
+Identities:25/28(89%),  Gaps:3/28(10%), Strand: Plus/Plus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTTTT  29
+           |||||||||||   ||||||||||||||
+Sbjct  7   AAAACCCGCCC---CGGCGGGTTTTTTT  31
+
+
+
+
+Range 2: 4 to 28
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:23/28(82%),  Gaps:3/28(10%), Strand: Plus/Minus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTTTT  29
+           ||||||||||     |||||||||||||
+Sbjct  28  AAAACCCGCCGG---GGCGGGTTTTTTT  4
+
+
+
+
+>3377754_-
+Sequence ID: Query_99317 Length: 34
+Range 1: 7 to 31
+
+Score:36.5 bits(39), Expect:2e-05, 
+Identities:25/28(89%),  Gaps:3/28(10%), Strand: Plus/Plus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTTTT  29
+           |||||||||   ||||||||||||||||
+Sbjct  7   AAAACCCGC---TTCGGCGGGTTTTTTT  31
+
+
+
+
+>657548_+
+Sequence ID: Query_98394 Length: 35
+Range 1: 5 to 35
+
+Score:34.6 bits(37), Expect:7e-05, 
+Identities:26/31(84%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  1   CAAAACCCGCCCTTTCGGCGGGTTTTTTTTG  31
+           ||||||||||    || ||||||||||||||
+Sbjct  5   CAAAACCCGCTTAATCAGCGGGTTTTTTTTG  35
+
+
+
+
+>657517_-
+Sequence ID: Query_98393 Length: 35
+Range 1: 1 to 31
+
+Score:34.6 bits(37), Expect:7e-05, 
+Identities:26/31(84%),  Gaps:0/31(0%), Strand: Plus/Minus
+
+Query  1   CAAAACCCGCCCTTTCGGCGGGTTTTTTTTG  31
+           ||||||||||    || ||||||||||||||
+Sbjct  31  CAAAACCCGCTTAATCAGCGGGTTTTTTTTG  1
+
+
+
+
+>3270179_-
+Sequence ID: Query_99281 Length: 34
+Range 1: 7 to 29
+
+Score:32.8 bits(35), Expect:3e-04, 
+Identities:23/26(88%),  Gaps:3/26(11%), Strand: Plus/Plus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTT  27
+           |||||||||   ||||||||||||||
+Sbjct  7   AAAACCCGC---TTCGGCGGGTTTTT  29
+
+
+
+
+>3270066_-
+Sequence ID: Query_99280 Length: 34
+Range 1: 7 to 29
+
+Score:32.8 bits(35), Expect:3e-04, 
+Identities:23/26(88%),  Gaps:3/26(11%), Strand: Plus/Plus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTT  27
+           |||||||||   ||||||||||||||
+Sbjct  7   AAAACCCGC---TTCGGCGGGTTTTT  29
+
+
+
+
+>3110479_+
+Sequence ID: Query_99217 Length: 35
+Range 1: 5 to 30
+
+Score:30.1 bits(32), Expect:0.001, 
+Identities:22/26(85%),  Gaps:0/26(0%), Strand: Plus/Minus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTT  27
+           |||||||||| | | |||||||| ||
+Sbjct  30  AAAACCCGCCTTGTGGGCGGGTTCTT  5
+
+
+
+
+Range 2: 8 to 31
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:20/24(83%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  4   AACCCGCCCTTTCGGCGGGTTTTT  27
+           |||||||||    |||||||||||
+Sbjct  8   AACCCGCCCACAAGGCGGGTTTTT  31
+
+
+
+
+>3110450_-
+Sequence ID: Query_99216 Length: 37
+Range 1: 7 to 32
+
+Score:30.1 bits(32), Expect:0.001, 
+Identities:22/26(85%),  Gaps:0/26(0%), Strand: Plus/Plus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTT  27
+           |||||||||| | | |||||||| ||
+Sbjct  7   AAAACCCGCCTTGTGGGCGGGTTCTT  32
+
+
+
+
+Range 2: 6 to 29
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:20/24(83%),  Gaps:0/24(0%), Strand: Plus/Minus
+
+Query  4   AACCCGCCCTTTCGGCGGGTTTTT  27
+           |||||||||    |||||||||||
+Sbjct  29  AACCCGCCCACAAGGCGGGTTTTT  6
+
+
+
+
+>1645028_-
+Sequence ID: Query_98725 Length: 44
+Range 1: 21 to 44
+
+Score:30.1 bits(32), Expect:0.001, 
+Identities:23/27(85%),  Gaps:3/27(11%), Strand: Plus/Plus
+
+Query  4   AACCCGCCCTTTCGGCGGGTTTTTTTT  30
+           |||||||   |||||||||||||| ||
+Sbjct  21  AACCCGC---TTCGGCGGGTTTTTGTT  44
+
+
+
+
+>2286330_+
+Sequence ID: Query_98940 Length: 35
+Range 1: 6 to 33
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:23/28(82%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTTTT  29
+           ||||||  ||||| |||  |||||||||
+Sbjct  6   AAAACCAACCCTTACGGTTGGTTTTTTT  33
+
+
+
+
+>2286296_-
+Sequence ID: Query_98939 Length: 35
+Range 1: 3 to 30
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:23/28(82%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTTTT  29
+           ||||||  ||||| |||  |||||||||
+Sbjct  30  AAAACCAACCCTTACGGTTGGTTTTTTT  3
+
+
+
+
+>1922050_+
+Sequence ID: Query_98835 Length: 49
+Range 1: 9 to 36
+
+Score:29.2 bits(31), Expect:0.003, 
+Identities:23/28(82%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  4   AACCCGCCCTTTCGGCGGGTTTTTTTTG  31
+           |||||||| |  || |||||| ||||||
+Sbjct  36  AACCCGCCATGCCGACGGGTTCTTTTTG  9
+
+
+
+
+>2564427_+
+Sequence ID: Query_99030 Length: 47
+Range 1: 15 to 41
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:22/27(81%),  Gaps:0/27(0%), Strand: Plus/Plus
+
+Query  5   ACCCGCCCTTTCGGCGGGTTTTTTTTG  31
+           ||||| ||  ||| |||||||||| ||
+Sbjct  15  ACCCGGCCCCTCGCCGGGTTTTTTGTG  41
+
+
+
+
+>1821861_-
+Sequence ID: Query_98790 Length: 36
+Range 1: 8 to 35
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:24/29(83%),  Gaps:1/29(3%), Strand: Plus/Plus
+
+Query  3   AAACCCGCCCTTTCGGCGGGTTTTTTTTG  31
+           ||||| ||| || || ||| |||||||||
+Sbjct  8   AAACCGGCCATTGCGCCGG-TTTTTTTTG  35
+
+
+
+
+>1286569_+
+Sequence ID: Query_98615 Length: 38
+Range 1: 18 to 34
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  14  TTCGGCGGGTTTTTTTT  30
+           ||||||||| |||||||
+Sbjct  18  TTCGGCGGGGTTTTTTT  34
+
+
+
+
+>1260888_-
+Sequence ID: Query_98608 Length: 34
+Range 1: 7 to 31
+
+Score:27.4 bits(29), Expect:0.011, 
+Identities:23/28(82%),  Gaps:3/28(10%), Strand: Plus/Plus
+
+Query  2   AAAACCCGCCCTTTCGGCGGGTTTTTTT  29
+           || ||||||   | ||||||||||||||
+Sbjct  7   AAGACCCGC---TGCGGCGGGTTTTTTT  31
+
+
+
+
+>2653353_-
+Sequence ID: Query_99060 Length: 36
+Range 1: 6 to 36
+
+Score:26.5 bits(28), Expect:0.011, 
+Identities:25/31(81%),  Gaps:1/31(3%), Strand: Plus/Plus
+
+Query  2   AAAACCCGCCCT-TTCGGCGGGTTTTTTTTG  31
+           |||| |||||   |||||||| ||||| |||
+Sbjct  6   AAAAACCGCCAAATTCGGCGGTTTTTTATTG  36
+
+
+
+
+>3982846_+
+Sequence ID: Query_99517 Length: 34
+Range 1: 16 to 31
+
+Score:25.6 bits(27), Expect:0.039, 
+Identities:15/16(94%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  14  TTCGGCGGGTTTTTTT  29
+           ||||||||| ||||||
+Sbjct  16  TTCGGCGGGGTTTTTT  31
+
+
+
+
+>4027233_-
+Sequence ID: Query_99534 Length: 35
+Range 1: 22 to 34
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  17  GGCGGGTTTTTTT  29
+           |||||||||||||
+Sbjct  22  GGCGGGTTTTTTT  34
+
+
+
+
+>2654157_+
+Sequence ID: Query_99063 Length: 37
+Range 1: 12 to 34
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  7   CCGCCCTTTCGGCGGGTTTTTTT  29
+           ||||||||| |||||  | ||||
+Sbjct  12  CCGCCCTTTGGGCGGCATATTTT  34
+
+
+
+
+>2654130_-
+Sequence ID: Query_99062 Length: 37
+Range 1: 4 to 26
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  7   CCGCCCTTTCGGCGGGTTTTTTT  29
+           ||||||||| |||||  | ||||
+Sbjct  26  CCGCCCTTTGGGCGGCATATTTT  4
+
+
+
+
+>1686703_-
+Sequence ID: Query_98741 Length: 34
+Range 1: 10 to 32
+
+Score:24.7 bits(26), Expect:0.039, 
+Identities:19/23(83%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  7   CCGCCCTTTCGGCGGGTTTTTTT  29
+           ||||||||  ||  |||||||||
+Sbjct  10  CCGCCCTTCGGGGCGGTTTTTTT  32
+
+
+
+
+
+
+
+		
+
+
